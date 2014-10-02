@@ -40,3 +40,4 @@ List
 | **.NET / C# / Azure** | .NET, ASP.NET, C#, Azure, Xamarin | Skype | http://bit.ly/dotnet-chat        | |
 | **Startups**         | Startups, Entrepreneurship    | Skype | http://bit.ly/startups-ua-chat    | |
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | http://bit.ly/mobile-web-ua | |
+| **React.js UA**      | React, Flux                   | Skype | http://bit.ly/reactjs-chat | |
