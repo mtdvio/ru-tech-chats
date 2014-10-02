@@ -22,6 +22,7 @@ List
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...  | Skype | http://bit.ly/frontend-ua         | **Limit reached**. Invites only |
 | **AngularJS UA**     | AngularJS, Javascript         | Skype | http://bit.ly/angular-ua          |   |
 | **Ember Chat**       | EmberJS                       | Skype | http://tinyurl.com/skype-ember-ua |   |
+| **ReactJS**          | ReactJS, Flux                 | Skype | http://bit.ly/reactjs-chat        |   |
 | **Python UA**        | Python                        | Skype | http://bit.ly/python-ua           |   |
 | **Ruby/RoR**         | Ruby, Rails                   | Skype | http://bit.ly/ruby-ua             |   |
 | **JavaChat**         | Java, JVM                     | Skype | http://bit.ly/javachatru          |   |
