@@ -11,7 +11,7 @@ General rules:
 
 
 | Name | Technologies | Chat Client | Link | Join rules |
-|--- |---|:-:|:-:|:-:|
+|--- |---|:-:|---|:-:|
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...  | Skype | http://bit.ly/frontend-ua         | **Limit reached**. Invites only |
 | **AngularJS UA**     | AngularJS, Javascript         | Skype | http://bit.ly/angular-ua          |   |
 | **Ember Chat**       | EmberJS                       | Skype | http://tinyurl.com/skype-ember-ua |   |
