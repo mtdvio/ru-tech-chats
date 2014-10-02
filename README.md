@@ -29,6 +29,6 @@ General rules:
 | **Go Lang**          | Go                            | Skype | http://is.gd/0hu7AR               | |
 | **DIY / Glory to the sad Robots** | Hardware, Microcontrollers, Robotics| Skype | http://bit.ly/robots-chat | |
 | **Dart group**       | Dart                          | Skype | http://bit.ly/dart-chat           | |
-| **.Net / C# / Azure** | .Net, C#, Windows Azure       | Skype | http://bit.ly/http://bit.ly/startups-ua-chat        | |
+| **.Net / C# / Azure** | .Net, C#, Windows Azure       | Skype | http://bit.ly/dotnet-chat        | |
 | **Startups**         | Startups, Entrepreneurship    | Skype | http://bit.ly/startups-ua-chat    | |
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | http://bit.ly/mobile-web-ua | |
