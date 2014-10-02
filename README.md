@@ -1,3 +1,15 @@
+This is a list of Russian-speaking IT chats.
+
+General rules:
+
+* no HR are allowed
+* no job propositions spam
+* use tags like `@question` `@link` `@offtop`
+
+*Feel free to make pull requests!*
+
+
+
 | Name | Technologies | Chat Client | Link | Join rules |
 |--- |---|:-:|:-:|:-:|
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...  | Skype | http://bit.ly/frontend-ua         | **Limit reached**. Invites only |
