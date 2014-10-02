@@ -41,3 +41,4 @@ List
 | **Startups**         | Startups, Entrepreneurship    | Skype | http://bit.ly/startups-ua-chat    | |
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | http://bit.ly/mobile-web-ua | |
 | **#javascript**    | javascript, nodejs, angularjs, ... | IRC | http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C | |
+| **#webdev**    | Web-development theory and practice | IRC | http://webdev.a-ec.name | |
