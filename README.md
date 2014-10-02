@@ -1,6 +1,7 @@
 This is a list of Russian-speaking IT chats.
 
-General rules:
+General rules
+-------------
 
 * no HR are allowed
 * no job propositions spam (`перспективная-компания-лидер-рынка ишет 5 лет super senior swift developer`)
@@ -8,7 +9,13 @@ General rules:
 
 *Feel free to make pull requests!*
 
+Can I help?
+-----------
 
+If you hate skype, you can join this project: https://github.com/openconf/jschat
+
+List 
+----
 
 | Name | Technologies | Chat Client | Link | Join rules |
 |--- |---|:-:|---|:-:|
