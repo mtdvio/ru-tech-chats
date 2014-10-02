@@ -3,7 +3,7 @@ This is a list of Russian-speaking IT chats.
 General rules:
 
 * no HR are allowed
-* no job propositions spam
+* no job propositions spam (`перспективная-компания-лидер-рынка ишет 5 лет super senior swift developer`)
 * use tags like `@question` `@link` `@offtop`
 
 *Feel free to make pull requests!*
