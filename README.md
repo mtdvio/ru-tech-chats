@@ -44,3 +44,4 @@ List
 | **SwiftChat**        | Swift, iOS, OSX                 | Skype | [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
 | **ScalaChat**        | Scala, JVM, Software Design     | Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
+| **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
