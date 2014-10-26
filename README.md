@@ -37,6 +37,7 @@ List
 | **NodeJS UA**        | NodeJS                          | Skype | [bit.ly/nodejs-ua](http://bit.ly/nodejs-ua) | |
 | **PHP UA**           | PHP                             | Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | |
 | **Python UA**        | Python                          | Skype | [bit.ly/python-ua](bit.ly/python-ua) | |
+| **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](bit.ly/test-automation-chat) | |
 | **React.js**         | Facebook React, Flux            | Skype | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat) | |
 | **Ruby/RoR**         | Ruby, Rails                     | Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
 | **RustUA**           | Rust                            | Skype | [bit.ly/rust-ua](http://bit.ly/rust-ua) | |
