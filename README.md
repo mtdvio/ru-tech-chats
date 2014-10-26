@@ -23,6 +23,7 @@ List
 | **Android Chat**     | Android                         | Skype | [bit.ly/androidchat](http://bit.ly/androidchat) | |
 | **Cocoa Chat**       | Cocoa                           | Skype | [bit.ly/cocoa-chat](http://bit.ly/cocoa-chat) | Read guidelines or be banned! |
 | **Dart group**       | Dart                            | Skype | [bit.ly/dart-chat](http://bit.ly/dart-chat) | |
+| **DevOps for Devs**  | Vagrant, Docker, Dokku OH MY!   | Skype | [bit.ly/devops-for-devs](http://bit.ly/devops-for-devs) | |
 | **DIY / Glory to the sad Robots** | Hardware, Microcontrollers, Robotics| Skype | [bit.ly/robots-chat](http://bit.ly/robots-chat) | |
 | **Ember Chat**       | EmberJS                         | Skype | [tinyurl.com/skype-ember-ua](http://tinyurl.com/skype-ember-ua) | |
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...    | Skype | [bit.ly/frontend-ua](http://bit.ly/frontend-ua) | **Limit reached**. Invites only |
