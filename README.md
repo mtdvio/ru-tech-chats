@@ -19,7 +19,7 @@ List
 
 | Name                 | Technologies                    | Chat Client | Link | Join rules |
 |--------------------- | ------------------------------- |:-----:|---|:-:|
-| **AngularJS UA**     | AngularJS, Javascript           | Skype | [bit.ly/angular-ua](http://bit.ly/angular-ua) | |
+| **AngularJS UA**     | AngularJS, Javascript           | [Gitter](gitter.im) | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dev-ua/angularjs)| |
 | **Android Chat**     | Android                         | Skype | [bit.ly/androidchat](http://bit.ly/androidchat) | |
 | **Cocoa Chat**       | Cocoa                           | Skype | [bit.ly/cocoa-chat](http://bit.ly/cocoa-chat) | Read guidelines or be banned! |
 | **Dart group**       | Dart                            | Skype | [bit.ly/dart-chat](http://bit.ly/dart-chat) | |
