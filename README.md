@@ -19,14 +19,14 @@ List
 
 | Name                 | Technologies                    | Chat Client | Link | Join rules |
 |--------------------- | ------------------------------- |:-----:|---|:-:|
-| **AngularJS UA**     | AngularJS, Javascript           | [Gitter](gitter.im) | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dev-ua/angularjs)| |
+| **AngularJS UA**     | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://angular.im) | [angular.im](http://angular.im) | |
 | **Android Chat**     | Android                         | Skype | [bit.ly/androidchat](http://bit.ly/androidchat) | |
 | **Cocoa Chat**       | Cocoa                           | Skype | [bit.ly/cocoa-chat](http://bit.ly/cocoa-chat) | Read guidelines or be banned! |
 | **Dart group**       | Dart                            | Skype | [bit.ly/dart-chat](http://bit.ly/dart-chat) | |
 | **DevOps for Devs**  | Vagrant, Docker, Dokku OH MY!   | Skype | [bit.ly/devops-for-devs](http://bit.ly/devops-for-devs) | |
 | **DIY / Glory to the sad Robots** | Hardware, Microcontrollers, Robotics| Skype | [bit.ly/robots-chat](http://bit.ly/robots-chat) | |
 | **Ember Chat**       | EmberJS                         | Skype | [tinyurl.com/skype-ember-ua](http://tinyurl.com/skype-ember-ua) | |
-| **Frontend UA**      | HTML5, CSS3, Javascript, ...    | Skype | [bit.ly/frontend-ua](http://bit.ly/frontend-ua) | **Limit reached**. Invites only |
+| **Frontend UA**      | HTML5, CSS3, Javascript, ...    | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://frontendua.im) | [frontendua.im](http://frontendua.im) | |
 | **Go Lang**          | Go                              | Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
@@ -38,7 +38,7 @@ List
 | **PHP UA**           | PHP                             | Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | |
 | **Python UA**        | Python                          | Skype | [bit.ly/python-ua](bit.ly/python-ua) | |
 | **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](bit.ly/test-automation-chat) | |
-| **React.js**         | Facebook React, Flux            | Skype | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat) | |
+| **React.js**         | Facebook React, Flux            | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dev-ua/reactjs) | [gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
 | **Ruby/RoR**         | Ruby, Rails                     | Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
 | **RustUA**           | Rust                            | Skype | [bit.ly/rust-ua](http://bit.ly/rust-ua) | |
 | **RuHaxe**           | Haxe                            | Skype | [bit.ly/ru-haxe-chat](http://bit.ly/ru-haxe-chat) | |
