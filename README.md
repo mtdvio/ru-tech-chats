@@ -29,6 +29,7 @@ List
 | **Ember Chat**       | EmberJS                         | Skype | [tinyurl.com/skype-ember-ua](http://tinyurl.com/skype-ember-ua) | |
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...    | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://frontendua.im) | [frontendua.im](http://frontendua.im) | |
 | **Go Lang**          | Go                              | Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
+| **HangOps.ru**       | Russian DevOps Hangouts         | Skype | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
 | **#javascript**      | javascript, nodejs, angularjs, ... | IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
