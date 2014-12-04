@@ -40,7 +40,7 @@ List
 | **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](bit.ly/test-automation-chat) | |
 | **React.js**         | Facebook React, Flux            | Skype | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat) | |
 | **Ruby/RoR**         | Ruby, Rails                     | Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
-| **Ruby&whatever**    | Ruby                            | Skype | |
+| **Ruby&whatever**    | Ruby                            | Skype | [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. |
 | **RustUA**           | Rust                            | Skype | [bit.ly/rust-ua](http://bit.ly/rust-ua) | |
 | **RuHaxe**           | Haxe                            | Skype | [bit.ly/ru-haxe-chat](http://bit.ly/ru-haxe-chat) | |
 | **Startups**         | Startups, Entrepreneurship      | Skype | [bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat) | |
