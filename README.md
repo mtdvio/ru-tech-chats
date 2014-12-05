@@ -39,7 +39,7 @@ List
 | **PHP UA**           | PHP                             | Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | |
 | **Python UA**        | Python                          | Skype | [bit.ly/python-ua](bit.ly/python-ua) | |
 | **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](bit.ly/test-automation-chat) | |
-| **React.js**         | Facebook React, Flux            | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dev-ua/reactjs) | [gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
+| **ReactJS**          | ReactJS, Flux                   | Skype<br>Gitter | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat)<br>[gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
 | **Ruby/RoR**         | Ruby, Rails                     | Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
 | **Ruby&whatever**    | Ruby                            | Skype | [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. |
 | **RustUA**           | Rust                            | Skype | [bit.ly/rust-ua](http://bit.ly/rust-ua) | |
