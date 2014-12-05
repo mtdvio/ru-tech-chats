@@ -41,6 +41,7 @@ List
 | **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](bit.ly/test-automation-chat) | |
 | **React.js**         | Facebook React, Flux            | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dev-ua/reactjs) | [gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
 | **Ruby/RoR**         | Ruby, Rails                     | Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
+| **Ruby&whatever**    | Ruby                            | Skype | [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. |
 | **RustUA**           | Rust                            | Skype | [bit.ly/rust-ua](http://bit.ly/rust-ua) | |
 | **RuHaxe**           | Haxe                            | Skype | [bit.ly/ru-haxe-chat](http://bit.ly/ru-haxe-chat) | |
 | **Startups**         | Startups, Entrepreneurship      | Skype | [bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat) | |
