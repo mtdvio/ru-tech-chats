@@ -32,6 +32,7 @@ List
 | **HangOps.ru**       | Russian DevOps Hangouts         | Skype | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
+| **True Java**        | Java, JVM, Software, Design     | Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
 | **#javascript**      | javascript, nodejs, angularjs, ... | IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Lovely Clojure**   | Clojure, Clojurescript,  FP     | Skype | [tinyurl.com/clj-cljs](http://tinyurl.com/clj-cljs) | |
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | [bit.ly/mobile-web-ua](http://bit.ly/mobile-web-ua) | |
