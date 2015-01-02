@@ -6,6 +6,7 @@ General rules
 * no HR are allowed
 * no job propositions spam (`перспективная-компания-лидер-рынка ишет 5 лет super senior swift developer`)
 * use tags like `@question` `@link` `@offtop`
+* why so many chats are called `<topic>-UA`? Read about it [here](https://gist.github.com/listochkin/c81c198a2b7b044a0dc5).
 
 *Feel free to make pull requests!*
 
