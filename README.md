@@ -23,6 +23,7 @@ List
 | **AngularJS UA**     | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://angular.im) | [angular.im](http://angular.im) | |
 | **Android United**     | Android                         | Skype | [bit.ly/androidchat](http://bit.ly/androidchat) | See below |
 | **Android Chat Manual Join**     | Android                         | Skype | [http://bit.ly/1yC7oTR](http://bit.ly/1yC7oTR) | Join this chat and ask to add you to Android United |
+| **Android Developers UA**     | Android                | Skype | [http://bit.ly/1xYAFuf](http://bit.ly/1xYAFuf) | |
 | **Cocoa Chat**       | Cocoa                           | Skype | [bit.ly/cocoa-chat](http://bit.ly/cocoa-chat) | Read guidelines or be banned! |
 | **Dart group**       | Dart                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/dart)<br>Skype | [bit.ly/dart-chat](http://bit.ly/dart-chat) | |
 | **DevOps for Devs**  | Vagrant, Docker, Dokku OH MY!   | Skype | [bit.ly/devops-for-devs](http://bit.ly/devops-for-devs) | |
