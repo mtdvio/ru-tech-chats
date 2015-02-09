@@ -43,8 +43,8 @@ List
 | **.NET, C#, Azure**  | .NET, ASP.NET, C#, Azure, Xamarin | Skype | [bit.ly/dotnet-chat](http://bit.ly/dotnet-chat) | |
 | **NodeJS UA**        | NodeJS                          | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | Also DevOps and NoSQL |
 | **PHP UA**           | PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/php)<br>Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | Chat migrated to Gitter |
-| **Python UA**        | Python                          | Skype | [bit.ly/python-ua](bit.ly/python-ua) | |
-| **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](bit.ly/test-automation-chat) | |
+| **Python UA**        | Python                          | Skype | [bit.ly/python-ua](http://bit.ly/python-ua) | |
+| **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](http://bit.ly/test-automation-chat) | |
 | **ReactJS**          | ReactJS, Flux                   | Skype<br>Gitter | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat)<br>[gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
 | **Ruby/RoR**         | Ruby, Rails                     | Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
 | **Ruby&whatever**    | Ruby                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ruby-ua)<br>Skype | [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. |
