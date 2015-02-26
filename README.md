@@ -56,4 +56,5 @@ List
 | **SwiftChat**        | Swift, iOS, OSX                 | Skype | [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
 | **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
+| **Трактористы СНГ**    | | Gitter | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tractor-rus/chat) | |
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
