@@ -44,6 +44,7 @@ List
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | [bit.ly/mobile-web-ua](http://bit.ly/mobile-web-ua) | |
 | **.NET, C#, Azure**  | .NET, ASP.NET, C#, Azure, Xamarin | Skype | [bit.ly/dotnet-chat](http://bit.ly/dotnet-chat) | |
 | **NodeJS UA**        | NodeJS                          | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | Also DevOps and NoSQL |
+| **Phalcon RUS**           | Phalcon, PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | |
 | **PHP UA**           | PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/php)<br>Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | Chat migrated to Gitter |
 | **Python UA**        | Python                          | Skype | [bit.ly/python-ua](http://bit.ly/python-ua) | |
 | **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](http://bit.ly/test-automation-chat) | |
