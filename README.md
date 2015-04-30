@@ -43,6 +43,7 @@ List
 | **Laravel**   | Laravel, PHP     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | |
 | **Lovely Clojure**   | Clojure, Clojurescript,  FP     | Skype | [tinyurl.com/clj-cljs](http://tinyurl.com/clj-cljs) | |
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | [bit.ly/mobile-web-ua](http://bit.ly/mobile-web-ua) | |
+| **MoscowJS**         | HTML5, CSS3, Javascript         | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MoscowJS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MoscowJS/chat) | |
 | **.NET, C#, Azure**  | .NET, ASP.NET, C#, Azure, Xamarin | Skype | [bit.ly/dotnet-chat](http://bit.ly/dotnet-chat) | |
 | **NodeJS UA**        | NodeJS                          | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | Also DevOps and NoSQL |
 | **Phalcon RUS**           | Phalcon, PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | |
