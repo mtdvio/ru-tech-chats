@@ -49,8 +49,8 @@ List
 | **Python UA**        | Python                          | Skype | [bit.ly/python-ua](http://bit.ly/python-ua) | |
 | **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](http://bit.ly/test-automation-chat) | |
 | **ReactJS**          | ReactJS, Flux                   | Skype<br>Gitter | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat)<br>[gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
-| **Ruby/RoR**         | Ruby, Rails                     | Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
-| **Ruby&whatever**    | Ruby                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ruby-ua)<br>Skype | [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. |
+| **Ruby/RoR**         | Ruby, Rails                     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ruby-ua)<br>Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
+| **Ruby&whatever**    | Ruby                            | Skype | [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. |
 | **RustUA**           | Rust                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/rust) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/rust) | |
 | **RuHaxe**           | Haxe                            | Skype | [bit.ly/ru-haxe-chat](http://bit.ly/ru-haxe-chat) | |
 | **Startups**         | Startups, Entrepreneurship      | Skype | [bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat) | |
