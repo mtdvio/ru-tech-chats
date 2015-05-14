@@ -20,6 +20,7 @@ List
 
 | Name                 | Technologies                    | Chat Client | Link | Join rules |
 |--------------------- | ------------------------------- |:-----:|---|:-:|
+| **Angular RUS**      | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AngularjsRUS/chat) | [https://gitter.im/AngularjsRUS/chat](https://gitter.im/AngularjsRUS/chat) | |
 | **AngularJS UA**     | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://angular.im) | [angular.im](http://angular.im) | |
 | **Android United**     | Android                         | Skype | [bit.ly/androidchat](http://bit.ly/androidchat) | See below |
 | **Android Chat Manual Join**     | Android                         | Skype | [http://bit.ly/1yC7oTR](http://bit.ly/1yC7oTR) | Join this chat and ask to add you to Android United |
@@ -38,6 +39,7 @@ List
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
 | **Java Professionals By** | Java, JVM                  | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaBy/chat) | [gitter.im/JavaBy/chat](https://gitter.im/JavaBy/chat) | |
+| **jQuery RUS**      | jQuery, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jQueryRUS/chat) | [https://gitter.im/jQueryRUS/chat](https://gitter.im/jQueryRUS/chat) | |
 | **True Java**        | Java, JVM, Software, Design     | Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
 | **#javascript**      | javascript, nodejs, angularjs, ... | IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Laravel**   | Laravel, PHP     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | |
@@ -45,6 +47,7 @@ List
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | [bit.ly/mobile-web-ua](http://bit.ly/mobile-web-ua) | |
 | **MoscowJS**         | HTML5, CSS3, Javascript         | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MoscowJS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MoscowJS/chat) | |
 | **.NET, C#, Azure**  | .NET, ASP.NET, C#, Azure, Xamarin | Skype | [bit.ly/dotnet-chat](http://bit.ly/dotnet-chat) | |
+| **NodeJS RUS**       | NodeJS           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/NodejsRUS/chat) | [https://gitter.im/NodejsRUS/chat](https://gitter.im/NodejsRUS/chat) | |
 | **NodeJS UA**        | NodeJS                          | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | Also DevOps and NoSQL |
 | **Phalcon RUS**           | Phalcon, PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | |
 | **PHP UA**           | PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/php)<br>Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | Chat migrated to Gitter |
