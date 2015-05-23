@@ -65,3 +65,4 @@ List
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Трактористы СНГ**    | | Gitter | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tractor-rus/chat) | |
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
+| **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/ruitchat | |
