@@ -43,6 +43,7 @@ List
 | **True Java**        | Java, JVM, Software, Design     | Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
 | **#javascript**      | javascript, nodejs, angularjs, ... | IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Laravel**   | Laravel, PHP     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | |
+| **Laravel Framework**   | Laravel Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | |
 | **Lovely Clojure**   | Clojure, Clojurescript,  FP     | Skype | [tinyurl.com/clj-cljs](http://tinyurl.com/clj-cljs) | |
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | [bit.ly/mobile-web-ua](http://bit.ly/mobile-web-ua) | |
 | **MoscowJS**         | HTML5, CSS3, Javascript         | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MoscowJS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MoscowJS/chat) | |
@@ -50,7 +51,9 @@ List
 | **NodeJS RUS**       | NodeJS           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/NodejsRUS/chat) | [https://gitter.im/NodejsRUS/chat](https://gitter.im/NodejsRUS/chat) | |
 | **NodeJS UA**        | NodeJS                          | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | Also DevOps and NoSQL |
 | **Phalcon RUS**           | Phalcon, PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | |
+| **Phalcon Framework**           | Phalcon Framework                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/phalcon) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/phalcon) | |
 | **PHP UA**           | PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/php)<br>Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | Chat migrated to Gitter |
+| **PHP Community**        | PHP Community     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/php) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/php) | |
 | **Python UA**        | Python                          | Skype | [bit.ly/python-ua](http://bit.ly/python-ua) | |
 | **QAC: Automation in testing** | QA and Automation     | Skype | [bit.ly/test-automation-chat](http://bit.ly/test-automation-chat) | |
 | **ReactJS**          | ReactJS, Flux                   | Skype<br>Gitter | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat)<br>[gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
@@ -62,6 +65,9 @@ List
 | **Scala UA**         | Scala, JVM                      | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>Skype | [bit.ly/scala-ua](http://bit.ly/scala-ua) | Skype is a read-only archive |
 | **SwiftChat**        | Swift, iOS, OSX                 | Skype | [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
 | **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
+| **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
+| **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
+| **Zend Framework**        | Zend Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | |
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Трактористы СНГ**    | | Gitter | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tractor-rus/chat) | |
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
