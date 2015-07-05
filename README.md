@@ -72,3 +72,5 @@ List
 | **Трактористы СНГ**    | | Gitter | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tractor-rus/chat) | |
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
 | **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/ruitchat | |
+| **GameDev без политоты**          | GameDev | Skype | [bit.ly/ru-gamedev-skype-chat](https://bit.ly/ru-gamedev-skype-chat) | |
+| **Haxe**          | Haxe | Slack | [haxe.slack.com](https://haxe.slack.com/) | |
