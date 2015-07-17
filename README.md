@@ -25,6 +25,8 @@ List
 | **Android United**     | Android                         | Skype | [bit.ly/androidchat](http://bit.ly/androidchat) | See below |
 | **Android Chat Manual Join**     | Android                         | Skype | [http://bit.ly/1yC7oTR](http://bit.ly/1yC7oTR) | Join this chat and ask to add you to Android United |
 | **Android Developers UA**     | Android                | Skype | [http://bit.ly/1xYAFuf](http://bit.ly/1xYAFuf) | |
+| **Android Developers RU**     | Android                | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://goo.gl/LH6TRR) | [https://goo.gl/LH6TRR](https://goo.gl/LH6TRR) |
+|
 | **Cocoa Chat**       | Cocoa                           | Skype | [bit.ly/cocoa-chat](http://bit.ly/cocoa-chat) | Read guidelines or be banned! |
 | **Clojure UA**   | Clojure, Clojurescript,  FP     |[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/clojure) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/clojure) | |
 | **Dart group**       | Dart                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/dart)<br>Skype | [bit.ly/dart-chat](http://bit.ly/dart-chat) | |
