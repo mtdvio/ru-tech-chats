@@ -39,6 +39,7 @@ List
 | **HangOps.ru**       | Russian DevOps Hangouts         | Skype | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
 | **Haskell UA**          | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell)
 | **Haskell**              | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | |
+| **Hexlet**      | CS, Java, Ruby, PHP, JS    | Slack | [slack-ru.hexlet.io](http://slack-ru.hexlet.io/) | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
 | **Java Professionals By** | Java, JVM                  | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaBy/chat) | [gitter.im/JavaBy/chat](https://gitter.im/JavaBy/chat) | |
