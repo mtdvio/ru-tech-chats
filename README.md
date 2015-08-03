@@ -15,7 +15,7 @@ Can I help?
 
 If you hate skype, you can join this project: https://github.com/openconf/jschat
 
-List 
+List
 ----
 
 | Name                 | Technologies                    | Chat Client | Link | Join rules |
@@ -75,4 +75,5 @@ List
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Трактористы СНГ**    | | Gitter | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tractor-rus/chat) | |
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
+| **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/ruitchat | |
