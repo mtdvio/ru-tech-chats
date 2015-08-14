@@ -35,10 +35,12 @@ List
 | **Ember Chat**       | EmberJS                         | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ember) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ember) | |
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...    | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://frontendua.im) | [frontendua.im](http://frontendua.im) | |
 | **Frontend KZ**      | HTML5, CSS3, Javascript, ...    | Slack | [http://frontendkz.github.io/](http://frontendkz.github.io/) | |
+| **GameDev без политоты**          | GameDev | Skype | [bit.ly/ru-gamedev-skype-chat](https://bit.ly/ru-gamedev-skype-chat) | |
 | **Go Lang**          | Go                              | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/go)<br>Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
 | **HangOps.ru**       | Russian DevOps Hangouts         | Skype | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
 | **Haskell UA**          | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell)
 | **Haskell**              | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | |
+| **Haxe**          | Haxe | Slack | [haxe.slack.com](https://haxe.slack.com/) | |
 | **Hexlet**      | CS, Java, Ruby, PHP, JS    | Slack | [slack-ru.hexlet.io](http://slack-ru.hexlet.io/) | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
@@ -75,9 +77,5 @@ List
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Трактористы СНГ**    | | Gitter | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tractor-rus/chat) | |
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
-<<<<<<< HEAD
 | **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/itchatnew | |
-=======
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
-| **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/ruitchat | |
->>>>>>> 17ab81c790bf46cd59d40b4f7b6de269e46d3574
