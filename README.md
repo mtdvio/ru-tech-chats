@@ -38,7 +38,8 @@ List
 | **Frontend KZ**      | HTML5, CSS3, Javascript, ...    | Slack | [http://frontendkz.github.io/](http://frontendkz.github.io/) | |
 | **GameDev без политоты**          | GameDev | Skype | [bit.ly/ru-gamedev-skype-chat](https://bit.ly/ru-gamedev-skype-chat) | |
 | **Go Lang**          | Go                              | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/go)<br>Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
-| **HangOps.ru**       | Russian DevOps Hangouts         | Skype | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
+| **HangOps.ru**       | Russian DevOps Hangouts         | Slack | [http://join.hangops.ru](http://join.hangops.ru) | |
+|                      |                                 | Skype (outdated) | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
 | **Haskell UA**          | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell)
 | **Haskell**              | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | |
 | **Haxe**          | Haxe | Slack | [haxe.slack.com](https://haxe.slack.com/) | |
