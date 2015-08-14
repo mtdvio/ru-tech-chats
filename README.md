@@ -22,6 +22,7 @@ List
 |--------------------- | ------------------------------- |:-----:|---|:-:|
 | **Angular RUS**      | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AngularjsRUS/chat) | [https://gitter.im/AngularjsRUS/chat](https://gitter.im/AngularjsRUS/chat) | |
 | **AngularJS UA**     | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://angular.im) | [angular.im](http://angular.im) | |
+| **Android rus-speaking developers chat**| Android | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rus-speaking/android) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rus-speaking/android) | |
 | **Android United**     | Android                         | Skype | [bit.ly/androidchat](http://bit.ly/androidchat) | See below |
 | **Android Chat Manual Join**     | Android                         | Skype | [http://bit.ly/1yC7oTR](http://bit.ly/1yC7oTR) | Join this chat and ask to add you to Android United |
 | **Android Developers UA**     | Android                | Skype | [http://bit.ly/1xYAFuf](http://bit.ly/1xYAFuf) | |
