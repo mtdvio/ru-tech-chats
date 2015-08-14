@@ -43,6 +43,7 @@ List
 | **Haskell**              | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | |
 | **Haxe**          | Haxe | Slack | [haxe.slack.com](https://haxe.slack.com/) | |
 | **Hexlet**      | CS, Java, Ruby, PHP, JS    | Slack | [slack-ru.hexlet.io](http://slack-ru.hexlet.io/) | |
+| **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/itchatnew | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
 | **Java Professionals By** | Java, JVM                  | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaBy/chat) | [gitter.im/JavaBy/chat](https://gitter.im/JavaBy/chat) | |
@@ -73,10 +74,10 @@ List
 | **SwiftChat**        | Swift, iOS, OSX                 | Skype | [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
 | **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
+| **VIM**           | VIM | Skype | http://tinyurl.com/ruvimchat ||
+| **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
 | **Zend Framework**        | Zend Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | |
-| **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
+| **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Трактористы СНГ**    | | Gitter | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tractor-rus/chat) | |
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
-| **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/itchatnew | |
-| **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
