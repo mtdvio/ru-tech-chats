@@ -75,7 +75,7 @@ List
 | **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
 | **VIM**           | VIM | Skype | http://tinyurl.com/ruvimchat ||
-| **Web Standards**| HTML, CSS, SVG, JS | Slack | http://slack.web-standards.ru ||
+| **Web Standards**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
 | **Zend Framework**        | Zend Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | |
