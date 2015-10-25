@@ -27,7 +27,6 @@ List
 | **Android Chat Manual Join**     | Android                         | Skype | [http://bit.ly/1yC7oTR](http://bit.ly/1yC7oTR) | Join this chat and ask to add you to Android United |
 | **Android Developers UA**     | Android                | Skype | [http://bit.ly/1xYAFuf](http://bit.ly/1xYAFuf) | |
 | **Android Developers RU**     | Android                | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://goo.gl/LH6TRR) | [https://goo.gl/LH6TRR](https://goo.gl/LH6TRR) |
-|
 | **Cocoa Chat**       | Cocoa                           | Skype | [bit.ly/cocoa-chat](http://bit.ly/cocoa-chat) | Read guidelines or be banned! |
 | **Clojure UA**   | Clojure, Clojurescript,  FP     |[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/clojure) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/clojure) | |
 | **Dart group**       | Dart                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/dart)<br>Skype | [bit.ly/dart-chat](http://bit.ly/dart-chat) | |
@@ -76,6 +75,7 @@ List
 | **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
 | **VIM**           | VIM | Skype | http://tinyurl.com/ruvimchat ||
+| **Web Standards**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
 | **Zend Framework**        | Zend Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | |
