@@ -20,6 +20,7 @@ List
 
 | Name                 | Technologies                    | Chat Client | Link | Join rules |
 |--------------------- | ------------------------------- |:-----:|---|:-:|
+| **AllThatJS**        | JavaScript                      | Slack | [allthatjs.herokuapp.com](https://allthatjs.herokuapp.com) | |
 | **Angular RUS**      | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AngularjsRUS/chat) | [https://gitter.im/AngularjsRUS/chat](https://gitter.im/AngularjsRUS/chat) | |
 | **AngularJS UA**     | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://angular.im) | [angular.im](http://angular.im) | |
 | **Android rus-speaking developers chat**| Android | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rus-speaking/android) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rus-speaking/android) | |
