@@ -1,5 +1,7 @@
 This is a list of Russian-speaking IT chats.
 
+![Teaser](teaser.jpg)
+
 General rules
 -------------
 
