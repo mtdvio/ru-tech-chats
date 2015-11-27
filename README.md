@@ -83,4 +83,5 @@ List
 | **Веб-стандарты**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| Skype | [http://bit.ly/berlin-ru-it-chat](http://bit.ly/berlin-ru-it-chat) ||
-| **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
+| **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**||
+| **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | Slack        | [http://slack.dev.by](http://slack.dev.by/) |  | |
