@@ -30,7 +30,6 @@ List
 | **Android Developers UA**     | Android                | Skype | [https://join.skype.com/ka6cynd1UTKb](https://join.skype.com/ka6cynd1UTKb) | |
 | **Cocoa Chat**       | Cocoa                           | Skype | [bit.ly/cocoa-chat](http://bit.ly/cocoa-chat) | Read guidelines or be banned! |
 | **Clojure UA**   | Clojure, Clojurescript,  FP     |[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/clojure) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/clojure) | |
-| **Clojure Russia**   | Clojure, Clojurescript,  FP     |Slack | [http://clojurians.net/](http://clojurians.net/) channel #clojure-russia| |
 | **Dart group**       | Dart                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/dart)<br>Skype | [bit.ly/dart-chat](http://bit.ly/dart-chat) | |
 | **DevOps for Devs**  | Vagrant, Docker, Dokku OH MY!   | Skype | [bit.ly/devops-for-devs](http://bit.ly/devops-for-devs) | |
 | **DIY / Glory to the sad Robots** | Hardware, Microcontrollers, Robotics| Skype | [bit.ly/robots-chat](http://bit.ly/robots-chat) | |
@@ -51,7 +50,6 @@ List
 | **Java Professionals By** | Java, JVM                  | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaBy/chat) | [gitter.im/JavaBy/chat](https://gitter.im/JavaBy/chat) | |
 | **jQuery RUS**      | jQuery, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jQueryRUS/chat) | [https://gitter.im/jQueryRUS/chat](https://gitter.im/jQueryRUS/chat) | |
 | **True Java**        | Java, JVM, Software, Design     | Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
-| **TomskJS**        | HTML5, CSS3, Javascript, Design     | [![Slack TomskJS](http://slack.tomskjs.ru/badge.svg)](https://slack.tomskjs.ru) | [slack.tomskjs.ru](http://slack.tomskjs.ru/) | |
 | **#javascript**      | javascript, nodejs, angularjs, ... | IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Laravel**   | Laravel, PHP     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | |
 | **Laravel Framework**   | Laravel Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | |
@@ -74,9 +72,9 @@ List
 | **RuHaxe**           | Haxe                            | Skype | [bit.ly/ru-haxe-chat](http://bit.ly/ru-haxe-chat) | |
 | **Startups**         | Startups, Entrepreneurship      | Skype | [bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat) | |
 | **Scala UA**         | Scala, JVM                      | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>Skype | [bit.ly/scala-ua](http://bit.ly/scala-ua) | Skype is a read-only archive |
-| **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | Slack        | [http://slack.dev.by](http://slack.dev.by/) |
 | **SwiftChat**        | Swift, iOS, OSX                 | Skype | [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
 | **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
+| **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | Slack        | [http://slack.dev.by](http://slack.dev.by/) | |
 | **Spb Frontend**        | js, css, html              | Slack, Gitter | [https://spb-frontend.slack.com](https://spb-frontend.slack.com) <br> [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) |  | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
 | **VIM**           | VIM | Skype | http://tinyurl.com/ruvimchat ||
@@ -86,4 +84,4 @@ List
 | **Веб-стандарты**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| Skype | [http://bit.ly/berlin-ru-it-chat](http://bit.ly/berlin-ru-it-chat) ||
-| **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
+| **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**||
