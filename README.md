@@ -1,4 +1,5 @@
 This is a list of Russian-speaking IT chats.
+Список русскоязычных IT-чатов.
 
 ![Teaser](teaser.jpg)
 
