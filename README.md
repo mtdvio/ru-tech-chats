@@ -73,6 +73,7 @@ List
 | **ReactJS**          | ReactJS, Flux                   | Skype<br>Gitter | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat)<br>[gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
 | **Ruby/RoR**         | Ruby, Rails                     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ruby-ua)<br>Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
 | **Ruby&whatever**    | Ruby                            | Skype | [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. |
+| **Rupod**    | Podcasting, IT                            | ![](http://rupod.herokuapp.com/badge.svg) | [bitly.com/rupod](http://bitly.com/rupod ) | Обсуждение рускоязычных подкастов. |
 | **Russian–speaking developers community**     | Russian speaking IT community   | Slack | https://rusdevs.herokuapp.com | |
 | **RustUA**           | Rust                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/rust) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/rust) | |
 | **RuHaxe**           | Haxe                            | Skype | [bit.ly/ru-haxe-chat](http://bit.ly/ru-haxe-chat) | |
