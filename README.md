@@ -40,6 +40,7 @@ List
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...    | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://frontendua.im) | [frontendua.im](http://frontendua.im) | |
 | **Frontend KZ**      | HTML5, CSS3, Javascript, ...    | Slack | [http://frontendkz.github.io/](http://frontendkz.github.io/) | |
 | **GameDev без политоты**          | GameDev | Skype | [bit.ly/ru-gamedev-skype-chat](https://bit.ly/ru-gamedev-skype-chat) | |
+| **How Games are made**          | GameDev | Slack | [http://hgam-invite.herokuapp.com/](http://hgam-invite.herokuapp.com/) | |
 | **Go Lang**          | Go                              | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/go)<br>Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
 | **golang-ru.slack.com**      | Go    | Slack | [https://golang-ru.slack.com/](https://golang-ru.slack.com/) | |
 | **HangOps.ru**       | Russian DevOps Hangouts         | Slack | [http://join.hangops.ru](http://join.hangops.ru) | |
