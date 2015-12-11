@@ -37,7 +37,6 @@ List
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...    | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://frontendua.im) | [frontendua.im](http://frontendua.im) | |
 | **Frontend KZ**      | HTML5, CSS3, Javascript, ...    | Slack | [http://frontendkz.github.io/](http://frontendkz.github.io/) | |
 | **GameDev без политоты**          | GameDev | Skype | [bit.ly/ru-gamedev-skype-chat](https://bit.ly/ru-gamedev-skype-chat) | |
-| **How Games are made**          | GameDev | Slack | [http://hgam-invite.herokuapp.com/](http://hgam-invite.herokuapp.com/) | |
 | **Go Lang**          | Go                              | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/go)<br>Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
 | **golang-ru.slack.com**      | Go    | Slack | [https://golang-ru.slack.com/](https://golang-ru.slack.com/) | |
 | **HangOps.ru**       | Russian DevOps Hangouts         | Slack | [http://join.hangops.ru](http://join.hangops.ru) | |
@@ -46,6 +45,7 @@ List
 | **Haskell**              | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | |
 | **Haxe**          | Haxe | Slack | [haxe.slack.com](https://haxe.slack.com/) | |
 | **Hexlet**      | CS, Java, Ruby, PHP, JS    | Slack | [slack-ru.hexlet.io](http://slack-ru.hexlet.io/) | |
+| **How Games are made**          | GameDev | Slack | [http://hgam-invite.herokuapp.com/](http://hgam-invite.herokuapp.com/) | |
 | **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/itchatnew | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
