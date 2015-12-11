@@ -48,6 +48,7 @@ List
 | **Haskell**              | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | |
 | **Haxe**          | Haxe | Slack | [haxe.slack.com](https://haxe.slack.com/) | |
 | **Hexlet**      | CS, Java, Ruby, PHP, JS    | [![Slack Hexlet](http://slack-ru.hexlet.io/badge.svg)](http://slack-ru.hexlet.io) | [slack-ru.hexlet.io](http://slack-ru.hexlet.io/) | |
+| **How Games are made**          | GameDev | Slack | [http://hgam-invite.herokuapp.com/](http://hgam-invite.herokuapp.com/) | |
 | **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/itchatnew | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
