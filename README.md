@@ -81,7 +81,8 @@ List
 | **Spb Frontend**        | js, css, html              | Slack, Gitter | [https://spb-frontend.slack.com](https://spb-frontend.slack.com) <br> [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) |  | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
 | **VIM**           | VIM | ![Skype](img/skype.png) Skype | http://tinyurl.com/ruvimchat ||
-| **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
+| **#webdev**          | Web-development theory and practice |  ![IRC](img/irc.png) <br>IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
+| **Laravel**   | Laravel, PHP     | [![Gitter](https://badges) <br>IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
 | **Zend Framework**        | Zend Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | |
 | **Веб-стандарты**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
@@ -89,4 +90,4 @@ List
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](img/skype.png) Skype | [http://bit.ly/berlin-ru-it-chat](http://bit.ly/berlin-ru-it-chat) ||
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](img/skype.png) Skype | [Berlin](http://bit.ly/berlin-ru-it-chat) ||
-| **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
+| **Тракторист UA**    | For those who plan to work or works abroad| ![Skype](img/skype.png) <br>Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
