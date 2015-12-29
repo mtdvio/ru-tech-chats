@@ -1,6 +1,6 @@
 This is a list of Russian-speaking IT chats.
 
-![Teaser](img/teaser.png)
+![Teaser](img/teaser.jpg)
 
 General rules
 -------------
@@ -52,7 +52,7 @@ List
 | **Java Professionals By** | Java, JVM                  | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaBy/chat) | [gitter.im/JavaBy/chat](https://gitter.im/JavaBy/chat) | |
 | **jQuery RUS**      | jQuery, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jQueryRUS/chat) | [https://gitter.im/jQueryRUS/chat](https://gitter.im/jQueryRUS/chat) | |
 | **True Java**        | Java, JVM, Software, Design     | ![Skype](img/skype.png) Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
-| **#javascript**      | javascript, nodejs, angularjs, ... | IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
+| **#javascript**      | javascript, nodejs, angularjs, ... | ![IRC](ing/irc.png)IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Laravel**   | Laravel, PHP     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | |
 | **Laravel Framework**   | Laravel Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | |
 | **Lovely Clojure**   | Clojure, Clojurescript,  FP     | ![Skype](img/skype.png) Skype | [tinyurl.com/clj-cljs](http://tinyurl.com/clj-cljs) | |
