@@ -56,10 +56,7 @@ List
 | **Lovely Clojure**   | Clojure, Clojurescript,  FP     | Skype | [tinyurl.com/clj-cljs](http://tinyurl.com/clj-cljs) | |
 | **Mobile Web UA**    | Hybrid apps, Phonegap, Crosswalk ... | Skype | [bit.ly/mobile-web-ua](http://bit.ly/mobile-web-ua) | |
 | **MoscowJS**         | HTML5, CSS3, Javascript         | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MoscowJS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MoscowJS/chat) | |
-<<<<<<< HEAD
-| **TRUE Javascript/Html/Css etc**         | HTML5, CSS3, Javascript         | Skype | <a href="skype:?chat&blob=IV9uaW6yo84jt1LqD3DYsleMshs5xTZwnCmbgJmsWuN6_lgJi68RtFzAoQHk_NCeB7Qt8cf1HMubaBzu86TqUnkxvLjGC_8">Skype</a> | |
-=======
->>>>>>> parent of 0cac554... test
+| **TRUE Javascript/Html/Css etc**         | HTML5, CSS3, Javascript         | Skype | [Skype](skype:?chat&blob=IV9uaW6yo84jt1LqD3DYsleMshs5xTZwnCmbgJmsWuN6_lgJi68RtFzAoQHk_NCeB7Qt8cf1HMubaBzu86TqUnkxvLjGC_8) | |
 | **.NET, C#, Azure**  | .NET, ASP.NET, C#, Azure, Xamarin | Skype | [bit.ly/dotnet-chat](http://bit.ly/dotnet-chat) | |
 | **NodeJS RUS**       | NodeJS           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/NodejsRUS/chat) | [https://gitter.im/NodejsRUS/chat](https://gitter.im/NodejsRUS/chat) | |
 | **NodeJS UA**        | NodeJS                          | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | Also DevOps and NoSQL |
