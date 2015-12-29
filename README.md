@@ -1,6 +1,6 @@
 This is a list of Russian-speaking IT chats.
 
-![Teaser](img/teaser.jpg)
+![Teaser](img/teaser.png)
 
 General rules
 -------------
@@ -66,9 +66,9 @@ List
 | **Phalcon Framework**           | Phalcon Framework                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/phalcon) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/phalcon) | |
 | **PHP UA**           | PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/php)<br>Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | Chat migrated to Gitter |
 | **PHP Community**        | PHP Community     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/php) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/php) | |
-| **Python UA**        | Python                          | ![Skype](img/skype.png) Skype | [bit.ly/python-ua](http://bit.ly/python-ua) | |
-| **QAC: Automation in testing** | QA and Automation     | ![Skype](img/skype.png) Skype | [bit.ly/test-automation-chat](http://bit.ly/test-automation-chat) | |
-| **ReactJS**          | ReactJS, Flux                   | Skype<br>Gitter | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat)<br>[gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
+| **Python UA**        | Python                          | ![Skype](img/skype.png)<br>Skype | [bit.ly/python-ua](http://bit.ly/python-ua) | |
+| **QAC: Automation in testing** | QA and Automation     | ![Skype](img/skype.png)<br>Skype | [bit.ly/test-automation-chat](http://bit.ly/test-automation-chat) | |
+| **ReactJS**          | ReactJS, Flux                   | ![Skype](img/skype.png)<br>Skype<br>Gitter | [bit.ly/reactjs-chat](http://bit.ly/reactjs-chat)<br>[gitter.im/dev-ua/reactjs](https://gitter.im/dev-ua/reactjs) | |
 | **Ruby/RoR**         | Ruby, Rails                     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ruby-ua)<br>Skype | [bit.ly/ruby-ua](http://bit.ly/ruby-ua) | |
 | **Ruby&whatever**    | Ruby                            | ![Skype](img/skype.png) Skype | [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. |
 | **RustUA**           | Rust                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/rust) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/rust) | |
@@ -76,7 +76,7 @@ List
 | **Startups**         | Startups, Entrepreneurship      | ![Skype](img/skype.png) Skype | [bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat) | |
 | **Scala UA**         | Scala, JVM                      | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>Skype | [bit.ly/scala-ua](http://bit.ly/scala-ua) | Skype is a read-only archive |
 | **SwiftChat**        | Swift, iOS, OSX                 | ![Skype](img/skype.png) Skype | [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
-| **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
+| **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>![Skype](img/skype.png) Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
 | **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | Slack        | [http://slack.dev.by](http://slack.dev.by/) | |
 | **Spb Frontend**        | js, css, html              | Slack, Gitter | [https://spb-frontend.slack.com](https://spb-frontend.slack.com) <br> [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) |  | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
@@ -87,6 +87,6 @@ List
 | **Веб-стандарты**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](img/skype.png) Skype | [http://bit.ly/berlin-ru-it-chat](http://bit.ly/berlin-ru-it-chat) ||
-| **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
+| **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](skype.png) Skype | [Berlin](http://bit.ly/berlin-ru-it-chat) ||
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
