@@ -51,7 +51,28 @@ List
 | **Java talks BY**    | Java, JVM, Software Design      | ![Skype](img/skype.png) Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
 | **Java Professionals By** | Java, JVM                  | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaBy/chat) | [gitter.im/JavaBy/chat](https://gitter.im/JavaBy/chat) | |
 | **jQuery RUS**      | jQuery, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jQueryRUS/chat) | [https://gitter.im/jQueryRUS/chat](https://gitter.im/jQueryRUS/chat) | |
-| **True Java**        | Java, JVM, Software, Design     | ![Skype](img/skype.png) Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
+| **TRUE ASM**    | Assembler | ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_ASM.html) ||
+| **TRUE Android Development**    | Android| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Android_Development.html) ||
+| **TRUE Big Data**    | Big data/Data Science| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Big_Data.html) ||
+| **TRUE CSS**    | CSS| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_CSS.html) ||
+| **TRUE C++**    | C++| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Cpp.html) ||
+| **TRUE DevOps**    | DevOps| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_DEVOPS.html) ||
+| **TRUE Database**    | Databases| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Database.html) ||
+| **TRUE IT**    | Any| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_IT.html) ||
+| **TRUE InfoSec**    | Info Security| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_InfoSec.html) ||
+| **TRUE Javascript**    | JavaScript| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Javascript.html) ||
+| **True Java**| Java, JVM, Software, Design     | ![Skype](img/skype.png) Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
+| **TRUE HTML/CSS/JS**    | HTML/CSS/JS| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Javascript_Html_Css_etc.html) ||
+| **TRUE LAMP**    | linux/Apache/MySql/PHP, Python, Perl| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_LAMP.html) ||
+| **TRUE .NET**    | .NET| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_NET.html) ||
+| **TRUE Python**    | Python| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Python.html) ||
+| **TRUE Ruby**    | Ruby| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Ruby.html) ||
+| **TRUE Rust**    | Rust| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Rust.html) ||
+| **TRUE StartUp**    | Russian speaking StartUp community.| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_StartUp.html) ||
+| **TRUE System Administration**    | Russian speaking SysAdmins| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_System_Administration.html) ||
+| **TRUE Unix**    | *nix| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Unix.html) ||
+| **TRUE Windows Development**    | Development of a Windows Phone/RT/WPF| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_Windows_Development.html) ||
+| **TRUE iOS**    | Development of a iOS| ![Skype](img/skype.png) Skype | [Skype](dbellkoff.github.io/skypeChats/TRUE_IOS.html) ||
 | **#javascript**      | javascript, nodejs, angularjs, ... | ![IRC](img/irc.png) <br>IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Laravel**   | Laravel, PHP     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | |
 | **Laravel Framework**   | Laravel Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | |
