@@ -38,12 +38,14 @@ List
 | **Frontend KZ**      | HTML5, CSS3, Javascript, ...    | Slack | [http://frontendkz.github.io/](http://frontendkz.github.io/) | |
 | **GameDev без политоты**          | GameDev | Skype | [bit.ly/ru-gamedev-skype-chat](https://bit.ly/ru-gamedev-skype-chat) | |
 | **Go Lang**          | Go                              | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/go)<br>Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
+| **golang-ru.slack.com**      | Go    | Slack | [https://golang-ru.slack.com/](https://golang-ru.slack.com/) | |
 | **HangOps.ru**       | Russian DevOps Hangouts         | Slack | [http://join.hangops.ru](http://join.hangops.ru) | |
 |                      |                                 | Skype (outdated) | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
 | **Haskell UA**          | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell)
 | **Haskell**              | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | |
 | **Haxe**          | Haxe | Slack | [haxe.slack.com](https://haxe.slack.com/) | |
 | **Hexlet**      | CS, Java, Ruby, PHP, JS    | Slack | [slack-ru.hexlet.io](http://slack-ru.hexlet.io/) | |
+| **How Games are made**          | GameDev | Slack | [http://hgam-invite.herokuapp.com/](http://hgam-invite.herokuapp.com/) | |
 | **ITChat**           | Web scraping, Python | Skype | http://tinyurl.com/itchatnew | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
@@ -75,6 +77,7 @@ List
 | **Scala UA**         | Scala, JVM                      | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>Skype | [bit.ly/scala-ua](http://bit.ly/scala-ua) | Skype is a read-only archive |
 | **SwiftChat**        | Swift, iOS, OSX                 | Skype | [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
 | **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
+| **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | Slack        | [http://slack.dev.by](http://slack.dev.by/) | |
 | **Spb Frontend**        | js, css, html              | Slack, Gitter | [https://spb-frontend.slack.com](https://spb-frontend.slack.com) <br> [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) |  | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
 | **VIM**           | VIM | Skype | http://tinyurl.com/ruvimchat ||
