@@ -52,7 +52,7 @@ List
 | **Java Professionals By** | Java, JVM                  | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaBy/chat) | [gitter.im/JavaBy/chat](https://gitter.im/JavaBy/chat) | |
 | **jQuery RUS**      | jQuery, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jQueryRUS/chat) | [https://gitter.im/jQueryRUS/chat](https://gitter.im/jQueryRUS/chat) | |
 | **True Java**        | Java, JVM, Software, Design     | ![Skype](img/skype.png) Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
-| **#javascript**      | javascript, nodejs, angularjs, ... | ![IRC](img/irc.png) IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
+| **#javascript**      | javascript, nodejs, angularjs, ... | ![IRC](img/irc.png) <br>IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Laravel**   | Laravel, PHP     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | |
 | **Laravel Framework**   | Laravel Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | |
 | **Lovely Clojure**   | Clojure, Clojurescript,  FP     | ![Skype](img/skype.png) Skype | [tinyurl.com/clj-cljs](http://tinyurl.com/clj-cljs) | |
@@ -88,5 +88,5 @@ List
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](img/skype.png) Skype | [http://bit.ly/berlin-ru-it-chat](http://bit.ly/berlin-ru-it-chat) ||
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
-| **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](skype.png) Skype | [Berlin](http://bit.ly/berlin-ru-it-chat) ||
+| **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](img/skype.png) Skype | [Berlin](http://bit.ly/berlin-ru-it-chat) ||
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
