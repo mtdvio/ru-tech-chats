@@ -1,6 +1,6 @@
 This is a list of Russian-speaking IT chats.
 
-![Teaser](img/teaser.jpg)
+![Teaser](img/teaser.png)
 
 General rules
 -------------
@@ -85,11 +85,11 @@ List
 | **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
 | **Zend Framework**        | Zend Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | |
 | **Веб-стандарты**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
-<<<<<<< HEAD
-| **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
-| **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](img/skype.png) Skype | [http://bit.ly/berlin-ru-it-chat](http://bit.ly/berlin-ru-it-chat) ||
-=======
+<<<<<<< 6d5fd48639371cdac4bb678ccc2766d28b6eb391
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](skype.png) Skype | [Berlin](http://bit.ly/berlin-ru-it-chat) ||
->>>>>>> origin/master
+=======
+| **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
+| **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](img/skype.png) Skype | [http://bit.ly/berlin-ru-it-chat](http://bit.ly/berlin-ru-it-chat) ||
+>>>>>>> add icon for Skype
 | **Тракторист UA**    | For those who plan to work or works abroad| Skype | [bit.ly/it-emigrant-ua](http://bit.ly/it-emigrant-ua) | **Beware of Trolls!**|
