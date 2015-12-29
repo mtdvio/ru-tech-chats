@@ -22,7 +22,7 @@ List
 
 | Name                 | Technologies                    | Chat Client | Link | Join rules |
 |--------------------- | ------------------------------- |:-----:|---|:-:|
-| **AllThatJS**        | JavaScript                      | Slack | [allthatjs.herokuapp.com](https://allthatjs.herokuapp.com) | |
+| **AllThatJS**        | JavaScript                      | ![Slack](img/slack.png) <br>Slack | [allthatjs.herokuapp.com](https://allthatjs.herokuapp.com) | |
 | **Angular RUS**      | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AngularjsRUS/chat) | [https://gitter.im/AngularjsRUS/chat](https://gitter.im/AngularjsRUS/chat) | |
 | **AngularJS UA**     | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://angular.im) | [angular.im](http://angular.im) | |
 | **Android rus-speaking developers chat**| Android | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rus-speaking/android) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rus-speaking/android) | |
@@ -35,17 +35,17 @@ List
 | **DIY / Glory to the sad Robots** | Hardware, Microcontrollers, Robotics| ![Skype](img/skype.png) Skype | [bit.ly/robots-chat](http://bit.ly/robots-chat) | |
 | **Ember Chat**       | EmberJS                         | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ember) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ember) | |
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...    | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://frontendua.im) | [frontendua.im](http://frontendua.im) | |
-| **Frontend KZ**      | HTML5, CSS3, Javascript, ...    | Slack | [http://frontendkz.github.io/](http://frontendkz.github.io/) | |
+| **Frontend KZ**      | HTML5, CSS3, Javascript, ...    | ![Slack](img/slack.png) <br>Slack | [http://frontendkz.github.io/](http://frontendkz.github.io/) | |
 | **GameDev без политоты**          | GameDev | Skype | [bit.ly/ru-gamedev-skype-chat](https://bit.ly/ru-gamedev-skype-chat) | |
 | **Go Lang**          | Go                              | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/go)<br>![Skype](img/skype.png)<br>Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
-| **golang-ru.slack.com**      | Go    | Slack | [https://golang-ru.slack.com/](https://golang-ru.slack.com/) | |
-| **HangOps.ru**       | Russian DevOps Hangouts         | Slack | [http://join.hangops.ru](http://join.hangops.ru) | |
+| **golang-ru.slack.com**      | Go    | ![Slack](img/slack.png) <br>Slack | [https://golang-ru.slack.com/](https://golang-ru.slack.com/) | |
+| **HangOps.ru**       | Russian DevOps Hangouts         | ![Slack](img/slack.png) <br>Slack | [http://join.hangops.ru](http://join.hangops.ru) | |
 |                      |                                 | ![Skype](img/skype.png) Skype (outdated) | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
 | **Haskell UA**          | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/haskell)
 | **Haskell**              | Haskell Chat                    | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ruHaskell/forall) | |
 | **Haxe**          | Haxe | Slack | [haxe.slack.com](https://haxe.slack.com/) | |
-| **Hexlet**      | CS, Java, Ruby, PHP, JS    | Slack | [slack-ru.hexlet.io](http://slack-ru.hexlet.io/) | |
-| **How Games are made**          | GameDev | Slack | [http://hgam-invite.herokuapp.com/](http://hgam-invite.herokuapp.com/) | |
+| **Hexlet**      | CS, Java, Ruby, PHP, JS    | ![Slack](img/slack.png) <br>Slack | [slack-ru.hexlet.io](http://slack-ru.hexlet.io/) | |
+| **How Games are made**          | GameDev | ![Slack](img/slack.png) <br>Slack | [http://hgam-invite.herokuapp.com/](http://hgam-invite.herokuapp.com/) | |
 | **ITChat**           | Web scraping, Python | ![Skype](img/skype.png) Skype | http://tinyurl.com/itchatnew | |
 | **JavaChat**         | Java, JVM                       | ![Skype](img/skype.png) Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | ![Skype](img/skype.png) Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
@@ -77,15 +77,15 @@ List
 | **Scala UA**         | Scala, JVM                      | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>Skype | [bit.ly/scala-ua](http://bit.ly/scala-ua) | Skype is a read-only archive |
 | **SwiftChat**        | Swift, iOS, OSX                 | ![Skype](img/skype.png) Skype | [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
 | **ScalaChat**        | Scala, JVM, Software Design     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>![Skype](img/skype.png) Skype | [bit.ly/scalachat](http://bit.ly/scalachat) | |
-| **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | Slack        | [http://slack.dev.by](http://slack.dev.by/) | |
-| **Spb Frontend**        | js, css, html              | Slack, Gitter | [https://spb-frontend.slack.com](https://spb-frontend.slack.com) <br> [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) |  | |
+| **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | ![Slack](img/slack.png) <br>Slack        | [http://slack.dev.by](http://slack.dev.by/) | |
+| **Spb Frontend**        | js, css, html              | ![Slack](img/slack.png) <br>Slack, [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) | [https://spb-frontend.slack.com](https://spb-frontend.slack.com) <br> [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) |  | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
 | **VIM**           | VIM | ![Skype](img/skype.png) Skype | http://tinyurl.com/ruvimchat ||
 | **#webdev**          | Web-development theory and practice |  ![IRC](img/irc.png) <br>IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Laravel**   | Laravel, PHP     | ![IRC](img/irc.png) <br>IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
 | **Zend Framework**        | Zend Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | |
-| **Веб-стандарты**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
+| **Веб-стандарты**| HTML, CSS, SVG, JS | ![Slack](img/slack.png) <br>Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
 | **Понаехавшие ITишники в Берлине**    | Russian speaking IT community in Berlin, Germany.| ![Skype](img/skype.png) Skype | [http://bit.ly/berlin-ru-it-chat](http://bit.ly/berlin-ru-it-chat) ||
 | **Понаехавшие ITишники в Мюнхен**    | Russian speaking IT community in Munich, Germany.| ![Skype](img/skype.png) Skype | [http://tinyurl.com/skype-traktoristi-v-munchene](http://tinyurl.com/skype-traktoristi-v-munchene) ||
