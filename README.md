@@ -37,7 +37,7 @@ List
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...    | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://frontendua.im) | [frontendua.im](http://frontendua.im) | |
 | **Frontend KZ**      | HTML5, CSS3, Javascript, ...    | Slack | [http://frontendkz.github.io/](http://frontendkz.github.io/) | |
 | **GameDev без политоты**          | GameDev | Skype | [bit.ly/ru-gamedev-skype-chat](https://bit.ly/ru-gamedev-skype-chat) | |
-| **Go Lang**          | Go                              | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/go)<br>Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
+| **Go Lang**          | Go                              | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/go)<br>![Skype](img/skype.png)<br>Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
 | **golang-ru.slack.com**      | Go    | Slack | [https://golang-ru.slack.com/](https://golang-ru.slack.com/) | |
 | **HangOps.ru**       | Russian DevOps Hangouts         | Slack | [http://join.hangops.ru](http://join.hangops.ru) | |
 |                      |                                 | ![Skype](img/skype.png) Skype (outdated) | [tinyurl.com/HangOpsRu](http://tinyurl.com/HangOpsRu) | |
@@ -64,7 +64,7 @@ List
 | **NodeJS UA**        | NodeJS                          | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/node) | Also DevOps and NoSQL |
 | **Phalcon RUS**           | Phalcon, PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phalcon-rus/chat) | |
 | **Phalcon Framework**           | Phalcon Framework                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/phalcon) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/phalcon) | |
-| **PHP UA**           | PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/php)<br>Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | Chat migrated to Gitter |
+| **PHP UA**           | PHP                             | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/php)<br>![Skype](img/skype.png)<br>Skype | [bit.ly/php-ua](http://bit.ly/php-ua) | Chat migrated to Gitter |
 | **PHP Community**        | PHP Community     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/php) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/php) | |
 | **Python UA**        | Python                          | ![Skype](img/skype.png)<br>Skype | [bit.ly/python-ua](http://bit.ly/python-ua) | |
 | **QAC: Automation in testing** | QA and Automation     | ![Skype](img/skype.png)<br>Skype | [bit.ly/test-automation-chat](http://bit.ly/test-automation-chat) | |
@@ -82,7 +82,7 @@ List
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
 | **VIM**           | VIM | ![Skype](img/skype.png) Skype | http://tinyurl.com/ruvimchat ||
 | **#webdev**          | Web-development theory and practice |  ![IRC](img/irc.png) <br>IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
-| **Laravel**   | Laravel, PHP     | [![Gitter](https://badges) <br>IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
+| **Laravel**   | Laravel, PHP     | ![IRC](img/irc.png) <br>IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
 | **Zend Framework**        | Zend Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/zf) | |
 | **Веб-стандарты**| HTML, CSS, SVG, JS | Slack | [slack.web-standards.ru](http://slack.web-standards.ru) ||
