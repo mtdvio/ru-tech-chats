@@ -51,7 +51,28 @@ List
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
 | **Java Professionals By** | Java, JVM                  | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaBy/chat) | [gitter.im/JavaBy/chat](https://gitter.im/JavaBy/chat) | |
 | **jQuery RUS**      | jQuery, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jQueryRUS/chat) | [https://gitter.im/jQueryRUS/chat](https://gitter.im/jQueryRUS/chat) | |
-| **True Java**        | Java, JVM, Software, Design     | Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
+| **TRUE .NET** | .NET | Skype | [http://goo.gl/3lKLdJ](http://goo.gl/3lKLdJ) | |
+| **TRUE Android Development** | Android| Skype | [http://goo.gl/V8cIca](http://goo.gl/V8cIca) | |
+| **TRUE ASM** | Assembler | Skype | [http://goo.gl/CvxDnR](http://goo.gl/CvxDnR) | |
+| **TRUE Big Data** | Big data/Data Science| Skype | [http://goo.gl/N2Djvo](http://goo.gl/N2Djvo) | |
+| **TRUE C++** | C++ | Skype | [http://goo.gl/tAjSf2](http://goo.gl/tAjSf2) | |
+| **TRUE CSS** | CSS | Skype | [http://goo.gl/nsMtB3](http://goo.gl/nsMtB3) | |
+| **TRUE Database** | Databases | Skype | [http://goo.gl/JHUouj](http://goo.gl/JHUouj) | |
+| **TRUE DevOps** | DevOps | Skype | [http://goo.gl/i3MWjC](http://goo.gl/i3MWjC) | |
+| **TRUE HTML/CSS/JS** | HTML/CSS/JS | Skype | [http://goo.gl/NvJ9FK](http://goo.gl/NvJ9FK) | |
+| **TRUE InfoSec** | Info Security | Skype | [http://goo.gl/NoC6RQ](http://goo.gl/NoC6RQ) | |
+| **TRUE iOS** | Development of a iOS | Skype | [http://goo.gl/KJnFSN](http://goo.gl/KJnFSN) | |
+| **TRUE IT** | Any | Skype | [http://goo.gl/FOlXZp](http://goo.gl/FOlXZp) | |
+| **True Java** | Java, JVM, Software, Design | Skype | [tinyurl.com/truejava](http://tinyurl.com/truejava) | |
+| **TRUE Javascript** | JavaScript | Skype | [http://goo.gl/1AtIyI](http://goo.gl/1AtIyI) | |
+| **TRUE LAMP** | Linux/Apache/MySql/PHP, Python, Perl | Skype | [http://goo.gl/fbeAGB](http://goo.gl/fbeAGB) | |
+| **TRUE Python** | Python | Skype | [http://goo.gl/c8Ky7e](http://goo.gl/c8Ky7e) | |
+| **TRUE Ruby** | Ruby | Skype | [http://goo.gl/g5bvGD](http://goo.gl/g5bvGD) | |
+| **TRUE Rust** | Rust | Skype | [http://goo.gl/KWHhOV](http://goo.gl/KWHhOV) | |
+| **TRUE StartUp** | Russian speaking StartUp community.| Skype | [http://goo.gl/UnpCEb](http://goo.gl/UnpCEb) | |
+| **TRUE System Administration** | Russian speaking SysAdmins| Skype | [http://goo.gl/zNsGAf](http://goo.gl/zNsGAf) | |
+| **TRUE Unix** | *nix| Skype | [http://goo.gl/rQcEPD](http://goo.gl/rQcEPD) ||
+| **TRUE Windows Development** | Development of a Windows Phone/RT/WPF | Skype | [http://goo.gl/QZOt3t](http://goo.gl/QZOt3t) | |
 | **#javascript**      | javascript, nodejs, angularjs, ... | IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
 | **Laravel**   | Laravel, PHP     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LaravelRUS/chat) | |
 | **Laravel Framework**   | Laravel Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/laravel) | |
