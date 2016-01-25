@@ -28,6 +28,7 @@ List
 | **Android rus-speaking developers chat**| Android | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rus-speaking/android) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rus-speaking/android) | |
 | **Android United**     | Android                         | Skype | [bit.ly/androidchat](http://bit.ly/androidchat) | |
 | **Android Developers UA**     | Android                | Skype | [https://join.skype.com/ka6cynd1UTKb](https://join.skype.com/ka6cynd1UTKb) | |
+| **Ansible RU**     | Ansible                | Slack | [https://hangops.slack.com/messages/ansible_ru/](https://hangops.slack.com/messages/ansible_ru/) | Slack register form:  [http://signup.hangops.com/](http://signup.hangops.com/) |
 | **Cocoa Chat**       | Cocoa                           | Skype | [bit.ly/cocoa-chat](http://bit.ly/cocoa-chat) | Read guidelines or be banned! |
 | **Clojure UA**   | Clojure, Clojurescript,  FP     |[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/clojure) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/clojure) | |
 | **Dart group**       | Dart                            | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/dart)<br>Skype | [bit.ly/dart-chat](http://bit.ly/dart-chat) | |
