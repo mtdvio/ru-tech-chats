@@ -105,6 +105,7 @@ List
 | **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | Slack        | [http://slack.dev.by](http://slack.dev.by/) | |
 | **Spb Frontend**        | js, css, html              | Slack, Gitter | [https://spb-frontend.slack.com](https://spb-frontend.slack.com) <br> [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) |  | |
 | **Symfony Framework**        | Symfony Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
+| **Unity**           | Unity Engine | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://github.com/dev-ua/unity) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://github.com/dev-ua/unity) ||
 | **VIM**           | VIM | Skype | http://tinyurl.com/ruvimchat ||
 | **#webdev**          | Web-development theory and practice | IRC | [webdev.a-ec.name](http://webdev.a-ec.name) | |
 | **Yii Framework**        | Yii Framework     | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/yii) | |
