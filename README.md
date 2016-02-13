@@ -1,28 +1,28 @@
-This is a list of Russian-speaking IT chats.
+Это - список русскоязычных чатов об IT.
 
 ![Teaser](teaser.jpg)
 
-General rules
+Общие правила
 -------------
 
-* no HR are allowed
-* no job propositions spam (`перспективная-компания-лидер-рынка ишет 5 лет super senior swift developer`)
-* use tags like `@question` `@link` `@offtop`
-* why so many chats are called `<topic>-UA`? Read about it [here](https://gist.github.com/listochkin/c81c198a2b7b044a0dc5).
+* не используйте список для найма сотрудников
+* спам с предложениями работы запрещён (`перспективная-компания-лидер-рынка ишет 5 лет super senior swift developer`)
+* используйте теги вроде `@question` `@link` `@offtop`
+* почему так много чатов называются `<тема>-UA`? Читайте об этом [здесь](https://gist.github.com/listochkin/c81c198a2b7b044a0dc5).
 
-*Feel free to make pull requests!*
+*Мы принимаем Pull Request'ы!*
 
-Can I help?
+Как я могу помочь?
 -----------
 
-If you hate skype, you can join this project: https://github.com/openconf/jschat
+Если вам не нравится Skype, обратите внимание на этот проект: https://github.com/openconf/jschat
 
-List
-----
+Список
+------
 
-| Name                 | Technologies                    | Link | Joining rules |
-|--------------------- | ------------------------------- |------|:-:|
-| **AI-ML-DS**         | Artificial Intelligence, Machine Learning, Data Science |  [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ai-ml-ds) | |
+| Название             | Технологии                      | Ссылка | Правила участия |
+|--------------------- | ------------------------------- |--------|:-:|
+| **AI-ML-DS**         | Искусственный интеллект, машинное обучение, Data Science |  [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/ai-ml-ds) | |
 | **AllThatJS**        | JavaScript                      | Slack: [allthatjs.herokuapp.com](https://allthatjs.herokuapp.com) | |
 | **Angular RUS**      | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AngularjsRUS/chat) | |
 | **AngularJS UA**     | AngularJS, Javascript           | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://angular.im) | |
