@@ -103,7 +103,8 @@
 | **ScalaChat**        | Scala, JVM, Software Design | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>[![Slack](http://scala-ru.herokuapp.com/badge.svg)](https://scala-ru.herokuapp.com)<br>Skype: [bit.ly/scalachat](http://bit.ly/scalachat) | |
 | **slack.dev.by**       | Belarussian dev community (lot of channels on different topics)  | Slack: [http://slack.dev.by](http://slack.dev.by/) | |
 | **Spb Frontend**        | js, css, html | Slack: [https://spb-frontend.slack.com](https://spb-frontend.slack.com) <br> [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spb-frontend/talks) | |
-| **Symfony Framework** | Symfony Framework | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
+| **Symfony Framework UA** | Symfony Framework | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/php-ua/symfony) | |
+| **Symfony Framework RU** | Symfony Framework | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SymfonySib/symfony) | |
 | **Unity** | Unity Engine | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://github.com/dev-ua/unity) ||
 | **VIM**   | VIM | Skype: http://tinyurl.com/ruvimchat ||
 | **#webdev** | Web-development theory and practice | IRC: [webdev.a-ec.name](http://webdev.a-ec.name) | |
