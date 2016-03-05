@@ -97,6 +97,7 @@
 | **Ruby&whatever**    | Ruby | Skype: [tinyurl.com/rubyconf](http://tinyurl.com/rubyconf) | Just be a good person. | |
 | **RustUA**           | Rust | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/rust) | |
 | **RuHaxe**           | Haxe | Skype: [bit.ly/ru-haxe-chat](http://bit.ly/ru-haxe-chat) | |
+| **SalesforceRu**          | Russian-speaking Salesforce developers | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SalesforceRu/SalesforceRu)| |
 | **Startups**         | Startups, Entrepreneurship | Skype | [bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat) | |
 | **Scala UA**         | Scala, JVM | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dev-ua/scala)<br>Skype: [bit.ly/scala-ua](http://bit.ly/scala-ua) | Skype is a read-only archive |
 | **SwiftChat**        | Swift, iOS, OSX | Skype: [bit.ly/swift_skype_chat](http://bit.ly/swift_skype_chat) | |
