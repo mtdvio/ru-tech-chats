@@ -47,6 +47,7 @@
     "clean": "babel-node --eval \"require('./tools/clean')().catch(err => console.log(err.stack))\"",
     "build": "babel-node --eval \"require('./tools/build')().catch(err => console.log(err.stack))\"",
     "start": "babel-node --eval \"require('./tools/start')().catch(err => console.log(err.stack))\"",
+    "readme": "git add ../README.md && git commit -m 'GENERATED README.md' && git push",
     "deploy": "babel-node --eval \"require('./tools/deploy')().catch(err => console.log(err.stack))\""
   }
 }
