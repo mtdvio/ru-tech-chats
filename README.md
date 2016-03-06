@@ -93,7 +93,7 @@
 | **RustUA** |  | Rust | https://gitter.im/dev-ua/rust |  |  |  |  |
 | **RuHaxe** |  | Haxe |  |  | http://bit.ly/ru-haxe-chat |  |  |
 | **SalesforceRu** |  | Russian-speaking Salesforce developers | https://gitter.im/salesforceru/salesforceru |  |  |  |  |
-| **Startups** |  | Startups, Entrepreneurship |  |  | skype |  | [bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat) |
+| **Startups** |  | Startups, Entrepreneurship |  |  | http://bit.ly/startups-ua-chat |  |  |
 | **Scala UA** |  | Scala, JVM | https://gitter.im/dev-ua/scala |  | http://bit.ly/scala-ua |  | Skype is a read-only archive |
 | **SwiftChat** |  | Swift, iOS, OSX |  |  | http://bit.ly/swift_skype_chat |  |  |
 | **ScalaChat** |  | Scala, JVM, Software Design | https://gitter.im/dev-ua/scala | https://scala-ru.herokuapp.com | http://bit.ly/scalachat |  |  |
