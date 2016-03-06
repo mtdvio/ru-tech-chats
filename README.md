@@ -20,20 +20,20 @@
 | **AI-ML-DS** |  | Искусственный интеллект, машинное обучение, Data Science | https://gitter.im/dev-ua/ai-ml-ds |  |  |  |  |
 | **AllThatJS** |  | JavaScript |  | https://allthatjs.herokuapp.com |  |  |  |
 | **Angular RUS** |  | AngularJS, Javascript | https://gitter.im/angularjsrus/chat |  |  |  |  |
-| **AngularJS UA** |  | AngularJS, Javascript |  |  |  | http://angular.im |  |
+| **AngularJS UA** |  | AngularJS, Javascript | http://angular.im |  |  |  |  |
 | **Android rus-speaking developers chat** |  | Android | https://gitter.im/rus-speaking/android |  |  |  |  |
 | **Android United** |  | Android |  |  | http://bit.ly/androidchat |  |  |
 | **Android Developers UA** |  | Android |  |  | https://join.skype.com/ka6cynd1utkb |  |  |
-| **Ansible RUS** |  | Ansible |  | https://goo.gl/vqfjzp |  |  |  |
-| **Cocoa Chat** |  | Cocoa |  |  | http://bit.ly/cocoa-chat |  |  |
+| **Ansible RUS** |  | Ansible |  | https://goo.gl/vqfjzp |  |  | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
+| **Cocoa Chat** |  | Cocoa |  |  | http://bit.ly/cocoa-chat |  | Read guidelines or be banned! |
 | **Clojure UA** |  | Clojure, Clojurescript,  FP | https://gitter.im/dev-ua/clojure |  |  |  |  |
 | **Dart group** |  | Dart | https://gitter.im/dev-ua/dart |  | http://bit.ly/dart-chat |  |  |
 | **DevOps for Devs** |  | Vagrant, Docker, Dokku OH MY! |  |  | http://bit.ly/devops-for-devs |  |  |
 | **DIY / Glory to the sad Robots** |  | Hardware, Microcontrollers, Robotics |  |  | http://bit.ly/robots-chat |  |  |
 | **Ember Chat** |  | EmberJS | https://gitter.im/dev-ua/ember |  |  |  |  |
-| **Erlang / Elixir** |  | Erlang, Elixir |  | http://otp-russian.herokuapp.com/ |  |  |  |
-| **Freelance (OdeskConf)** |  | any |  | отправить json вида `{"email": "name@domain.com"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite` |  |  |  |
-| **Frontend UA** |  | HTML5, CSS3, Javascript, ... |  |  |  | http://frontendua.im |  |
+| **Erlang / Elixir** |  | Erlang, Elixir |  | http://otp-russian.herokuapp.com/ |  |  | Be nice. |
+| **Freelance (OdeskConf)** |  | any |  | отправить json вида `{"email": "name@domain.com"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite` |  |  | работать удалённо |
+| **Frontend UA** |  | HTML5, CSS3, Javascript, ... | http://frontendua.im |  |  |  |  |
 | **Frontend KZ** |  | HTML5, CSS3, Javascript, ... |  | http://frontendkz.github.io/ |  |  |  |
 | **GameDev без политоты** |  | GameDev |  |  | https://bit.ly/ru-gamedev-skype-chat |  |  |
 | **Go Lang** |  | Go | https://gitter.im/dev-ua/go |  | http://is.gd/0hu7ar |  |  |
@@ -82,26 +82,26 @@
 | **NodeJS UA** |  | NodeJS + DevOps and NoSQL | https://gitter.im/dev-ua/node |  |  |  |  |
 | **Phalcon RUS** |  | Phalcon, PHP | https://gitter.im/phalcon-rus/chat |  |  |  |  |
 | **Phalcon Framework** |  | Phalcon Framework | https://gitter.im/php-ua/phalcon |  |  |  |  |
-| **PHP UA** |  | PHP | https://gitter.im/dev-ua/php |  | http://bit.ly/php-ua |  |  |
+| **PHP UA** |  | PHP | https://gitter.im/dev-ua/php |  | http://bit.ly/php-ua |  | Chat migrated to Gitter |
 | **PHP Community** |  | PHP Community | https://gitter.im/php-ua/php |  |  |  |  |
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга |  | http://bit.ly/piterunited |  |  |  |
 | **Python UA** |  | Python |  |  | http://bit.ly/python-ua |  |  |
 | **QAC: Automation in testing** |  | QA and Automation |  |  | http://bit.ly/test-automation-chat |  |  |
 | **ReactJS** |  | ReactJS, Flux, Redux | https://gitter.im/dev-ua/reactjs |  | http://bit.ly/reactjs-chat |  |  |
 | **Ruby/RoR** |  | Ruby, Rails | https://gitter.im/dev-ua/ruby-ua |  | http://bit.ly/ruby-ua |  |  |
-| **Ruby&whatever** |  | Ruby |  |  | http://tinyurl.com/rubyconf |  |  |
+| **Ruby&whatever** |  | Ruby |  |  | http://tinyurl.com/rubyconf |  | Just be a good person. |
 | **RustUA** |  | Rust | https://gitter.im/dev-ua/rust |  |  |  |  |
 | **RuHaxe** |  | Haxe |  |  | http://bit.ly/ru-haxe-chat |  |  |
 | **SalesforceRu** |  | Russian-speaking Salesforce developers | https://gitter.im/salesforceru/salesforceru |  |  |  |  |
-| **Startups** |  | Startups, Entrepreneurship |  |  | skype |  |  |
-| **Scala UA** |  | Scala, JVM | https://gitter.im/dev-ua/scala |  | http://bit.ly/scala-ua |  |  |
+| **Startups** |  | Startups, Entrepreneurship |  |  | skype |  | [bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat) |
+| **Scala UA** |  | Scala, JVM | https://gitter.im/dev-ua/scala |  | http://bit.ly/scala-ua |  | Skype is a read-only archive |
 | **SwiftChat** |  | Swift, iOS, OSX |  |  | http://bit.ly/swift_skype_chat |  |  |
-| **ScalaChat** |  | Scala, JVM, Software Design | https://gitter.im/dev-ua/scala |  | http://bit.ly/scalachat | https://scala-ru.herokuapp.com |  |
+| **ScalaChat** |  | Scala, JVM, Software Design | https://gitter.im/dev-ua/scala | https://scala-ru.herokuapp.com | http://bit.ly/scalachat |  |  |
 | **slack.dev.by** |  | Belarussian dev community (lot of channels on different topics) |  | http://slack.dev.by/ |  |  |  |
 | **Spb Frontend** |  | js, css, html |  https://gitter.im/spb-frontend/talks | https://spb-frontend.slack.com |  |  |  |
 | **Symfony Framework UA** |  | Symfony Framework | https://gitter.im/php-ua/symfony |  |  |  |  |
 | **Symfony Framework RU** |  | Symfony Framework | https://gitter.im/symfonysib/symfony |  |  |  |  |
-| **Unity** |  | Unity Engine |  |  |  | https://github.com/dev-ua/unity |  |
+| **Unity** |  | Unity Engine | https://gitter.im/dev-ua/unity |  |  |  |  |
 | **VIM** |  | VIM |  |  | http://tinyurl.com/ruvimchat |  |  |
 | **#webdev** |  | Web-development theory and practice |  |  |  | irc: http://webdev.a-ec.name |  |
 | **Yii Framework** |  | Yii Framework | https://gitter.im/php-ua/yii |  |  |  |  |
@@ -109,5 +109,5 @@
 | **Веб-стандарты** |  | HTML, CSS, SVG, JS |  | http://slack.web-standards.ru |  |  |  |
 | **Понаехавшие ITишники в Мюнхен** |  | Russian speaking IT community in Munich, Germany. |  |  | http://tinyurl.com/skype-traktoristi-v-munchene |  |  |
 | **Понаехавшие ITишники в Берлине** |  | Russian speaking IT community in Berlin, Germany. |  |  | http://bit.ly/berlin-ru-it-chat |  |  |
-| **Ржавый ящик** |  | Rust | https://gitter.im/rurust/general |  |  |  |  |
-| **Тракторист UA** |  | For those who plan to work or works abroad |  |  | http://bit.ly/it-emigrant-ua |  |  |
+| **Ржавый ящик** |  | Rust | https://gitter.im/rurust/general |  |  |  | No offence, no flame, no spam. |
+| **Тракторист UA** |  | For those who plan to work or works abroad |  |  | http://bit.ly/it-emigrant-ua |  | Beware of Trolls! |
