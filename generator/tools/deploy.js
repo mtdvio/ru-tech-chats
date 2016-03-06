@@ -6,12 +6,12 @@
 
 import GitRepo from 'git-repository';
 import task from './lib/task';
+import config from '../config';
 
-// TODO: Update deployment URL
 const remote = {
   name: 'github',
-  url: 'https://github.com/{user}/{repo}.git',
-  branch: 'gh-pages',
+  url: `https://github.com/${config.githubUser}/${config.githubRepo}.git`,
+  branch: 'gh-pages'
 };
 
 /**

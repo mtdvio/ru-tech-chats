@@ -5,8 +5,10 @@
  */
 
 export default {
-  title: 'React Static Boilerplate',
-  description: 'Static website generator for React.js web applications.',
+  title: 'Ru IT Chats',
+  description: 'Список русскоязычных IT-чатов',
   googleAnalyticsId: 'UA-XXXXX-X',
+  githubUser: 'mr-mig',
+  githubRepo: 'ru-it-chats'
 };
 
