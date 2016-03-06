@@ -7,7 +7,7 @@ const table = (data) => {
 };
 
 const row = (rowData) => {
-  return `| **${rowData.name}** | ${rowData.community || ''} | ${rowData.description || ''} | ${rowData.links.gitter || ''} | ${rowData.links.slack || ''} | ${rowData.links.skype || ''} | ${rowData.links.other || ''} | ${rowData.comment || ''} |`;
+  return `| **${rowData.name}** | ${rowData.community || ''} | ${rowData.description || ''} | ${rowData.links.gitter || ''} | ${rowData.links.slack || ''} | ${rowData.links.skype || ''} | ${rowData.links.other || ''} | ${rowData.comments || ''} |`;
 };
 
 const content = `Это - список русскоязычных чатов об IT.
@@ -27,8 +27,8 @@ const content = `Это - список русскоязычных чатов о�
 Список
 ------
 
-| Название             | Коммьюнити | Технологии                      | Gitter | Slack | Skype | Другой клиент | Ссылка | Правила участия |
-|--------------------- | ---------- | ------------------------------- | ------ | ----- | ----- | ------------- | ------ |       :-:       |
+| Название             | Коммьюнити | Технологии                      | Gitter | Slack | Skype | Другой клиент | Правила участия |
+|--------------------- | ---------- | ------------------------------- | ------ | ----- | ----- | ------------- |       :-:       |
 ${table(data)}
 `;
 

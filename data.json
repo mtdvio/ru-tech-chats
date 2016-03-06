@@ -31,7 +31,7 @@
     "community": "",
     "description": "AngularJS, Javascript",
     "links": {
-      "other": "http://angular.im"
+      "gitter": "http://angular.im"
     },
     "comments": ""
   },
@@ -149,7 +149,7 @@
     "community": "",
     "description": "HTML5, CSS3, Javascript, ...",
     "links": {
-      "other": "http://frontendua.im"
+      "gitter": "http://frontendua.im"
     },
     "comments": ""
   },
@@ -694,9 +694,9 @@
     "community": "",
     "description": "Startups, Entrepreneurship",
     "links": {
-      "skype": "skype"
+      "skype": "http://bit.ly/startups-ua-chat"
     },
-    "comments": "[bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat)"
+    "comments": ""
   },
   {
     "name": "Scala UA",
@@ -723,7 +723,7 @@
     "description": "Scala, JVM, Software Design",
     "links": {
       "gitter": "https://gitter.im/dev-ua/scala",
-      "other": "https://scala-ru.herokuapp.com",
+      "slack": "https://scala-ru.herokuapp.com",
       "skype": "http://bit.ly/scalachat"
     },
     "comments": ""
@@ -770,7 +770,7 @@
     "community": "",
     "description": "Unity Engine",
     "links": {
-      "other": "https://github.com/dev-ua/unity"
+      "gitter": "https://gitter.im/dev-ua/unity"
     },
     "comments": ""
   },
