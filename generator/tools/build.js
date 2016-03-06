@@ -11,4 +11,5 @@ export default task(async function build() {
   await require('./copy')();
   await require('./bundle')();
   await require('./render')();
+  await require('./generate_readme')();
 });

@@ -1,0 +1,858 @@
+[
+  {
+    "name": "AI-ML-DS",
+    "community": "",
+    "description": "Искусственный интеллект, машинное обучение, Data Science",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/ai-ml-ds"
+    },
+    "comments": ""
+  },
+  {
+    "name": "AllThatJS",
+    "community": "",
+    "description": "JavaScript",
+    "links": {
+      "slack": "https://allthatjs.herokuapp.com"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Angular RUS",
+    "community": "",
+    "description": "AngularJS, Javascript",
+    "links": {
+      "gitter": "https://gitter.im/angularjsrus/chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "AngularJS UA",
+    "community": "",
+    "description": "AngularJS, Javascript",
+    "links": {
+      "other": "http://angular.im"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Android rus-speaking developers chat",
+    "community": "",
+    "description": "Android",
+    "links": {
+      "gitter": "https://gitter.im/rus-speaking/android"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Android United",
+    "community": "",
+    "description": "Android",
+    "links": {
+      "skype": "http://bit.ly/androidchat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Android Developers UA",
+    "community": "",
+    "description": "Android",
+    "links": {
+      "skype": "https://join.skype.com/ka6cynd1utkb"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Ansible RUS",
+    "community": "",
+    "description": "Ansible",
+    "links": {
+      "slack": "https://goo.gl/vqfjzp"
+    },
+    "comments": "Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F)"
+  },
+  {
+    "name": "Cocoa Chat",
+    "community": "",
+    "description": "Cocoa",
+    "links": {
+      "skype": "http://bit.ly/cocoa-chat"
+    },
+    "comments": "Read guidelines or be banned!"
+  },
+  {
+    "name": "Clojure UA",
+    "community": "",
+    "description": "Clojure, Clojurescript,  FP",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/clojure"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Dart group",
+    "community": "",
+    "description": "Dart",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/dart",
+      "skype": "http://bit.ly/dart-chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "DevOps for Devs",
+    "community": "",
+    "description": "Vagrant, Docker, Dokku OH MY!",
+    "links": {
+      "skype": "http://bit.ly/devops-for-devs"
+    },
+    "comments": ""
+  },
+  {
+    "name": "DIY / Glory to the sad Robots",
+    "community": "",
+    "description": "Hardware, Microcontrollers, Robotics",
+    "links": {
+      "skype": "http://bit.ly/robots-chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Ember Chat",
+    "community": "",
+    "description": "EmberJS",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/ember"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Erlang / Elixir",
+    "community": "",
+    "description": "Erlang, Elixir",
+    "links": {
+      "slack": "http://otp-russian.herokuapp.com/"
+    },
+    "comments": "Be nice."
+  },
+  {
+    "name": "Freelance (OdeskConf)",
+    "community": "",
+    "description": "any",
+    "links": {
+      "slack": "отправить json вида `{\"email\": \"name@domain.com\"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite`"
+    },
+    "comments": "работать удалённо"
+  },
+  {
+    "name": "Frontend UA",
+    "community": "",
+    "description": "HTML5, CSS3, Javascript, ...",
+    "links": {
+      "other": "http://frontendua.im"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Frontend KZ",
+    "community": "",
+    "description": "HTML5, CSS3, Javascript, ...",
+    "links": {
+      "slack": "http://frontendkz.github.io/"
+    },
+    "comments": ""
+  },
+  {
+    "name": "GameDev без политоты",
+    "community": "",
+    "description": "GameDev",
+    "links": {
+      "skype": "https://bit.ly/ru-gamedev-skype-chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Go Lang",
+    "community": "",
+    "description": "Go",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/go",
+      "skype": "http://is.gd/0hu7ar"
+    },
+    "comments": ""
+  },
+  {
+    "name": "golang-ru.slack.com",
+    "community": "",
+    "description": "Go",
+    "links": {
+      "slack": "http://4gophers.ru/slack"
+    },
+    "comments": ""
+  },
+  {
+    "name": "HangOps.ru",
+    "community": "",
+    "description": "Russian DevOps Hangouts",
+    "links": {
+      "slack": "http://join.hangops.ru",
+      "skype": "skype outdated: http://tinyurl.com/hangopsru"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Haskell UA",
+    "community": "",
+    "description": "Haskell Chat",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/haskell"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Haskell",
+    "community": "",
+    "description": "Haskell Chat",
+    "links": {
+      "gitter": "https://gitter.im/ruhaskell/forall"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Haxe",
+    "community": "",
+    "description": "Haxe",
+    "links": {
+      "slack": "https://haxe.slack.com/"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Hexlet",
+    "community": "",
+    "description": "CS, Java, Ruby, PHP, JS",
+    "links": {
+      "slack": "http://slack-ru.hexlet.io/"
+    },
+    "comments": ""
+  },
+  {
+    "name": "How Games are made",
+    "community": "",
+    "description": "GameDev",
+    "links": {
+      "slack": "http://hgam-invite.herokuapp.com/"
+    },
+    "comments": ""
+  },
+  {
+    "name": "ITChat",
+    "community": "",
+    "description": "Web scraping, Python",
+    "links": {
+      "skype": "http://tinyurl.com/itchatnew"
+    },
+    "comments": ""
+  },
+  {
+    "name": "JavaChat",
+    "community": "",
+    "description": "Java, JVM",
+    "links": {
+      "skype": "http://bit.ly/javachatru"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Java talks BY",
+    "community": "",
+    "description": "Java, JVM, Software Design",
+    "links": {
+      "skype": "http://bit.ly/javatalks-by"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Java Professionals By",
+    "community": "",
+    "description": "Java, JVM",
+    "links": {
+      "gitter": "https://gitter.im/javaby/chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "jQuery RUS",
+    "community": "",
+    "description": "jQuery, Javascript",
+    "links": {
+      "gitter": "https://gitter.im/jqueryrus/chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE .NET",
+    "community": "",
+    "description": ".NET",
+    "links": {
+      "skype": "http://goo.gl/3lkldj"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Android Development",
+    "community": "",
+    "description": "Android",
+    "links": {
+      "skype": "http://goo.gl/v8cica"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE ASM",
+    "community": "",
+    "description": "Assembler",
+    "links": {
+      "skype": "http://goo.gl/cvxdnr"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Big Data",
+    "community": "",
+    "description": "Big data/Data Science",
+    "links": {
+      "skype": "http://goo.gl/n2djvo"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE C++",
+    "community": "",
+    "description": "C++",
+    "links": {
+      "skype": "http://goo.gl/tajsf2"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE CSS",
+    "community": "",
+    "description": "CSS",
+    "links": {
+      "skype": "http://goo.gl/nsmtb3"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Database",
+    "community": "",
+    "description": "Databases",
+    "links": {
+      "skype": "http://goo.gl/jhuouj"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE DevOps",
+    "community": "",
+    "description": "DevOps",
+    "links": {
+      "skype": "http://goo.gl/i3mwjc"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE HTML/CSS/JS",
+    "community": "",
+    "description": "HTML/CSS/JS",
+    "links": {
+      "skype": "http://goo.gl/nvj9fk"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE InfoSec",
+    "community": "",
+    "description": "Info Security",
+    "links": {
+      "skype": "http://goo.gl/noc6rq"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE iOS",
+    "community": "",
+    "description": "Development of a iOS",
+    "links": {
+      "skype": "http://goo.gl/kjnfsn"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE IT",
+    "community": "",
+    "description": "Any",
+    "links": {
+      "skype": "http://goo.gl/folxzp"
+    },
+    "comments": ""
+  },
+  {
+    "name": "True Java",
+    "community": "",
+    "description": "Java, JVM, Software, Design",
+    "links": {
+      "skype": "http://tinyurl.com/truejava"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Javascript",
+    "community": "",
+    "description": "JavaScript",
+    "links": {
+      "skype": "http://goo.gl/1atiyi"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE LAMP",
+    "community": "",
+    "description": "Linux/Apache/MySql/PHP, Python, Perl",
+    "links": {
+      "skype": "http://goo.gl/fbeagb"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Python",
+    "community": "",
+    "description": "Python",
+    "links": {
+      "skype": "http://goo.gl/c8ky7e"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Ruby",
+    "community": "",
+    "description": "Ruby",
+    "links": {
+      "skype": "http://goo.gl/g5bvgd"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Rust",
+    "community": "",
+    "description": "Rust",
+    "links": {
+      "skype": "http://goo.gl/kwhhov"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE StartUp",
+    "community": "",
+    "description": "Russian speaking StartUp community.",
+    "links": {
+      "skype": "http://goo.gl/unpceb"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE System Administration",
+    "community": "",
+    "description": "Russian speaking SysAdmins",
+    "links": {
+      "skype": "http://goo.gl/znsgaf"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Unix",
+    "community": "",
+    "description": "*nix",
+    "links": {
+      "skype": "http://goo.gl/rqcepd"
+    },
+    "comments": ""
+  },
+  {
+    "name": "TRUE Windows Development",
+    "community": "",
+    "description": "Development of a Windows Phone/RT/WPF",
+    "links": {
+      "skype": "http://goo.gl/qzot3t"
+    },
+    "comments": ""
+  },
+  {
+    "name": "#javascript",
+    "community": "",
+    "description": "javascript, nodejs, angularjs, ...",
+    "links": {
+      "other": "irc:  http://learn.javascript.ru/chat?nick=%d0%93%d0%be%d1%81%d1%82%d1%8c"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Laravel",
+    "community": "",
+    "description": "Laravel, PHP",
+    "links": {
+      "gitter": "https://gitter.im/laravelrus/chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Laravel Framework",
+    "community": "",
+    "description": "Laravel Framework",
+    "links": {
+      "gitter": "https://gitter.im/php-ua/laravel"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Lovely Clojure",
+    "community": "",
+    "description": "Clojure, Clojurescript,  FP",
+    "links": {
+      "skype": "http://tinyurl.com/clj-cljs"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Mobile Web UA",
+    "community": "",
+    "description": "Hybrid apps, Phonegap, Crosswalk ...",
+    "links": {
+      "skype": "http://bit.ly/mobile-web-ua"
+    },
+    "comments": ""
+  },
+  {
+    "name": "MoscowJS",
+    "community": "",
+    "description": "HTML5, CSS3, Javascript",
+    "links": {
+      "gitter": "https://gitter.im/moscowjs/chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": ".NET, C#, Azure",
+    "community": "",
+    "description": ".NET, ASP.NET, C#, Azure, Xamarin",
+    "links": {
+      "skype": "http://bit.ly/dotnet-chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "NodeJS RUS",
+    "community": "",
+    "description": "NodeJS",
+    "links": {
+      "gitter": "https://gitter.im/nodejsrus/chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "NodeJS UA",
+    "community": "",
+    "description": "NodeJS + DevOps and NoSQL",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/node"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Phalcon RUS",
+    "community": "",
+    "description": "Phalcon, PHP",
+    "links": {
+      "gitter": "https://gitter.im/phalcon-rus/chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Phalcon Framework",
+    "community": "",
+    "description": "Phalcon Framework",
+    "links": {
+      "gitter": "https://gitter.im/php-ua/phalcon"
+    },
+    "comments": ""
+  },
+  {
+    "name": "PHP UA",
+    "community": "",
+    "description": "PHP",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/php",
+      "skype": "http://bit.ly/php-ua"
+    },
+    "comments": "Chat migrated to Gitter"
+  },
+  {
+    "name": "PHP Community",
+    "community": "",
+    "description": "PHP Community",
+    "links": {
+      "gitter": "https://gitter.im/php-ua/php"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Piter United",
+    "community": "",
+    "description": "Объединение ИТ-сообществ Санкт-Петербурга",
+    "links": {
+      "slack": "http://bit.ly/piterunited"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Python UA",
+    "community": "",
+    "description": "Python",
+    "links": {
+      "skype": "http://bit.ly/python-ua"
+    },
+    "comments": ""
+  },
+  {
+    "name": "QAC: Automation in testing",
+    "community": "",
+    "description": "QA and Automation",
+    "links": {
+      "skype": "http://bit.ly/test-automation-chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "ReactJS",
+    "community": "",
+    "description": "ReactJS, Flux, Redux",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/reactjs",
+      "skype": "http://bit.ly/reactjs-chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Ruby/RoR",
+    "community": "",
+    "description": "Ruby, Rails",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/ruby-ua",
+      "skype": "http://bit.ly/ruby-ua"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Ruby&whatever",
+    "community": "",
+    "description": "Ruby",
+    "links": {
+      "skype": "http://tinyurl.com/rubyconf"
+    },
+    "comments": "Just be a good person."
+  },
+  {
+    "name": "RustUA",
+    "community": "",
+    "description": "Rust",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/rust"
+    },
+    "comments": ""
+  },
+  {
+    "name": "RuHaxe",
+    "community": "",
+    "description": "Haxe",
+    "links": {
+      "skype": "http://bit.ly/ru-haxe-chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "SalesforceRu",
+    "community": "",
+    "description": "Russian-speaking Salesforce developers",
+    "links": {
+      "gitter": "https://gitter.im/salesforceru/salesforceru"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Startups",
+    "community": "",
+    "description": "Startups, Entrepreneurship",
+    "links": {
+      "skype": "skype"
+    },
+    "comments": "[bit.ly/startups-ua-chat](http://bit.ly/startups-ua-chat)"
+  },
+  {
+    "name": "Scala UA",
+    "community": "",
+    "description": "Scala, JVM",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/scala",
+      "skype": "http://bit.ly/scala-ua"
+    },
+    "comments": "Skype is a read-only archive"
+  },
+  {
+    "name": "SwiftChat",
+    "community": "",
+    "description": "Swift, iOS, OSX",
+    "links": {
+      "skype": "http://bit.ly/swift_skype_chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "ScalaChat",
+    "community": "",
+    "description": "Scala, JVM, Software Design",
+    "links": {
+      "gitter": "https://gitter.im/dev-ua/scala",
+      "other": "https://scala-ru.herokuapp.com",
+      "skype": "http://bit.ly/scalachat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "slack.dev.by",
+    "community": "",
+    "description": "Belarussian dev community (lot of channels on different topics)",
+    "links": {
+      "slack": "http://slack.dev.by/"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Spb Frontend",
+    "community": "",
+    "description": "js, css, html",
+    "links": {
+      "slack": "https://spb-frontend.slack.com",
+      "gitter": " https://gitter.im/spb-frontend/talks"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Symfony Framework UA",
+    "community": "",
+    "description": "Symfony Framework",
+    "links": {
+      "gitter": "https://gitter.im/php-ua/symfony"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Symfony Framework RU",
+    "community": "",
+    "description": "Symfony Framework",
+    "links": {
+      "gitter": "https://gitter.im/symfonysib/symfony"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Unity",
+    "community": "",
+    "description": "Unity Engine",
+    "links": {
+      "other": "https://github.com/dev-ua/unity"
+    },
+    "comments": ""
+  },
+  {
+    "name": "VIM",
+    "community": "",
+    "description": "VIM",
+    "links": {
+      "skype": "http://tinyurl.com/ruvimchat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "#webdev",
+    "community": "",
+    "description": "Web-development theory and practice",
+    "links": {
+      "other": "irc: http://webdev.a-ec.name"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Yii Framework",
+    "community": "",
+    "description": "Yii Framework",
+    "links": {
+      "gitter": "https://gitter.im/php-ua/yii"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Zend Framework",
+    "community": "",
+    "description": "Zend Framework",
+    "links": {
+      "gitter": "https://gitter.im/php-ua/zf"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Веб-стандарты",
+    "community": "",
+    "description": "HTML, CSS, SVG, JS",
+    "links": {
+      "slack": "http://slack.web-standards.ru"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Понаехавшие ITишники в Мюнхен",
+    "community": "",
+    "description": "Russian speaking IT community in Munich, Germany.",
+    "links": {
+      "skype": "http://tinyurl.com/skype-traktoristi-v-munchene"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Понаехавшие ITишники в Берлине",
+    "community": "",
+    "description": "Russian speaking IT community in Berlin, Germany.",
+    "links": {
+      "skype": "http://bit.ly/berlin-ru-it-chat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Ржавый ящик",
+    "community": "",
+    "description": "Rust",
+    "links": {
+      "gitter": "https://gitter.im/rurust/general"
+    },
+    "comments": "No offence, no flame, no spam."
+  },
+  {
+    "name": "Тракторист UA",
+    "community": "",
+    "description": "For those who plan to work or works abroad",
+    "links": {
+      "skype": "http://bit.ly/it-emigrant-ua"
+    },
+    "comments": "Beware of Trolls!"
+  }
+]
