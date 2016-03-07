@@ -23,7 +23,7 @@
 | **AngularJS UA** |  | AngularJS, Javascript | http://angular.im |  |  |  |  |
 | **Android rus-speaking developers chat** |  | Android | https://gitter.im/rus-speaking/android |  |  |  |  |
 | **Android United** |  | Android |  |  | http://bit.ly/androidchat |  |  |
-| **Android Developers UA** |  | Android |  |  | https://join.skype.com/ka6cynd1utkb |  |  |
+| **Android Developers UA** |  | Android |  |  | https://join.skype.com/vG41lcKg7PtG |  |  |
 | **Ansible RUS** |  | Ansible |  | https://goo.gl/vqfjzp |  |  | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
 | **Cocoa Chat** |  | Cocoa |  |  | http://bit.ly/cocoa-chat |  | Read guidelines or be banned! |
 | **Clojure UA** |  | Clojure, Clojurescript,  FP | https://gitter.im/dev-ua/clojure |  |  |  |  |
