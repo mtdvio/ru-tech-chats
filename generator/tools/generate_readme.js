@@ -4,11 +4,25 @@ import task from './lib/task';
 
 const table = (data) => {
   return data.map(row).join('\n');
-};
+}
 
 const row = (rowData) => {
-  return `| **${rowData.name}** | ${rowData.community || ''} | ${rowData.description || ''} | ${rowData.links.gitter || ''} | ${rowData.links.slack || ''} | ${rowData.links.skype || ''} | ${rowData.links.other || ''} | ${rowData.comments || ''} |`;
-};
+  return `| **${rowData.name}** | ${rowData.community || ''} | ${rowData.description || ''} | ${ links(rowData.links) } | ${rowData.comments || ''} |`;
+}
+
+const link = (name, url) => {
+  if (url) return `${name}: ${url}`
+  return ''
+}
+
+const links = (list) => {
+  return [
+    link('Gitter', list.gitter),
+    link('Slack', list.slack),
+    link('Skype', list.skype),
+    link('Other', list.other)
+  ].filter( x => x.length > 0 ).join('<br>')
+}
 
 const content = `Это - список русскоязычных чатов об IT.
 
@@ -27,13 +41,13 @@ const content = `Это - список русскоязычных чатов о�
 Список
 ------
 
-| Название             | Коммьюнити | Технологии                      | Gitter | Slack | Skype | Другой клиент | Правила участия |
-|--------------------- | ---------- | ------------------------------- | ------ | ----- | ----- | ------------- |       :-:       |
+| Название             | Коммьюнити | Технологии                      |   URL   | Правила участия |
+|--------------------- | ---------- | ------------------------------- | ------- |       :-:       |
 ${table(data)}
-`;
+`
 
 export default task( async function generate_readme() {
   return fs.writeFile('../README.md', content);
-});
+})
 
 
