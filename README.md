@@ -71,7 +71,7 @@
 | **TRUE System Administration** |  | Russian speaking SysAdmins | Skype: http://goo.gl/zNsGAf |  |
 | **TRUE Unix** |  | *nix | Skype: http://goo.gl/rQcEPD |  |
 | **TRUE Windows Development** |  | Development of a Windows Phone/RT/WPF | Skype: http://goo.gl/QZOt3t |  |
-| **#javascript** |  | javascript, nodejs, angularjs, ... | Other: irc:  http://learn.javascript.ru/chat?nick=%d0%93%d0%be%d1%81%d1%82%d1%8c |  |
+| **Javascript.ru** |  | javascript, nodejs, angularjs, ... | Slack: http://slack.javascript.ru |  |
 | **Laravel** |  | Laravel, PHP | Gitter: https://gitter.im/laravelrus/chat |  |
 | **Laravel Framework** |  | Laravel Framework | Gitter: https://gitter.im/php-ua/laravel |  |
 | **Lovely Clojure** |  | Clojure, Clojurescript,  FP | Skype: http://tinyurl.com/clj-cljs |  |
