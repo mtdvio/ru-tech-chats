@@ -489,11 +489,11 @@
     "comments": ""
   },
   {
-    "name": "#javascript",
+    "name": "Javascript.ru",
     "community": "",
     "description": "javascript, nodejs, angularjs, ...",
     "links": {
-      "other": "irc:  http://learn.javascript.ru/chat?nick=%d0%93%d0%be%d1%81%d1%82%d1%8c"
+      "slack": "http://slack.javascript.ru"
     },
     "comments": ""
   },
