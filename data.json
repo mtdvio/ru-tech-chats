@@ -1,7 +1,11 @@
 [
   {
     "name": "AI-ML-DS",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Искусственный интеллект, машинное обучение, Data Science",
     "links": {
       "gitter": "https://gitter.im/dev-ua/ai-ml-ds"
@@ -28,7 +32,11 @@
   },
   {
     "name": "AngularJS UA",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "AngularJS, Javascript",
     "links": {
       "gitter": "http://angular.im"
@@ -82,7 +90,11 @@
   },
   {
     "name": "Clojure UA",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Clojure, Clojurescript,  FP",
     "links": {
       "gitter": "https://gitter.im/dev-ua/clojure"
@@ -91,7 +103,11 @@
   },
   {
     "name": "Dart group",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Dart",
     "links": {
       "gitter": "https://gitter.im/dev-ua/dart",
@@ -119,7 +135,11 @@
   },
   {
     "name": "Ember Chat",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "EmberJS",
     "links": {
       "gitter": "https://gitter.im/dev-ua/ember"
@@ -146,7 +166,11 @@
   },
   {
     "name": "Frontend UA",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "HTML5, CSS3, Javascript, ...",
     "links": {
       "gitter": "http://frontendua.im"
@@ -173,7 +197,11 @@
   },
   {
     "name": "Go Lang",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Go",
     "links": {
       "gitter": "https://gitter.im/dev-ua/go",
@@ -202,7 +230,11 @@
   },
   {
     "name": "Haskell UA",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Haskell Chat",
     "links": {
       "gitter": "https://gitter.im/dev-ua/haskell"
@@ -562,7 +594,11 @@
   },
   {
     "name": "NodeJS UA",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "NodeJS + DevOps and NoSQL",
     "links": {
       "gitter": "https://gitter.im/dev-ua/node"
@@ -589,7 +625,11 @@
   },
   {
     "name": "PHP UA",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "PHP",
     "links": {
       "gitter": "https://gitter.im/dev-ua/php",
@@ -635,7 +675,11 @@
   },
   {
     "name": "ReactJS",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "ReactJS, Flux, Redux",
     "links": {
       "gitter": "https://gitter.im/dev-ua/reactjs",
@@ -645,7 +689,11 @@
   },
   {
     "name": "Ruby/RoR",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Ruby, Rails",
     "links": {
       "gitter": "https://gitter.im/dev-ua/ruby-ua",
@@ -664,7 +712,11 @@
   },
   {
     "name": "RustUA",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Rust",
     "links": {
       "gitter": "https://gitter.im/dev-ua/rust"
@@ -700,7 +752,11 @@
   },
   {
     "name": "Scala UA",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Scala, JVM",
     "links": {
       "gitter": "https://gitter.im/dev-ua/scala",
@@ -719,7 +775,11 @@
   },
   {
     "name": "ScalaChat",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Scala, JVM, Software Design",
     "links": {
       "gitter": "https://gitter.im/dev-ua/scala",
@@ -767,7 +827,11 @@
   },
   {
     "name": "Unity",
-    "community": "",
+    "community": {
+      "name" : "Dev UA",
+      "icon" : "./communities/dev-ua.png",
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+    },
     "description": "Unity Engine",
     "links": {
       "gitter": "https://gitter.im/dev-ua/unity"

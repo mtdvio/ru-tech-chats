@@ -7,7 +7,7 @@ const table = (data) => {
 }
 
 const row = (rowData) => {
-  return `| **${rowData.name}** | ${rowData.community || ''} | ${rowData.description || ''} | ${ links(rowData.links) } | ${rowData.comments || ''} |`;
+  return `| **${rowData.name}** | ${ community(rowData.community) } | ${rowData.description || ''} | ${ links(rowData.links) } | ${rowData.comments || ''} |`;
 }
 
 const link = (name, url) => {
@@ -22,6 +22,11 @@ const links = (list) => {
     link('Skype', list.skype),
     link('Other', list.other)
   ].filter( x => x.length > 0 ).join('<br>')
+}
+
+const community = comm => {
+  if (!comm) return ''
+  return `![${comm.name}](${comm.icon}) [${comm.name}](${comm.link})`
 }
 
 const content = `Это - список русскоязычных чатов об IT.
