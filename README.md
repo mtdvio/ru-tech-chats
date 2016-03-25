@@ -21,29 +21,29 @@
 
 | Название             | Коммьюнити | Технологии                      |   URL   | Правила участия |
 |--------------------- | ---------- | ------------------------------- | ------- |       :-:       |
-| **AI-ML-DS** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Искусственный интеллект, машинное обучение, Data Science | Gitter: https://gitter.im/dev-ua/ai-ml-ds |  |
+| **AI-ML-DS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Искусственный интеллект, машинное обучение, Data Science | Gitter: https://gitter.im/dev-ua/ai-ml-ds |  |
 | **AllThatJS** |  | JavaScript | Slack: https://allthatjs.herokuapp.com |  |
 | **Angular RUS** |  | AngularJS, Javascript | Gitter: https://gitter.im/angularjsrus/chat |  |
-| **AngularJS UA** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | AngularJS, Javascript | Gitter: http://angular.im |  |
+| **AngularJS UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | AngularJS, Javascript | Gitter: http://angular.im |  |
 | **Android rus-speaking developers chat** |  | Android | Gitter: https://gitter.im/rus-speaking/android |  |
 | **Android United** |  | Android | Skype: http://bit.ly/androidchat |  |
 | **Android Developers UA** |  | Android | Skype: https://join.skype.com/vG41lcKg7PtG |  |
 | **Ansible RUS** |  | Ansible | Slack: https://goo.gl/vQfjzP | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
 | **Cocoa Chat** |  | Cocoa | Skype: http://bit.ly/cocoa-chat | Read guidelines or be banned! |
-| **Clojure UA** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Clojure, Clojurescript,  FP | Gitter: https://gitter.im/dev-ua/clojure |  |
-| **Dart group** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Dart | Gitter: https://gitter.im/dev-ua/dart<br>Skype: http://bit.ly/dart-chat |  |
+| **Clojure UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Clojure, Clojurescript,  FP | Gitter: https://gitter.im/dev-ua/clojure |  |
+| **Dart group** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Dart | Gitter: https://gitter.im/dev-ua/dart<br>Skype: http://bit.ly/dart-chat |  |
 | **DevOps for Devs** |  | Vagrant, Docker, Dokku OH MY! | Skype: http://bit.ly/devops-for-devs |  |
 | **DIY / Glory to the sad Robots** |  | Hardware, Microcontrollers, Robotics | Skype: http://bit.ly/robots-chat |  |
-| **Ember Chat** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | EmberJS | Gitter: https://gitter.im/dev-ua/ember |  |
+| **Ember Chat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | EmberJS | Gitter: https://gitter.im/dev-ua/ember |  |
 | **Erlang / Elixir** |  | Erlang, Elixir | Slack: http://otp-russian.herokuapp.com/ | Be nice. |
 | **Freelance (OdeskConf)** |  | any | Slack: отправить json вида `{"email": "name@domain.com"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite` | работать удалённо |
-| **Frontend UA** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | HTML5, CSS3, Javascript, ... | Gitter: http://frontendua.im |  |
+| **Frontend UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | HTML5, CSS3, Javascript, ... | Gitter: http://frontendua.im |  |
 | **Frontend KZ** |  | HTML5, CSS3, Javascript, ... | Slack: http://frontendkz.github.io/ |  |
 | **GameDev без политоты** |  | GameDev | Skype: https://bit.ly/ru-gamedev-skype-chat |  |
-| **Go Lang** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
+| **Go Lang** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
 | **golang-ru.slack.com** |  | Go | Slack: http://4gophers.ru/slack |  |
 | **HangOps.ru** |  | Russian DevOps Hangouts | Slack: http://join.hangops.ru<br>Skype: skype outdated: http://tinyurl.com/hangopsru |  |
-| **Haskell UA** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Haskell Chat | Gitter: https://gitter.im/dev-ua/haskell |  |
+| **Haskell UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Haskell Chat | Gitter: https://gitter.im/dev-ua/haskell |  |
 | **Haskell** |  | Haskell Chat | Gitter: https://gitter.im/ruhaskell/forall |  |
 | **Haxe** |  | Haxe | Slack: https://haxe.slack.com/ |  |
 | **Hexlet** |  | CS, Java, Ruby, PHP, JS | Slack: http://slack-ru.hexlet.io/ |  |
@@ -83,29 +83,29 @@
 | **MoscowJS** |  | HTML5, CSS3, Javascript | Gitter: https://gitter.im/moscowjs/chat |  |
 | **.NET, C#, Azure** |  | .NET, ASP.NET, C#, Azure, Xamarin | Skype: http://bit.ly/dotnet-chat |  |
 | **NodeJS RUS** |  | NodeJS | Gitter: https://gitter.im/nodejsrus/chat |  |
-| **NodeJS UA** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | NodeJS + DevOps and NoSQL | Gitter: https://gitter.im/dev-ua/node |  |
+| **NodeJS UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | NodeJS + DevOps and NoSQL | Gitter: https://gitter.im/dev-ua/node |  |
 | **Phalcon RUS** |  | Phalcon, PHP | Gitter: https://gitter.im/phalcon-rus/chat |  |
 | **Phalcon Framework** |  | Phalcon Framework | Gitter: https://gitter.im/php-ua/phalcon |  |
-| **PHP UA** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | PHP | Gitter: https://gitter.im/dev-ua/php<br>Skype: http://bit.ly/php-ua | Chat migrated to Gitter |
+| **PHP UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | PHP | Gitter: https://gitter.im/dev-ua/php<br>Skype: http://bit.ly/php-ua | Chat migrated to Gitter |
 | **PHP Community** |  | PHP Community | Gitter: https://gitter.im/php-ua/php |  |
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
 | **Python UA** |  | Python | Skype: http://bit.ly/python-ua |  |
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
-| **ReactJS** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | ReactJS, Flux, Redux | Gitter: https://gitter.im/dev-ua/reactjs<br>Skype: http://bit.ly/reactjs-chat |  |
-| **Ruby/RoR** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua |  |
+| **ReactJS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | ReactJS, Flux, Redux | Gitter: https://gitter.im/dev-ua/reactjs<br>Skype: http://bit.ly/reactjs-chat |  |
+| **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua |  |
 | **Ruby&whatever** |  | Ruby | Skype: http://tinyurl.com/rubyconf | Just be a good person. |
-| **RustUA** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
+| **RustUA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
 | **RuHaxe** |  | Haxe | Skype: http://bit.ly/ru-haxe-chat |  |
 | **SalesforceRu** |  | Russian-speaking Salesforce developers | Gitter: https://gitter.im/salesforceru/salesforceru |  |
 | **Startups** |  | Startups, Entrepreneurship | Skype: http://bit.ly/startups-ua-chat |  |
-| **Scala UA** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM | Gitter: https://gitter.im/dev-ua/scala<br>Skype: http://bit.ly/scala-ua | Skype is a read-only archive |
+| **Scala UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM | Gitter: https://gitter.im/dev-ua/scala<br>Skype: http://bit.ly/scala-ua | Skype is a read-only archive |
 | **SwiftChat** |  | Swift, iOS, OSX | Skype: http://bit.ly/swift_skype_chat |  |
-| **ScalaChat** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM, Software Design | Gitter: https://gitter.im/dev-ua/scala<br>Slack: https://scala-ru.herokuapp.com<br>Skype: http://bit.ly/scalachat |  |
+| **ScalaChat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM, Software Design | Gitter: https://gitter.im/dev-ua/scala<br>Slack: https://scala-ru.herokuapp.com<br>Skype: http://bit.ly/scalachat |  |
 | **slack.dev.by** |  | Belarussian dev community (lot of channels on different topics) | Slack: http://slack.dev.by/ |  |
 | **Spb Frontend** |  | js, css, html | Gitter:  https://gitter.im/spb-frontend/talks<br>Slack: https://spb-frontend.slack.com |  |
 | **Symfony Framework UA** |  | Symfony Framework | Gitter: https://gitter.im/php-ua/symfony |  |
 | **Symfony Framework RU** |  | Symfony Framework | Gitter: https://gitter.im/symfonysib/symfony |  |
-| **Unity** | ![Dev UA](./communities/dev-ua.png) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Unity Engine | Gitter: https://gitter.im/dev-ua/unity |  |
+| **Unity** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Unity Engine | Gitter: https://gitter.im/dev-ua/unity |  |
 | **VIM** |  | VIM | Skype: http://tinyurl.com/ruvimchat |  |
 | **#webdev** |  | Web-development theory and practice | Other: irc: http://webdev.a-ec.name |  |
 | **Yii Framework** |  | Yii Framework | Gitter: https://gitter.im/php-ua/yii |  |
