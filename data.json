@@ -674,6 +674,15 @@
     "comments": ""
   },
   {
+    "name": "QAC: Performance and load testing",
+    "community": "",
+    "description": "QA и нагрузочное тестирование",
+    "links": {
+      "skype": "https://join.skype.com/ivtvbl4t6r9K"
+    },
+    "comments": ""
+  },
+  {
     "name": "ReactJS",
     "community": {
       "name" : "Dev UA",
@@ -738,6 +747,18 @@
     "description": "Russian-speaking Salesforce developers",
     "links": {
       "gitter": "https://gitter.im/salesforceru/salesforceru"
+    },
+    "comments": ""
+  },
+  {
+    "name": "SoftwareTesters",
+    "community": {
+      "name": "URKQA",
+      "link": "www.ukrqa.org.ua"
+    },
+    "description": "Интернациональный чат тестировщиков",
+    "links": {
+      "slack": "https://docs.google.com/forms/d/15DCqFyJTQRkPivEWrrw5a9Hxwdw82i8FvEA6mUb_CWw/viewform"
     },
     "comments": ""
   },

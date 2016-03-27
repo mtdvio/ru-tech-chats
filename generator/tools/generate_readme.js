@@ -26,7 +26,8 @@ const links = (list) => {
 
 const community = comm => {
   if (!comm) return ''
-  return `![${comm.name}](${comm.icon}) [${comm.name}](${comm.link})`
+  if (!comm.icon) return `[${comm.name}](${comm.link})`
+  else return `[![${comm.name}](${comm.icon})](${comm.link}) [${comm.name}](${comm.link})`
 }
 
 const content = `Это - список русскоязычных чатов об IT.
