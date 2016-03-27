@@ -91,12 +91,14 @@
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
 | **Python UA** |  | Python | Skype: http://bit.ly/python-ua |  |
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
+| **QAC: Performance and load testing** |  | QA и нагрузочное тестирование | Skype: https://join.skype.com/ivtvbl4t6r9K |  |
 | **ReactJS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | ReactJS, Flux, Redux | Gitter: https://gitter.im/dev-ua/reactjs<br>Skype: http://bit.ly/reactjs-chat |  |
 | **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua |  |
 | **Ruby&whatever** |  | Ruby | Skype: http://tinyurl.com/rubyconf | Just be a good person. |
 | **RustUA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
 | **RuHaxe** |  | Haxe | Skype: http://bit.ly/ru-haxe-chat |  |
 | **SalesforceRu** |  | Russian-speaking Salesforce developers | Gitter: https://gitter.im/salesforceru/salesforceru |  |
+| **SoftwareTesters** | [URKQA](www.ukrqa.org.ua) | Интернациональный чат тестировщиков | Slack: https://docs.google.com/forms/d/15DCqFyJTQRkPivEWrrw5a9Hxwdw82i8FvEA6mUb_CWw/viewform |  |
 | **Startups** |  | Startups, Entrepreneurship | Skype: http://bit.ly/startups-ua-chat |  |
 | **Scala UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM | Gitter: https://gitter.im/dev-ua/scala<br>Skype: http://bit.ly/scala-ua | Skype is a read-only archive |
 | **SwiftChat** |  | Swift, iOS, OSX | Skype: http://bit.ly/swift_skype_chat |  |
