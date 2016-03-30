@@ -823,7 +823,7 @@
     "community": "",
     "description": "js, css, html",
     "links": {
-      "slack": "https://spb-frontend.slack.com",
+      "slack": "http://slack.spb-frontend.ru/",
       "gitter": " https://gitter.im/spb-frontend/talks"
     },
     "comments": ""
