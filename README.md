@@ -104,7 +104,7 @@
 | **SwiftChat** |  | Swift, iOS, OSX | Skype: http://bit.ly/swift_skype_chat |  |
 | **ScalaChat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM, Software Design | Gitter: https://gitter.im/dev-ua/scala<br>Slack: https://scala-ru.herokuapp.com<br>Skype: http://bit.ly/scalachat |  |
 | **slack.dev.by** |  | Belarussian dev community (lot of channels on different topics) | Slack: http://slack.dev.by/ |  |
-| **Spb Frontend** |  | js, css, html | Gitter:  https://gitter.im/spb-frontend/talks<br>Slack: https://spb-frontend.slack.com |  |
+| **Spb Frontend** |  | js, css, html | Gitter:  https://gitter.im/spb-frontend/talks<br>Slack: http://slack.spb-frontend.ru/ |  |
 | **Symfony Framework UA** |  | Symfony Framework | Gitter: https://gitter.im/php-ua/symfony |  |
 | **Symfony Framework RU** |  | Symfony Framework | Gitter: https://gitter.im/symfonysib/symfony |  |
 | **Unity** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Unity Engine | Gitter: https://gitter.im/dev-ua/unity |  |
