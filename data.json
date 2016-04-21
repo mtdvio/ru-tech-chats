@@ -939,5 +939,14 @@
       "skype": "http://bit.ly/it-emigrant-ua"
     },
     "comments": "Beware of Trolls!"
+  },,
+  {
+    "name": "Pyha",
+    "community": "",
+    "description": "Сообщество форума pyha.ru",
+    "links": {
+      "slack": "https://pyha.slack.com"
+    },
+    "comments": ""
   }
 ]
