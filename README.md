@@ -89,6 +89,7 @@
 | **PHP UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | PHP | Gitter: https://gitter.im/dev-ua/php<br>Skype: http://bit.ly/php-ua | Chat migrated to Gitter |
 | **PHP Community** |  | PHP Community | Gitter: https://gitter.im/php-ua/php |  |
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
+| **Postgres.chat** |  | Чат о Postgres | Gitter: https://gitter.im/postgresmen/postgresqlrussia |  |
 | **Python UA** |  | Python | Skype: http://bit.ly/python-ua |  |
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
 | **QAC: Performance and load testing** |  | QA и нагрузочное тестирование | Skype: https://join.skype.com/ivtvbl4t6r9K |  |
