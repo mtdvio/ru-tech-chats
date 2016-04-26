@@ -656,6 +656,15 @@
     "comments": ""
   },
   {
+    "name": "Postgres.chat",
+    "community": "",
+    "description": "Чат о Postgres",
+    "links": {
+      "gitter": "https://gitter.im/postgresmen/postgresqlrussia"
+    },
+    "comments": ""
+  },
+  {
     "name": "Python UA",
     "community": "",
     "description": "Python",
