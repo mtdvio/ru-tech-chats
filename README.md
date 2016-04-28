@@ -118,4 +118,4 @@
 | **Понаехавшие ITишники в Берлине** |  | Russian speaking IT community in Berlin, Germany. | Skype: http://bit.ly/berlin-ru-it-chat |  |
 | **Ржавый ящик** |  | Rust | Gitter: https://gitter.im/rurust/general | No offence, no flame, no spam. |
 | **Тракторист UA** |  | For those who plan to work or works abroad | Skype: http://bit.ly/it-emigrant-ua | Beware of Trolls! |
-| **Pyha** |  | Сообщество форума pyha.ru  | Slack: https://pyha.slack.com |  |
+| **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
