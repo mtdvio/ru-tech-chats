@@ -878,6 +878,15 @@
     "comments": ""
   },
   {
+    "name": "Vue.js",
+    "community": "",
+    "description": "Vue.js, Javascript",
+    "links": {
+      "gitter": "https://gitter.im/vuejs-ru/Discussion"
+    },
+    "comments": ""
+  },
+  {
     "name": "#webdev",
     "community": "",
     "description": "Web-development theory and practice",
