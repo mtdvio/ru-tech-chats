@@ -110,6 +110,7 @@
 | **Symfony Framework RU** |  | Symfony Framework | Gitter: https://gitter.im/symfonysib/symfony |  |
 | **Unity** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Unity Engine | Gitter: https://gitter.im/dev-ua/unity |  |
 | **VIM** |  | VIM | Skype: http://tinyurl.com/ruvimchat |  |
+| **Vue.js** |  | Vue.js, Javascript | Gitter: https://gitter.im/vuejs-ru/Discussion |  |
 | **#webdev** |  | Web-development theory and practice | Other: irc: http://webdev.a-ec.name |  |
 | **Yii Framework** |  | Yii Framework | Gitter: https://gitter.im/php-ua/yii |  |
 | **Zend Framework** |  | Zend Framework | Gitter: https://gitter.im/php-ua/zf |  |
