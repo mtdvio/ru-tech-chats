@@ -765,9 +765,9 @@
       "name": "URKQA",
       "link": "http://www.ukrqa.org.ua"
     },
-    "description": "Интернациональный чат тестировщиков",
+    "description": "Интернациональный чат русскоязычных тестировщиков",
     "links": {
-      "slack": "https://docs.google.com/forms/d/15DCqFyJTQRkPivEWrrw5a9Hxwdw82i8FvEA6mUb_CWw/viewform"
+      "slack": "https://software-testers.herokuapp.com/"
     },
     "comments": ""
   },
