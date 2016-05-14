@@ -99,7 +99,7 @@
 | **RustUA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
 | **RuHaxe** |  | Haxe | Skype: http://bit.ly/ru-haxe-chat |  |
 | **SalesforceRu** |  | Russian-speaking Salesforce developers | Gitter: https://gitter.im/salesforceru/salesforceru |  |
-| **SoftwareTesters** | [URKQA](http://www.ukrqa.org.ua) | Интернациональный чат тестировщиков | Slack: https://docs.google.com/forms/d/15DCqFyJTQRkPivEWrrw5a9Hxwdw82i8FvEA6mUb_CWw/viewform |  |
+| **SoftwareTesters** | [URKQA](http://www.ukrqa.org.ua) | Интернациональный чат русскоязычных тестировщиков | Slack: https://software-testers.herokuapp.com/ |  |
 | **Startups** |  | Startups, Entrepreneurship | Skype: http://bit.ly/startups-ua-chat |  |
 | **Scala UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM | Gitter: https://gitter.im/dev-ua/scala<br>Skype: http://bit.ly/scala-ua | Skype is a read-only archive |
 | **SwiftChat** |  | Swift, iOS, OSX | Skype: http://bit.ly/swift_skype_chat |  |
