@@ -647,6 +647,15 @@
     "comments": ""
   },
   {
+    "name": "PHP Telegram",
+    "community": "",
+    "description": "PHP чат в telegram",
+    "links": {
+      "telegram": "https://telegram.me/prophp7"
+    },
+    "comments": ""
+  },
+  {
     "name": "Piter United",
     "community": "",
     "description": "Объединение ИТ-сообществ Санкт-Петербурга",
