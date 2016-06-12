@@ -20,6 +20,7 @@ const links = (list) => {
     link('Gitter', list.gitter),
     link('Slack', list.slack),
     link('Skype', list.skype),
+    link('Telegram', list.telegram),
     link('Other', list.other)
   ].filter( x => x.length > 0 ).join('<br>')
 }

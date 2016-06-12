@@ -88,16 +88,19 @@
 | **Phalcon Framework** |  | Phalcon Framework | Gitter: https://gitter.im/php-ua/phalcon |  |
 | **PHP UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | PHP | Gitter: https://gitter.im/dev-ua/php<br>Skype: http://bit.ly/php-ua | Chat migrated to Gitter |
 | **PHP Community** |  | PHP Community | Gitter: https://gitter.im/php-ua/php |  |
+| **PHP Telegram** |  | PHP чат в telegram | Telegram: https://telegram.me/prophp7 |  |
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
 | **Postgres.chat** |  | Чат о Postgres | Gitter: https://gitter.im/postgresmen/postgresqlrussia |  |
 | **Python UA** |  | Python | Skype: http://bit.ly/python-ua |  |
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
 | **QAC: Performance and load testing** |  | QA и нагрузочное тестирование | Skype: https://join.skype.com/ivtvbl4t6r9K |  |
 | **ReactJS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | ReactJS, Flux, Redux | Gitter: https://gitter.im/dev-ua/reactjs<br>Skype: http://bit.ly/reactjs-chat |  |
-| **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua |  |
+| **TypeScript** |  | TypeScript, russian speaking community | Telegram: https://telegram.me/joinchat/CymduD8d8RrQ1-ldWD8VmA |  |
+| **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua<br>Telegram: https://telegram.me/rubylang |  |
 | **Ruby&whatever** |  | Ruby | Skype: http://tinyurl.com/rubyconf | Just be a good person. |
 | **RustUA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
 | **RuHaxe** |  | Haxe | Skype: http://bit.ly/ru-haxe-chat |  |
+| **Salesforce-developer.ru** |  | Skype-чат сообщества Salesforce-developer.ru | Skype: https://join.skype.com/i5TBVxbhTULX |  |
 | **SalesforceRu** |  | Russian-speaking Salesforce developers | Gitter: https://gitter.im/salesforceru/salesforceru |  |
 | **SoftwareTesters** | [URKQA](http://www.ukrqa.org.ua) | Интернациональный чат русскоязычных тестировщиков | Slack: https://software-testers.herokuapp.com/ |  |
 | **Startups** |  | Startups, Entrepreneurship | Skype: http://bit.ly/startups-ua-chat |  |
@@ -117,6 +120,7 @@
 | **Веб-стандарты** |  | HTML, CSS, SVG, JS | Slack: http://slack.web-standards.ru |  |
 | **Понаехавшие ITишники в Мюнхен** |  | Russian speaking IT community in Munich, Germany. | Skype: http://tinyurl.com/skype-traktoristi-v-munchene |  |
 | **Понаехавшие ITишники в Берлине** |  | Russian speaking IT community in Berlin, Germany. | Skype: http://bit.ly/berlin-ru-it-chat |  |
+| **ITишники в Бангкоке** |  | Russian speaking IT community in Bangkok, Thailand. | Telegram: https://telegram.me/joinchat/Begz4ggYdS9wVT8D_9A5iQ | Проблемы с доступом - пишите в личку @querystring |
 | **Ржавый ящик** |  | Rust | Gitter: https://gitter.im/rurust/general | No offence, no flame, no spam. |
 | **Тракторист UA** |  | For those who plan to work or works abroad | Skype: http://bit.ly/it-emigrant-ua | Beware of Trolls! |
 | **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
