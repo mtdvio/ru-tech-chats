@@ -29,6 +29,7 @@
 | **Android United** |  | Android | Skype: http://bit.ly/androidchat |  |
 | **Android Developers UA** |  | Android | Skype: https://join.skype.com/vG41lcKg7PtG |  |
 | **Ansible RUS** |  | Ansible | Slack: https://goo.gl/vQfjzP | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
+| **Cocoa Developers Club** |  | iOS/OS X | Slack: http://cocoadevelopers.club/chat/ |  |
 | **Cocoa Chat** |  | Cocoa | Skype: http://bit.ly/cocoa-chat | Read guidelines or be banned! |
 | **Clojure UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Clojure, Clojurescript,  FP | Gitter: https://gitter.im/dev-ua/clojure |  |
 | **Dart group** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Dart | Gitter: https://gitter.im/dev-ua/dart<br>Skype: http://bit.ly/dart-chat |  |
