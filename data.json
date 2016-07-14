@@ -196,6 +196,15 @@
     "comments": ""
   },
   {
+    "name": "ITCrowd KZ",
+    "community": "",
+    "description": "Developers community of Kazakhstan",
+    "links": {
+      "slack": "http://itcrowd-kz.slack.com/"
+    },
+    "comments": ""
+  },
+  {
     "name": "GameDev без политоты",
     "community": "",
     "description": "GameDev",
