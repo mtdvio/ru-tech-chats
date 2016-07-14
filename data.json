@@ -287,6 +287,15 @@
     "comments": ""
   },
   {
+    "name": "iOS Developers",
+    "community": "",
+    "description": "Русскоговорящее сообщество iOS-разработчиков",
+    "links": {
+      "skype": "https://telegram.me/ios_ru"
+    },
+    "comments": ""
+  },
+  {
     "name": "ITChat",
     "community": "",
     "description": "Web scraping, Python",
