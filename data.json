@@ -57,7 +57,7 @@
     "community": "",
     "description": "Android",
     "links": {
-      "gitter": "https://telegram.me/android_ru"
+      "telegram": "https://telegram.me/android_ru"
     },
     "comments": ""
   },
@@ -300,7 +300,7 @@
     "community": "",
     "description": "Русскоговорящее сообщество iOS-разработчиков",
     "links": {
-      "skype": "https://telegram.me/ios_ru"
+      "telegram": "https://telegram.me/ios_ru"
     },
     "comments": ""
   },

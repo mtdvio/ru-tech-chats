@@ -26,6 +26,7 @@
 | **Angular RUS** |  | AngularJS, Javascript | Gitter: https://gitter.im/angularjsrus/chat |  |
 | **AngularJS UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | AngularJS, Javascript | Gitter: http://angular.im |  |
 | **Android rus-speaking developers chat** |  | Android | Gitter: https://gitter.im/rus-speaking/android |  |
+| **Android Developers - русскоговорящее сообщество** |  | Android | Gitter: https://telegram.me/android_ru |  |
 | **Android United** |  | Android | Skype: http://bit.ly/androidchat |  |
 | **Android Developers UA** |  | Android | Skype: https://join.skype.com/vG41lcKg7PtG |  |
 | **Ansible RUS** |  | Ansible | Slack: https://goo.gl/vQfjzP | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
@@ -39,6 +40,7 @@
 | **Freelance (OdeskConf)** |  | any | Slack: отправить json вида `{"email": "name@domain.com"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite` | работать удалённо |
 | **Frontend UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | HTML5, CSS3, Javascript, ... | Gitter: http://frontendua.im |  |
 | **Frontend KZ** |  | HTML5, CSS3, Javascript, ... | Slack: http://frontendkz.github.io/ |  |
+| **ITCrowd KZ** |  | Developers community of Kazakhstan | Slack: http://itcrowd-kz.slack.com/ |  |
 | **GameDev без политоты** |  | GameDev | Skype: https://bit.ly/ru-gamedev-skype-chat |  |
 | **Go Lang** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
 | **golang-ru.slack.com** |  | Go | Slack: http://4gophers.ru/slack |  |
@@ -48,6 +50,7 @@
 | **Haxe** |  | Haxe | Slack: https://haxe.slack.com/ |  |
 | **Hexlet** |  | CS, Java, Ruby, PHP, JS | Slack: http://slack-ru.hexlet.io/ |  |
 | **How Games are made** |  | GameDev | Slack: http://hgam-invite.herokuapp.com/ |  |
+| **iOS Developers** |  | Русскоговорящее сообщество iOS-разработчиков | Skype: https://telegram.me/ios_ru |  |
 | **ITChat** |  | Web scraping, Python | Skype: http://tinyurl.com/itchatnew |  |
 | **JavaChat** |  | Java, JVM | Skype: http://bit.ly/javachatru |  |
 | **Java talks BY** |  | Java, JVM, Software Design | Skype: http://bit.ly/javatalks-by |  |
@@ -95,7 +98,7 @@
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
 | **QAC: Performance and load testing** |  | QA и нагрузочное тестирование | Skype: https://join.skype.com/ivtvbl4t6r9K |  |
 | **ReactJS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | ReactJS, Flux, Redux | Gitter: https://gitter.im/dev-ua/reactjs<br>Skype: http://bit.ly/reactjs-chat |  |
-| **TypeScript** |  | TypeScript, russian speaking community | Telegram: https://telegram.me/joinchat/CymduD8d8RrQ1-ldWD8VmA |  |
+| **TypeScript** |  | TypeScript, russian speaking community | Telegram: https://telegram.me/typescriptru |  |
 | **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua<br>Telegram: https://telegram.me/rubylang |  |
 | **Ruby&whatever** |  | Ruby | Skype: http://tinyurl.com/rubyconf | Just be a good person. |
 | **RustUA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
