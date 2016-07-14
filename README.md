@@ -26,7 +26,7 @@
 | **Angular RUS** |  | AngularJS, Javascript | Gitter: https://gitter.im/angularjsrus/chat |  |
 | **AngularJS UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | AngularJS, Javascript | Gitter: http://angular.im |  |
 | **Android rus-speaking developers chat** |  | Android | Gitter: https://gitter.im/rus-speaking/android |  |
-| **Android Developers - русскоговорящее сообщество** |  | Android | Gitter: https://telegram.me/android_ru |  |
+| **Android Developers - русскоговорящее сообщество** |  | Android | Telegram: https://telegram.me/android_ru |  |
 | **Android United** |  | Android | Skype: http://bit.ly/androidchat |  |
 | **Android Developers UA** |  | Android | Skype: https://join.skype.com/vG41lcKg7PtG |  |
 | **Ansible RUS** |  | Ansible | Slack: https://goo.gl/vQfjzP | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
@@ -50,7 +50,7 @@
 | **Haxe** |  | Haxe | Slack: https://haxe.slack.com/ |  |
 | **Hexlet** |  | CS, Java, Ruby, PHP, JS | Slack: http://slack-ru.hexlet.io/ |  |
 | **How Games are made** |  | GameDev | Slack: http://hgam-invite.herokuapp.com/ |  |
-| **iOS Developers** |  | Русскоговорящее сообщество iOS-разработчиков | Skype: https://telegram.me/ios_ru |  |
+| **iOS Developers** |  | Русскоговорящее сообщество iOS-разработчиков | Telegram: https://telegram.me/ios_ru |  |
 | **ITChat** |  | Web scraping, Python | Skype: http://tinyurl.com/itchatnew |  |
 | **JavaChat** |  | Java, JVM | Skype: http://bit.ly/javachatru |  |
 | **Java talks BY** |  | Java, JVM, Software Design | Skype: http://bit.ly/javatalks-by |  |
