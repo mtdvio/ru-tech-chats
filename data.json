@@ -98,6 +98,15 @@
     "comments": "Read guidelines or be banned!"
   },
   {
+    "name": "Cocoa Developers Club",
+    "community": "",
+    "description": "iOS/OS X",
+    "links": {
+      "slack": "http://cocoadevelopers.club/chat/"
+    },
+    "comments": ""
+  },
+  {
     "name": "Clojure UA",
     "community": {
       "name" : "Dev UA",
