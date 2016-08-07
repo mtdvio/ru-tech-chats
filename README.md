@@ -124,7 +124,7 @@
 | **Веб-стандарты** |  | HTML, CSS, SVG, JS | Slack: http://slack.web-standards.ru |  |
 | **Понаехавшие ITишники в Мюнхен** |  | Russian speaking IT community in Munich, Germany. | Skype: http://tinyurl.com/skype-traktoristi-v-munchene |  |
 | **Понаехавшие ITишники в Берлине** |  | Russian speaking IT community in Berlin, Germany. | Skype: http://bit.ly/berlin-ru-it-chat |  |
-| **ITишники в Бангкоке** |  | Russian speaking IT community in Bangkok, Thailand. | Telegram: https://telegram.me/joinchat/Begz4ggYdS9wVT8D_9A5iQ | Проблемы с доступом - пишите в личку @querystring |
+| **ITишники в Бангкоке** |  | Russian speaking IT community in Bangkok, Thailand. | Telegram: https://telegram.me/usr_local_bkk | Проблемы с доступом - пишите в личку @querystring |
 | **Ржавый ящик** |  | Rust | Gitter: https://gitter.im/rurust/general | No offence, no flame, no spam. |
 | **Тракторист UA** |  | For those who plan to work or works abroad | Skype: http://bit.ly/it-emigrant-ua | Beware of Trolls! |
 | **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
