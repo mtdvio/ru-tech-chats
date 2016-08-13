@@ -35,7 +35,7 @@
     "community": {
       "name" : "Dev UA",
       "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "link" : "https://gitter.imt/orgs/dev-ua/rooms"
     },
     "description": "AngularJS, Javascript",
     "links": {
@@ -755,7 +755,7 @@
     "community": "",
     "description": "TypeScript, russian speaking community",
     "links": {
-      "telegram": "https://telegram.me/typescriptru"
+      "telegram": "https://telegram.me/typescript_ru"
     },
     "comments": ""
   },
