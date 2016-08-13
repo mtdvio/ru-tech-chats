@@ -35,7 +35,7 @@
     "community": {
       "name" : "Dev UA",
       "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.imt/orgs/dev-ua/rooms"
+      "link" : "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "AngularJS, Javascript",
     "links": {
