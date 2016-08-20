@@ -37,7 +37,7 @@
 | **DevOps for Devs** |  | Vagrant, Docker, Dokku OH MY! | Skype: http://bit.ly/devops-for-devs |  |
 | **DIY / Glory to the sad Robots** |  | Hardware, Microcontrollers, Robotics | Skype: http://bit.ly/robots-chat |  |
 | **Ember Chat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | EmberJS | Gitter: https://gitter.im/dev-ua/ember |  |
-| **Erlang / Elixir** |  | Erlang, Elixir | Slack: http://otp-russian.herokuapp.com/ | Be nice. |
+| **Erlang / Elixir** |  | Erlang, Elixir | Slack: http://otp-russian.herokuapp.com/<br>Telegram: https://telegram.me/proelixir | Be nice. |
 | **Freelance (OdeskConf)** |  | any | Slack: отправить json вида `{"email": "name@domain.com"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite` | работать удалённо |
 | **Frontend UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | HTML5, CSS3, Javascript, ... | Gitter: http://frontendua.im |  |
 | **Frontend KZ** |  | HTML5, CSS3, Javascript, ... | Slack: http://frontendkz.github.io/ |  |
