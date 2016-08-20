@@ -169,7 +169,8 @@
     "community": "",
     "description": "Erlang, Elixir",
     "links": {
-      "slack": "http://otp-russian.herokuapp.com/"
+      "slack": "http://otp-russian.herokuapp.com/",
+      "telegram": "https://telegram.me/proelixir"
     },
     "comments": "Be nice."
   },
