@@ -128,3 +128,4 @@
 | **Ржавый ящик** |  | Rust | Gitter: https://gitter.im/rurust/general | No offence, no flame, no spam. |
 | **Тракторист UA** |  | For those who plan to work or works abroad | Skype: http://bit.ly/it-emigrant-ua | Beware of Trolls! |
 | **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
+| **Delphi Developers UA** |  | Delphi | Skype: https://join.skype.com/bkLfxSCj6kWy |  |
