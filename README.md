@@ -46,6 +46,7 @@
 | **Go Lang** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
 | **golang-ru.slack.com** |  | Go | Slack: http://4gophers.ru/slack |  |
 | **HangOps.ru** |  | Russian DevOps Hangouts | Slack: http://join.hangops.ru<br>Skype: skype outdated: http://tinyurl.com/hangopsru |  |
+| **Continuous Integration/Delivery RU** |  | Continuous Integration/Delivery на русском | Telegram: https://telegram.me/ci_cd_ru |  |
 | **Haskell UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Haskell Chat | Gitter: https://gitter.im/dev-ua/haskell |  |
 | **Haskell** |  | Haskell Chat | Gitter: https://gitter.im/ruhaskell/forall |  |
 | **Haxe** |  | Haxe | Slack: https://haxe.slack.com/ |  |
@@ -129,3 +130,4 @@
 | **Тракторист UA** |  | For those who plan to work or works abroad | Skype: http://bit.ly/it-emigrant-ua | Beware of Trolls! |
 | **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
 | **Delphi Developers UA** |  | Delphi | Skype: https://join.skype.com/bkLfxSCj6kWy |  |
+| **Fronthub** |  | js, css, html, fun, flood | Slack: https://fronthub.slack.com |  |
