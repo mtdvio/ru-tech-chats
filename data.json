@@ -257,6 +257,15 @@
     "comments": ""
   },
   {
+    "name": "Continuous Integration/Delivery RU",
+    "community": "",
+    "description": "Continuous Integration/Delivery на русском",
+    "links": {
+      "telegram": "https://telegram.me/ci_cd_ru"
+    },
+    "comments": ""
+  },
+  {
     "name": "Haskell UA",
     "community": {
       "name" : "Dev UA",
