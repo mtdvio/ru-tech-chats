@@ -1049,5 +1049,18 @@
       "skype": "https://join.skype.com/bkLfxSCj6kWy"
     },
     "comments": ""
+  },
+  {
+    "name": "Fronthub",
+    "community": "",
+    "description": "js, css, html, fun, flood",
+    "links": {
+      "slack": "https://fronthub.slack.com",
+      "email": "frontendsu@gmail.com",
+      "site": "http://fronthub.ru",
+      "blog": "http://front-end.su/",
+      "twitter": "https://twitter.com/frontendsu"
+    },
+    "comments": ""
   }
 ]
