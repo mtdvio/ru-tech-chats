@@ -1,5 +1,17 @@
 [
   {
+    "name": "Atlassian User Group Moscow",
+    "community": {
+      "name" : "Atlassian User Group",
+      "link" : "http://aug.atlassian.com/cities/moscowrussia"
+    },
+    "description": "Чат администраторов и разработчиков плагинов для продуктов Atlassian",
+    "links": {
+      "telegram": "https://telegram.me/joinchat/DAVaAweLBd8mseOknSPZrw"
+    },
+    "comments": ""
+  },
+  {
     "name": "AI-ML-DS",
     "community": {
       "name" : "Dev UA",
