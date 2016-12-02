@@ -396,7 +396,11 @@
   },
   {
     "name": "TRUE .NET",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": ".NET",
     "links": {
       "skype": "http://goo.gl/3lKLdJ"
@@ -405,7 +409,11 @@
   },
   {
     "name": "TRUE Android Development",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Android",
     "links": {
       "skype": "http://goo.gl/V8cIca"
@@ -414,7 +422,11 @@
   },
   {
     "name": "TRUE ASM",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Assembler",
     "links": {
       "skype": "http://goo.gl/CvxDnR"
@@ -423,7 +435,11 @@
   },
   {
     "name": "TRUE Big Data",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Big data/Data Science",
     "links": {
       "skype": "http://goo.gl/N2Djvo"
@@ -432,7 +448,11 @@
   },
   {
     "name": "TRUE C++",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "C++",
     "links": {
       "skype": "http://goo.gl/tAjSf2"
@@ -441,7 +461,11 @@
   },
   {
     "name": "TRUE CSS",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "CSS",
     "links": {
       "skype": "http://goo.gl/nsMtB3"
@@ -450,7 +474,11 @@
   },
   {
     "name": "TRUE Database",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Databases",
     "links": {
       "skype": "http://goo.gl/JHUouj"
@@ -459,7 +487,11 @@
   },
   {
     "name": "TRUE DevOps",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "DevOps",
     "links": {
       "skype": "http://goo.gl/i3MWjC"
@@ -468,7 +500,11 @@
   },
   {
     "name": "TRUE HTML/CSS/JS",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "HTML/CSS/JS",
     "links": {
       "skype": "http://goo.gl/NvJ9FK"
@@ -477,7 +513,11 @@
   },
   {
     "name": "TRUE InfoSec",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Info Security",
     "links": {
       "skype": "http://goo.gl/NoC6RQ"
@@ -486,7 +526,11 @@
   },
   {
     "name": "TRUE iOS",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Development of a iOS",
     "links": {
       "skype": "http://goo.gl/KJnFSN"
@@ -495,7 +539,11 @@
   },
   {
     "name": "TRUE IT",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Any",
     "links": {
       "skype": "http://goo.gl/FOlXZp"
@@ -504,7 +552,11 @@
   },
   {
     "name": "True Java",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Java, JVM, Software, Design",
     "links": {
       "skype": "http://tinyurl.com/truejava"
@@ -513,7 +565,11 @@
   },
   {
     "name": "TRUE Javascript",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "JavaScript",
     "links": {
       "skype": "http://goo.gl/1AtIyI"
@@ -522,7 +578,11 @@
   },
   {
     "name": "TRUE LAMP",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Linux/Apache/MySql/PHP, Python, Perl",
     "links": {
       "skype": "http://goo.gl/fbeAGB"
@@ -531,7 +591,11 @@
   },
   {
     "name": "TRUE Python",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Python",
     "links": {
       "skype": "http://goo.gl/c8Ky7e"
@@ -540,7 +604,11 @@
   },
   {
     "name": "TRUE Ruby",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Ruby",
     "links": {
       "skype": "http://goo.gl/g5bvGD"
@@ -549,7 +617,11 @@
   },
   {
     "name": "TRUE Rust",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Rust",
     "links": {
       "skype": "http://goo.gl/KWHhOV"
@@ -558,7 +630,11 @@
   },
   {
     "name": "TRUE StartUp",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Russian speaking StartUp community.",
     "links": {
       "skype": "http://goo.gl/UnpCEb"
@@ -567,7 +643,11 @@
   },
   {
     "name": "TRUE System Administration",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Russian speaking SysAdmins",
     "links": {
       "skype": "http://goo.gl/zNsGAf"
@@ -576,7 +656,11 @@
   },
   {
     "name": "TRUE Unix",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "*nix",
     "links": {
       "skype": "http://goo.gl/rQcEPD"
@@ -585,7 +669,11 @@
   },
   {
     "name": "TRUE Windows Development",
-    "community": "",
+    "community": {
+      "name" : "TRUE",
+      "icon" : "./communities/true.png",
+      "link" : "https://habrahabr.ru/post/242683/"
+    },
     "description": "Development of a Windows Phone/RT/WPF",
     "links": {
       "skype": "http://goo.gl/QZOt3t"
@@ -742,6 +830,80 @@
     "description": "Чат о Postgres",
     "links": {
       "gitter": "https://gitter.im/postgresmen/postgresqlrussia"
+    },
+    "comments": ""
+  },
+  {
+    "name": "pro.js",
+    "community": {
+      "name" : "proDOT",
+      "icon" : "./communities/prodot.jpg",
+      "link" : "https://telegram.me/proDOT"
+    },
+    "description": "Javascript, Node.js и многое-многое другое",
+    "links": {
+      "telegram": "https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA"
+    },
+    "comments": ""
+  },
+  {
+    "name": "pro.js.noobs",
+    "community": {
+      "name" : "proDOT",
+      "icon" : "./communities/prodot.jpg",
+      "link" : "https://telegram.me/proDOT"
+    },
+    "description": "JavaScript нубская группа",
+    "links": {
+      "telegram": "https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g"
+    },
+    "comments": ""
+  },
+  {
+    "name": "pro.python",
+    "community": {
+      "name" : "proDOT",
+      "icon" : "./communities/prodot.jpg",
+      "link" : "https://telegram.me/proDOT"
+    },
+    "description": "Сообщество разработчиков под Python",
+    "links": {
+      "telegram": "https://telegram.me/joinchat/A7kPxzx_o8HpyxsxTskU7g"
+    },
+    "comments": ""
+  },
+  {
+    "name": "pro.jvm",
+    "community": {
+      "name" : "proDOT",
+      "icon" : "./communities/prodot.jpg",
+      "link" : "https://telegram.me/proDOT"
+    },
+    "description": "Сообщество разработчиков под JVM и Android, Java, Scala, Kotlin, Groovy, Clojure",
+    "links": {
+      "telegram": "https://telegram.me/jvmchat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "pro.lua",
+    "community": {
+      "name" : "proDOT",
+      "icon" : "./communities/prodot.jpg",
+      "link" : "https://telegram.me/proDOT"
+    },
+    "description": "Правила чата: Тут можно обсуждать все, что связанно с луа - движки, интерпретаторы/компиляторы, питухан-биндинги, скрипты на сталкер: Тени Чернобыля и пр. Запрещена реклама! Срачи и оффтоп не желательны.",
+    "links": {
+      "telegram": "https://telegram.me/ProLua"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Python",
+    "community": "",
+    "description": "Python сообщество телеграма",
+    "links": {
+      "telegram": "https://telegram.me/ru_python"
     },
     "comments": ""
   },
