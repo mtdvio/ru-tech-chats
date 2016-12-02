@@ -21,10 +21,12 @@
 
 | Название             | Коммьюнити | Технологии                      |   URL   | Правила участия |
 |--------------------- | ---------- | ------------------------------- | ------- |       :-:       |
+| **Atlassian User Group Moscow** | [Atlassian User Group](http://aug.atlassian.com/cities/moscowrussia) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://telegram.me/joinchat/DAVaAweLBd8mseOknSPZrw |  |
 | **AI-ML-DS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Искусственный интеллект, машинное обучение, Data Science | Gitter: https://gitter.im/dev-ua/ai-ml-ds |  |
 | **AllThatJS** |  | JavaScript | Slack: https://allthatjs.herokuapp.com |  |
 | **Angular RUS** |  | AngularJS, Javascript | Gitter: https://gitter.im/angularjsrus/chat |  |
 | **AngularJS UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | AngularJS, Javascript | Gitter: http://angular.im |  |
+| **Angular.js — русскоговорящее сообщество** | [![Angular.js — русскоговорящее сообщество](./communities/anuglar-js.jpg)](https://telegram.me/angular_js) [Angular.js — русскоговорящее сообщество](https://telegram.me/angular_js) | AngularJS | Telegram: https://telegram.me/angular_js |  |
 | **Android rus-speaking developers chat** |  | Android | Gitter: https://gitter.im/rus-speaking/android |  |
 | **Android Developers - русскоговорящее сообщество** |  | Android | Telegram: https://telegram.me/android_ru |  |
 | **Android United** |  | Android | Skype: http://bit.ly/androidchat |  |
@@ -33,6 +35,7 @@
 | **Cocoa Chat** |  | Cocoa | Skype: http://bit.ly/cocoa-chat | Read guidelines or be banned! |
 | **Cocoa Developers Club** |  | iOS/OS X | Slack: http://cocoadevelopers.club/chat/ |  |
 | **Clojure UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Clojure, Clojurescript,  FP | Gitter: https://gitter.im/dev-ua/clojure |  |
+| **Нейронные сети (Chatbots and AI Community)** | [![Нейронные сети (Chatbots and AI Community)](./communities/chatbots-and-ai-community.jpg)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) [Нейронные сети (Chatbots and AI Community)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) | Chatbots | Telegram: https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA | Это чат про нейронные сети для членов Chatbots and AI Community. |
 | **Dart group** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Dart | Gitter: https://gitter.im/dev-ua/dart<br>Skype: http://bit.ly/dart-chat |  |
 | **DevOps for Devs** |  | Vagrant, Docker, Dokku OH MY! | Skype: http://bit.ly/devops-for-devs |  |
 | **DIY / Glory to the sad Robots** |  | Hardware, Microcontrollers, Robotics | Skype: http://bit.ly/robots-chat |  |
@@ -99,6 +102,7 @@
 | **Python UA** |  | Python | Skype: http://bit.ly/python-ua |  |
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
 | **QAC: Performance and load testing** |  | QA и нагрузочное тестирование | Skype: https://join.skype.com/ivtvbl4t6r9K |  |
+| **ReportPortal.io Community** |  | ReportPortal.io Community of Open Sourced tool for test automation | Slack: https://reportportal-slack-auto.herokuapp.com/ |  |
 | **ReactJS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | ReactJS, Flux, Redux | Gitter: https://gitter.im/dev-ua/reactjs<br>Skype: http://bit.ly/reactjs-chat |  |
 | **TypeScript** |  | TypeScript, russian speaking community | Telegram: https://telegram.me/typescript_ru |  |
 | **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua<br>Telegram: https://telegram.me/rubylang |  |
@@ -131,3 +135,4 @@
 | **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
 | **Delphi Developers UA** |  | Delphi | Skype: https://join.skype.com/bkLfxSCj6kWy |  |
 | **Fronthub** |  | js, css, html, fun, flood | Slack: https://fronthub.slack.com |  |
+| **#ru_embedded** |  | Embedded software/hardware на русском | Other: irc://irc.forestnet.org:6667/#ru_embedded |  |
