@@ -131,3 +131,4 @@
 | **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
 | **Delphi Developers UA** |  | Delphi | Skype: https://join.skype.com/bkLfxSCj6kWy |  |
 | **Fronthub** |  | js, css, html, fun, flood | Slack: https://fronthub.slack.com |  |
+| **Upwork** |  | upwork, freelance, fun, flood | Telegram: https://telegram.me/upworkcom |  |
