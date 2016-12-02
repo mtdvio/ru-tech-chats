@@ -759,6 +759,15 @@
     "comments": ""
   },
   {
+    "name": "ReportPortal.io Community",
+    "community": "",
+    "description": "ReportPortal.io Community of Open Sourced tool for test automation",
+    "links": {
+	  "slack": "https://reportportal-slack-auto.herokuapp.com/"
+    },
+    "comments": ""
+  },
+  {
     "name": "ReactJS",
     "community": {
       "name" : "Dev UA",
