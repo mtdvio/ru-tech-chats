@@ -1219,7 +1219,9 @@
     "community": "",
     "description": "Russian speaking IT community in Berlin, Germany.",
     "links": {
-      "skype": "http://bit.ly/berlin-ru-it-chat"
+      "skype": "http://bit.ly/berlin-ru-it-chat",
+      "slack": "https://slack-files.com/T09S9JDU1-F0HHEG8PK-c9396c730a",
+      "telegram": "https://telegram.me/berlinru"
     },
     "comments": ""
   },
