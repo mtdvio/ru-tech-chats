@@ -56,6 +56,19 @@
     "comments": ""
   },
   {
+    "name": "Angular.js — русскоговорящее сообщество",
+    "community": {
+      "name" : "Angular.js — русскоговорящее сообщество",
+      "icon" : "./communities/anuglar-js.jpg",
+      "link" : "https://telegram.me/angular_js"
+    },
+    "description": "AngularJS",
+    "links": {
+      "telegram": "https://telegram.me/angular_js"
+    },
+    "comments": ""
+  },
+  {
     "name": "Android rus-speaking developers chat",
     "community": "",
     "description": "Android",
@@ -130,6 +143,19 @@
       "gitter": "https://gitter.im/dev-ua/clojure"
     },
     "comments": ""
+  },
+  {
+    "name": "Нейронные сети (Chatbots and AI Community)",
+    "community": {
+      "name" : "Нейронные сети (Chatbots and AI Community)",
+      "icon" : "./communities/chatbots-and-ai-community.jpg",
+      "link" : "https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA"
+    },
+    "description": "Chatbots",
+    "links": {
+      "telegram": "https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA"
+    },
+    "comments": "Это чат про нейронные сети для членов Chatbots and AI Community."
   },
   {
     "name": "Dart group",
