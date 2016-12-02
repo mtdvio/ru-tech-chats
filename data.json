@@ -1118,5 +1118,14 @@
       "twitter": "https://twitter.com/frontendsu"
     },
     "comments": ""
+  },
+  {
+      "name": "#ru_embedded",
+      "community": "",
+      "description": "Embedded software/hardware на русском",
+      "links": {
+        "other": "irc://irc.forestnet.org:6667/#ru_embedded"
+      },
+      "comments": ""
   }
 ]
