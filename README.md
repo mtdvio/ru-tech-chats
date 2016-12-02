@@ -61,28 +61,28 @@
 | **Java talks BY** |  | Java, JVM, Software Design | Skype: http://bit.ly/javatalks-by |  |
 | **Java Professionals By** |  | Java, JVM | Gitter: https://gitter.im/javaby/chat |  |
 | **jQuery RUS** |  | jQuery, Javascript | Gitter: https://gitter.im/jqueryrus/chat |  |
-| **TRUE .NET** |  | .NET | Skype: http://goo.gl/3lKLdJ |  |
-| **TRUE Android Development** |  | Android | Skype: http://goo.gl/V8cIca |  |
-| **TRUE ASM** |  | Assembler | Skype: http://goo.gl/CvxDnR |  |
-| **TRUE Big Data** |  | Big data/Data Science | Skype: http://goo.gl/N2Djvo |  |
-| **TRUE C++** |  | C++ | Skype: http://goo.gl/tAjSf2 |  |
-| **TRUE CSS** |  | CSS | Skype: http://goo.gl/nsMtB3 |  |
-| **TRUE Database** |  | Databases | Skype: http://goo.gl/JHUouj |  |
-| **TRUE DevOps** |  | DevOps | Skype: http://goo.gl/i3MWjC |  |
-| **TRUE HTML/CSS/JS** |  | HTML/CSS/JS | Skype: http://goo.gl/NvJ9FK |  |
-| **TRUE InfoSec** |  | Info Security | Skype: http://goo.gl/NoC6RQ |  |
-| **TRUE iOS** |  | Development of a iOS | Skype: http://goo.gl/KJnFSN |  |
-| **TRUE IT** |  | Any | Skype: http://goo.gl/FOlXZp |  |
-| **True Java** |  | Java, JVM, Software, Design | Skype: http://tinyurl.com/truejava |  |
-| **TRUE Javascript** |  | JavaScript | Skype: http://goo.gl/1AtIyI |  |
-| **TRUE LAMP** |  | Linux/Apache/MySql/PHP, Python, Perl | Skype: http://goo.gl/fbeAGB |  |
-| **TRUE Python** |  | Python | Skype: http://goo.gl/c8Ky7e |  |
-| **TRUE Ruby** |  | Ruby | Skype: http://goo.gl/g5bvGD |  |
-| **TRUE Rust** |  | Rust | Skype: http://goo.gl/KWHhOV |  |
-| **TRUE StartUp** |  | Russian speaking StartUp community. | Skype: http://goo.gl/UnpCEb |  |
-| **TRUE System Administration** |  | Russian speaking SysAdmins | Skype: http://goo.gl/zNsGAf |  |
-| **TRUE Unix** |  | *nix | Skype: http://goo.gl/rQcEPD |  |
-| **TRUE Windows Development** |  | Development of a Windows Phone/RT/WPF | Skype: http://goo.gl/QZOt3t |  |
+| **TRUE .NET** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | .NET | Skype: http://goo.gl/3lKLdJ |  |
+| **TRUE Android Development** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Android | Skype: http://goo.gl/V8cIca |  |
+| **TRUE ASM** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Assembler | Skype: http://goo.gl/CvxDnR |  |
+| **TRUE Big Data** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Big data/Data Science | Skype: http://goo.gl/N2Djvo |  |
+| **TRUE C++** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | C++ | Skype: http://goo.gl/tAjSf2 |  |
+| **TRUE CSS** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | CSS | Skype: http://goo.gl/nsMtB3 |  |
+| **TRUE Database** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Databases | Skype: http://goo.gl/JHUouj |  |
+| **TRUE DevOps** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | DevOps | Skype: http://goo.gl/i3MWjC |  |
+| **TRUE HTML/CSS/JS** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | HTML/CSS/JS | Skype: http://goo.gl/NvJ9FK |  |
+| **TRUE InfoSec** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Info Security | Skype: http://goo.gl/NoC6RQ |  |
+| **TRUE iOS** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Development of a iOS | Skype: http://goo.gl/KJnFSN |  |
+| **TRUE IT** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Any | Skype: http://goo.gl/FOlXZp |  |
+| **True Java** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Java, JVM, Software, Design | Skype: http://tinyurl.com/truejava |  |
+| **TRUE Javascript** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | JavaScript | Skype: http://goo.gl/1AtIyI |  |
+| **TRUE LAMP** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Linux/Apache/MySql/PHP, Python, Perl | Skype: http://goo.gl/fbeAGB |  |
+| **TRUE Python** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Python | Skype: http://goo.gl/c8Ky7e |  |
+| **TRUE Ruby** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Ruby | Skype: http://goo.gl/g5bvGD |  |
+| **TRUE Rust** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Rust | Skype: http://goo.gl/KWHhOV |  |
+| **TRUE StartUp** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Russian speaking StartUp community. | Skype: http://goo.gl/UnpCEb |  |
+| **TRUE System Administration** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Russian speaking SysAdmins | Skype: http://goo.gl/zNsGAf |  |
+| **TRUE Unix** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | *nix | Skype: http://goo.gl/rQcEPD |  |
+| **TRUE Windows Development** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Development of a Windows Phone/RT/WPF | Skype: http://goo.gl/QZOt3t |  |
 | **Javascript.ru** |  | javascript, nodejs, angularjs, ... | Slack: http://slack.javascript.ru |  |
 | **Laravel** |  | Laravel, PHP | Gitter: https://gitter.im/laravelrus/chat |  |
 | **Laravel Framework** |  | Laravel Framework | Gitter: https://gitter.im/php-ua/laravel |  |
@@ -99,6 +99,12 @@
 | **PHP Telegram** |  | PHP чат в telegram | Telegram: https://telegram.me/prophp7 |  |
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
 | **Postgres.chat** |  | Чат о Postgres | Gitter: https://gitter.im/postgresmen/postgresqlrussia |  |
+| **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA |  |
+| **pro.js.noobs** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | JavaScript нубская группа | Telegram: https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g |  |
+| **pro.python** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под Python | Telegram: https://telegram.me/joinchat/A7kPxzx_o8HpyxsxTskU7g |  |
+| **pro.jvm** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под JVM и Android, Java, Scala, Kotlin, Groovy, Clojure | Telegram: https://telegram.me/jvmchat |  |
+| **pro.lua** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Правила чата: Тут можно обсуждать все, что связанно с луа - движки, интерпретаторы/компиляторы, питухан-биндинги, скрипты на сталкер: Тени Чернобыля и пр. Запрещена реклама! Срачи и оффтоп не желательны. | Telegram: https://telegram.me/ProLua |  |
+| **Python** |  | Python сообщество телеграма | Telegram: https://telegram.me/ru_python |  |
 | **Python UA** |  | Python | Skype: http://bit.ly/python-ua |  |
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
 | **QAC: Performance and load testing** |  | QA и нагрузочное тестирование | Skype: https://join.skype.com/ivtvbl4t6r9K |  |
