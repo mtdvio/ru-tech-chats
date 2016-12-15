@@ -1300,5 +1300,14 @@
         "telegram": "https://telegram.me/ntwrk"
       },
       "comments": ""
+  },
+  {
+      "name": "Russian–speaking Ruby/JS dev community",
+      "community": "",
+      "description": "ruby, js",
+      "links": {
+        "slack": "https://rusdevs.herokuapp.com"
+      },
+      "comments": ""
   }
 ]
