@@ -1293,6 +1293,15 @@
       "comments": ""
   },
   {
+      "name": "ntwrk",
+      "community": "",
+      "description": "Network Engineers community",
+      "links": {
+        "telegram": "https://telegram.me/ntwrk"
+      },
+      "comments": ""
+  },
+  {
       "name": "Russian–speaking Ruby/JS dev community",
       "community": "",
       "description": "ruby, js",
