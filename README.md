@@ -144,4 +144,3 @@
 | **#ru_embedded** |  | Embedded software/hardware на русском | Other: irc://irc.forestnet.org:6667/#ru_embedded |  |
 | **ntwrk** |  | Network Engineers community | Telegram: https://telegram.me/ntwrk |  |
 | **Russian–speaking Ruby/JS dev community** |  | ruby, js | Slack: https://rusdevs.herokuapp.com |  |
-
