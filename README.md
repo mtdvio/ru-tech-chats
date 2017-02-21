@@ -21,13 +21,14 @@
 
 | Название             | Коммьюнити | Технологии                      |   URL   | Правила участия |
 |--------------------- | ---------- | ------------------------------- | ------- |       :-:       |
-| **Atlassian User Group Moscow** | [Atlassian User Group](http://aug.atlassian.com/cities/moscowrussia) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://telegram.me/joinchat/DAVaAweLBd8mseOknSPZrw |  |
+| **Atlassian User Group Moscow** | [Atlassian User Group](http://aug.atlassian.com/cities/moscowrussia) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://t.me/augmoscow |  |
 | **AI-ML-DS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Искусственный интеллект, машинное обучение, Data Science | Gitter: https://gitter.im/dev-ua/ai-ml-ds |  |
 | **AllThatJS** |  | JavaScript | Slack: https://allthatjs.herokuapp.com |  |
 | **Angular RUS** |  | AngularJS, Javascript | Gitter: https://gitter.im/angularjsrus/chat |  |
 | **AngularJS UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | AngularJS, Javascript | Gitter: http://angular.im |  |
 | **Angular.js — русскоговорящее сообщество** | [![Angular.js — русскоговорящее сообщество](./communities/anuglar-js.jpg)](https://telegram.me/angular_js) [Angular.js — русскоговорящее сообщество](https://telegram.me/angular_js) | AngularJS | Telegram: https://telegram.me/angular_js |  |
 | **Android rus-speaking developers chat** |  | Android | Gitter: https://gitter.im/rus-speaking/android |  |
+| **Android rus-speaking slack team** |  | Android | Slack: https://goo.gl/forms/YMWbVTvsESLyHWWH3 |  |
 | **Android Developers - русскоговорящее сообщество** |  | Android | Telegram: https://telegram.me/android_ru |  |
 | **Android United** |  | Android | Skype: http://bit.ly/androidchat |  |
 | **Android Developers UA** |  | Android | Skype: https://join.skype.com/vG41lcKg7PtG |  |
@@ -144,3 +145,4 @@
 | **#ru_embedded** |  | Embedded software/hardware на русском | Other: irc://irc.forestnet.org:6667/#ru_embedded |  |
 | **ntwrk** |  | Network Engineers community | Telegram: https://telegram.me/ntwrk |  |
 | **Russian–speaking Ruby/JS dev community** |  | ruby, js | Slack: https://rusdevs.herokuapp.com |  |
+| **Flow type checker community** |  | flow, js | Telegram: https://telegram.me/flowtype_ru |  |
