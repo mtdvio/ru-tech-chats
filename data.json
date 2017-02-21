@@ -1309,5 +1309,14 @@
         "slack": "https://rusdevs.herokuapp.com"
       },
       "comments": ""
+  },
+  {
+      "name": "Flow type checker community",
+      "community": "",
+      "description": "flow, js",
+      "links": {
+        "telegram": "https://telegram.me/flowtype_ru"
+      },
+      "comments": ""
   }
 ]
