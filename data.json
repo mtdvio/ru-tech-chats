@@ -1327,5 +1327,14 @@
         "telegram": "https://telegram.me/flowtype_ru"
       },
       "comments": ""
+  },
+  {
+      "name": "ITишники во Владимире",
+      "community": "",
+      "description": "ИТ-сообщество города Владимира",
+      "links": {
+        "slack": "http://anjlab.com/ru/vladimir8bit/"
+      },
+      "comments": ""
   }
 ]
