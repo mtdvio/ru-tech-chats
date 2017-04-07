@@ -146,3 +146,4 @@
 | **ntwrk** |  | Network Engineers community | Telegram: https://telegram.me/ntwrk |  |
 | **Russian–speaking Ruby/JS dev community** |  | ruby, js | Slack: https://rusdevs.herokuapp.com |  |
 | **Flow type checker community** |  | flow, js | Telegram: https://telegram.me/flowtype_ru |  |
+| **ITишники во Владимире** |  | ИТ-сообщество города Владимира | Slack: http://anjlab.com/ru/vladimir8bit/ |  |
