@@ -1235,15 +1235,6 @@
     "comments": ""
   },
   {
-    "name": "ITишники в Бангкоке",
-    "community": "",
-    "description": "Russian speaking IT community in Bangkok, Thailand.",
-    "links": {
-      "telegram": "https://telegram.me/usr_local_bkk"
-    },
-    "comments": "Проблемы с доступом - пишите в личку @querystring"
-  },
-  {
     "name": "Ржавый ящик",
     "community": "",
     "description": "Rust",
