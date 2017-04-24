@@ -235,6 +235,20 @@
     "comments": "Be nice."
   },
   {
+    "name": "Русскоязычное сообщество F#",
+    "community": {
+      "name" : "fsharplang-ru",
+      "icon" : "https://fsharplang-ru.github.io/img/min_logo.png",
+      "link" : "https://github.com/fsharplang-ru"
+    },
+    "description": "F#",
+    "links": {
+      "gitter": "https://gitter.im/fsharplang_ru/Lobby",
+      "telegram": "https://t.me/Fsharp_chat"
+    },
+    "comments": ""
+  },
+  {
     "name": "Freelance (OdeskConf)",
     "community": "",
     "description": "any",
