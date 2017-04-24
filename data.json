@@ -141,6 +141,19 @@
     "comments": ""
   },
   {
+    "name": "codingteam",
+    "community": {
+      "name" : "codingteam",
+      "link" : "https://codingteam.org.ru/"
+    },
+    "description": "Кроссплатформенное сообщество инженеров и программистов",
+    "links": {
+      "telegram": "https://t.me/codingteam",
+      "gitter": "https://gitter.im/codingteam"
+    },
+    "comments": ""
+  },
+  {
     "name": "Clojure UA",
     "community": {
       "name" : "Dev UA",
