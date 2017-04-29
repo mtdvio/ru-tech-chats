@@ -1,5 +1,17 @@
 [
   {
+    "name": "Atlassian User Group Saint-Petersburg",
+    "community": {
+      "name" : "Atlassian User Group",
+      "link" : "https://aug.atlassian.com/st-petersburg"
+    },
+    "description": "Чат администраторов и разработчиков плагинов для продуктов Atlassian",
+    "links": {
+      "telegram": "https://t.me/augspb"
+    },
+    "comments": "If you have interesting question about performance, plugin hacking, please, ask:)"
+  },  
+  {
     "name": "Atlassian User Group Moscow",
     "community": {
       "name" : "Atlassian User Group",
