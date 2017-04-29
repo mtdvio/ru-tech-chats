@@ -136,7 +136,6 @@
 | **Веб-стандарты** |  | HTML, CSS, SVG, JS | Slack: http://slack.web-standards.ru |  |
 | **Понаехавшие ITишники в Мюнхен** |  | Russian speaking IT community in Munich, Germany. | Skype: http://tinyurl.com/skype-traktoristi-v-munchene |  |
 | **Понаехавшие ITишники в Берлине** |  | Russian speaking IT community in Berlin, Germany. | Slack: https://slack-files.com/T09S9JDU1-F0HHEG8PK-c9396c730a<br>Skype: http://bit.ly/berlin-ru-it-chat<br>Telegram: https://telegram.me/berlinru |  |
-| **ITишники в Бангкоке** |  | Russian speaking IT community in Bangkok, Thailand. | Telegram: https://telegram.me/usr_local_bkk | Проблемы с доступом - пишите в личку @querystring |
 | **Ржавый ящик** |  | Rust | Gitter: https://gitter.im/rurust/general | No offence, no flame, no spam. |
 | **Тракторист UA** |  | For those who plan to work or works abroad | Skype: http://bit.ly/it-emigrant-ua | Beware of Trolls! |
 | **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
