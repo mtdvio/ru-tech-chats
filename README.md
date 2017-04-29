@@ -35,6 +35,7 @@
 | **Ansible RUS** |  | Ansible | Slack: https://goo.gl/vQfjzP | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
 | **Cocoa Chat** |  | Cocoa | Skype: http://bit.ly/cocoa-chat | Read guidelines or be banned! |
 | **Cocoa Developers Club** |  | iOS/OS X | Slack: http://cocoadevelopers.club/chat/ |  |
+| **codingteam** | [codingteam](https://codingteam.org.ru/) | Кроссплатформенное сообщество инженеров и программистов | Gitter: https://gitter.im/codingteam<br>Telegram: https://t.me/codingteam |  |
 | **Clojure UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Clojure, Clojurescript,  FP | Gitter: https://gitter.im/dev-ua/clojure |  |
 | **Нейронные сети (Chatbots and AI Community)** | [![Нейронные сети (Chatbots and AI Community)](./communities/chatbots-and-ai-community.jpg)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) [Нейронные сети (Chatbots and AI Community)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) | Chatbots | Telegram: https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA | Это чат про нейронные сети для членов Chatbots and AI Community. |
 | **Dart group** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Dart | Gitter: https://gitter.im/dev-ua/dart<br>Skype: http://bit.ly/dart-chat |  |
@@ -42,6 +43,7 @@
 | **DIY / Glory to the sad Robots** |  | Hardware, Microcontrollers, Robotics | Skype: http://bit.ly/robots-chat |  |
 | **Ember Chat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | EmberJS | Gitter: https://gitter.im/dev-ua/ember |  |
 | **Erlang / Elixir** |  | Erlang, Elixir | Slack: http://otp-russian.herokuapp.com/<br>Telegram: https://telegram.me/proelixir | Be nice. |
+| **Русскоязычное сообщество F#** | [![fsharplang-ru](https://fsharplang-ru.github.io/img/min_logo.png)](https://github.com/fsharplang-ru) [fsharplang-ru](https://github.com/fsharplang-ru) | F# | Gitter: https://gitter.im/fsharplang_ru/Lobby<br>Telegram: https://t.me/Fsharp_chat |  |
 | **Freelance (OdeskConf)** |  | any | Slack: отправить json вида `{"email": "name@domain.com"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite` | работать удалённо |
 | **Frontend UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | HTML5, CSS3, Javascript, ... | Gitter: http://frontendua.im |  |
 | **Frontend KZ** |  | HTML5, CSS3, Javascript, ... | Slack: http://frontendkz.github.io/ |  |
