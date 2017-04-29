@@ -141,6 +141,19 @@
     "comments": ""
   },
   {
+    "name": "codingteam",
+    "community": {
+      "name" : "codingteam",
+      "link" : "https://codingteam.org.ru/"
+    },
+    "description": "Кроссплатформенное сообщество инженеров и программистов",
+    "links": {
+      "telegram": "https://t.me/codingteam",
+      "gitter": "https://gitter.im/codingteam"
+    },
+    "comments": ""
+  },
+  {
     "name": "Clojure UA",
     "community": {
       "name" : "Dev UA",
@@ -220,6 +233,20 @@
       "telegram": "https://telegram.me/proelixir"
     },
     "comments": "Be nice."
+  },
+  {
+    "name": "Русскоязычное сообщество F#",
+    "community": {
+      "name" : "fsharplang-ru",
+      "icon" : "https://fsharplang-ru.github.io/img/min_logo.png",
+      "link" : "https://github.com/fsharplang-ru"
+    },
+    "description": "F#",
+    "links": {
+      "gitter": "https://gitter.im/fsharplang_ru/Lobby",
+      "telegram": "https://t.me/Fsharp_chat"
+    },
+    "comments": ""
   },
   {
     "name": "Freelance (OdeskConf)",
