@@ -51,6 +51,7 @@
 | **GameDev без политоты** |  | GameDev | Skype: https://bit.ly/ru-gamedev-skype-chat |  |
 | **Go Lang** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
 | **golang-ru.slack.com** |  | Go | Slack: http://4gophers.ru/slack |  |
+| **GraphQL** |  | Русскоговорящее сообщество GraphQL | Telegram: https://telegram.me/graphql_ru |  |
 | **HangOps.ru** |  | Russian DevOps Hangouts | Slack: http://join.hangops.ru<br>Skype: skype outdated: http://tinyurl.com/hangopsru |  |
 | **Continuous Integration/Delivery RU** |  | Continuous Integration/Delivery на русском | Telegram: https://telegram.me/ci_cd_ru |  |
 | **Haskell UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Haskell Chat | Gitter: https://gitter.im/dev-ua/haskell |  |
