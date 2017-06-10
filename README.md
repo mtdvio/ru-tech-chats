@@ -22,6 +22,7 @@
 | Название             | Коммьюнити | Технологии                      |   URL   | Правила участия |
 |--------------------- | ---------- | ------------------------------- | ------- |       :-:       |
 | **Atlassian User Group Moscow** | [Atlassian User Group](http://aug.atlassian.com/cities/moscowrussia) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://t.me/augmoscow |  |
+| **Atlassian User Group Saint-Petersburg** | [Atlassian User Group](http://aug.atlassian.com/cities/st-petersburg) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://t.me/augspb |  |
 | **AI-ML-DS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Искусственный интеллект, машинное обучение, Data Science | Gitter: https://gitter.im/dev-ua/ai-ml-ds |  |
 | **AllThatJS** |  | JavaScript | Slack: https://allthatjs.herokuapp.com |  |
 | **Angular RUS** |  | AngularJS, Javascript | Gitter: https://gitter.im/angularjsrus/chat |  |
