@@ -351,6 +351,15 @@
     "comments": ""
   },
   {
+    "name": "GraphQL",
+    "community": "",
+    "description": "Русскоговорящее сообщество GraphQL",
+    "links": {
+      "telegram": "https://telegram.me/graphql_ru"
+    },
+    "comments": ""
+  },
+  {
     "name": "HangOps.ru",
     "community": "",
     "description": "Russian DevOps Hangouts",
