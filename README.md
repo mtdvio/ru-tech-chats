@@ -21,8 +21,8 @@
 
 | Название             | Коммьюнити | Технологии                      |   URL   | Правила участия |
 |--------------------- | ---------- | ------------------------------- | ------- |       :-:       |
+| **Atlassian User Group Saint-Petersburg** | [Atlassian User Group](https://aug.atlassian.com/st-petersburg) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://t.me/augspb | If you have interesting question about performance, plugin hacking, please, ask:) |
 | **Atlassian User Group Moscow** | [Atlassian User Group](http://aug.atlassian.com/cities/moscowrussia) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://t.me/augmoscow |  |
-| **Atlassian User Group Saint-Petersburg** | [Atlassian User Group](http://aug.atlassian.com/cities/st-petersburg) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://t.me/augspb |  |
 | **AI-ML-DS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Искусственный интеллект, машинное обучение, Data Science | Gitter: https://gitter.im/dev-ua/ai-ml-ds |  |
 | **AllThatJS** |  | JavaScript | Slack: https://allthatjs.herokuapp.com |  |
 | **Angular RUS** |  | AngularJS, Javascript | Gitter: https://gitter.im/angularjsrus/chat |  |
@@ -37,6 +37,8 @@
 | **Cocoa Chat** |  | Cocoa | Skype: http://bit.ly/cocoa-chat | Read guidelines or be banned! |
 | **Cocoa Developers Club** |  | iOS/OS X | Slack: http://cocoadevelopers.club/chat/ |  |
 | **codingteam** | [codingteam](https://codingteam.org.ru/) | Кроссплатформенное сообщество инженеров и программистов | Gitter: https://gitter.im/codingteam<br>Telegram: https://t.me/codingteam |  |
+| **Clojure Ru** |  | Clojure, Clojurescript | Telegram: https://t.me/clojure_ru |  |
+| **Clojure Pro** |  | Clojure, Clojurescript | Telegram: https://t.me/clojurepro |  |
 | **Clojure UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Clojure, Clojurescript,  FP | Gitter: https://gitter.im/dev-ua/clojure |  |
 | **Нейронные сети (Chatbots and AI Community)** | [![Нейронные сети (Chatbots and AI Community)](./communities/chatbots-and-ai-community.jpg)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) [Нейронные сети (Chatbots and AI Community)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) | Chatbots | Telegram: https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA | Это чат про нейронные сети для членов Chatbots and AI Community. |
 | **Dart group** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Dart | Gitter: https://gitter.im/dev-ua/dart<br>Skype: http://bit.ly/dart-chat |  |
@@ -52,7 +54,6 @@
 | **GameDev без политоты** |  | GameDev | Skype: https://bit.ly/ru-gamedev-skype-chat |  |
 | **Go Lang** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
 | **golang-ru.slack.com** |  | Go | Slack: http://4gophers.ru/slack |  |
-| **GraphQL** |  | Русскоговорящее сообщество GraphQL | Telegram: https://telegram.me/graphql_ru |  |
 | **HangOps.ru** |  | Russian DevOps Hangouts | Slack: http://join.hangops.ru<br>Skype: skype outdated: http://tinyurl.com/hangopsru |  |
 | **Continuous Integration/Delivery RU** |  | Continuous Integration/Delivery на русском | Telegram: https://telegram.me/ci_cd_ru |  |
 | **Haskell UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Haskell Chat | Gitter: https://gitter.im/dev-ua/haskell |  |
