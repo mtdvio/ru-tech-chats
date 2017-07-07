@@ -166,6 +166,24 @@
     "comments": ""
   },
   {
+    "name": "Clojure Ru",
+    "community": "",
+    "description": "Clojure, Clojurescript",
+    "links": {
+      "telegram": "https://t.me/clojure_ru"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Clojure Pro",
+    "community": "",
+    "description": "Clojure, Clojurescript",
+    "links": {
+      "telegram": "https://t.me/clojurepro"
+    },
+    "comments": ""
+  },
+  {
     "name": "Clojure UA",
     "community": {
       "name" : "Dev UA",
