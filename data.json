@@ -224,6 +224,16 @@
     "comments": ""
   },
   {
+    "name": "Django",
+    "community": "",
+    "description": "Русскоязычное сообщество Django",
+    "links": {
+      "github": "https://github.com/amureki/django_faq",
+      "telegram": "https://t.me/pydjango"
+    },
+    "comments": ""
+  },
+  {
     "name": "DevOps for Devs",
     "community": "",
     "description": "Vagrant, Docker, Dokku OH MY!",
