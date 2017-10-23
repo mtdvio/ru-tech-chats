@@ -252,6 +252,15 @@
     "comments": ""
   },
   {
+    "name": "Docker - русскоговорящее сообщество",
+    "community": "",
+    "description": "Обсуждаем вопросы, посвященные Docker, Docker Swarm и всей экосистеме. Обмениваем идеями, новостями и решаем пробемы.",
+    "links": {
+      "telegram": "https://t.me/docker_ru"
+    },
+    "comments": ""
+  },
+  {
     "name": "Ember Chat",
     "community": {
       "name" : "Dev UA",
