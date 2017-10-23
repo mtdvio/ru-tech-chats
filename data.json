@@ -243,6 +243,15 @@
     "comments": ""
   },
   {
+    "name": "DevOps — русскоговорящее сообщество",
+    "community": "",
+    "description": "Общаемся на темы DevOps, мониторинга, метрикам и облакам. Новости.",
+    "links": {
+      "telegram": "https://t.me/devops_ru"
+    },
+    "comments": ""
+  },
+  {
     "name": "DIY / Glory to the sad Robots",
     "community": "",
     "description": "Hardware, Microcontrollers, Robotics",
