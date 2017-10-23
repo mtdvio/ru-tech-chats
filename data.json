@@ -1224,6 +1224,15 @@
     "comments": ""
   },
   {
+    "name": "Symfony",
+    "community": "",
+    "description": "Symfony Components, Symfony Framework",
+    "links": {
+      "telegram": "https://t.me/symfony_php"
+    },
+    "comments": ""
+  },
+  {
     "name": "Unity",
     "community": {
       "name" : "Dev UA",
