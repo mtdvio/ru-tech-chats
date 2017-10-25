@@ -356,6 +356,16 @@
     "comments": ""
   },
   {
+    "name": "Gentoo",
+    "community": "",
+    "description": "Сообщество пользователей ОС Gentoo Linux.",
+    "links": {
+      "telegram": "https://t.me/russian_gentoo",
+      "other": "http://telegra.ph/Info-06-11"
+    },
+    "comments": ""
+  },
+  {
     "name": "Go Lang",
     "community": {
       "name" : "Dev UA",
