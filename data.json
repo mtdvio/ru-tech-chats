@@ -1403,5 +1403,14 @@
         "slack": "http://anjlab.com/ru/vladimir8bit/"
       },
       "comments": ""
+  },
+  {
+      "name": "Kubernetes - русскоговорящее сообщество",
+      "community": "",
+      "description": "Общаемся на темы, посвященные Kubernetes, конфигурации и возможностям. Новости, вопросы, идеи и т.д.",
+      "links": {
+        "telegram": "https://t.me/kubernetes_ru"
+      },
+      "comments": ""
   }
 ]
