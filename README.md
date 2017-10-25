@@ -42,8 +42,11 @@
 | **Clojure UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Clojure, Clojurescript,  FP | Gitter: https://gitter.im/dev-ua/clojure |  |
 | **Нейронные сети (Chatbots and AI Community)** | [![Нейронные сети (Chatbots and AI Community)](./communities/chatbots-and-ai-community.jpg)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) [Нейронные сети (Chatbots and AI Community)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) | Chatbots | Telegram: https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA | Это чат про нейронные сети для членов Chatbots and AI Community. |
 | **Dart group** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Dart | Gitter: https://gitter.im/dev-ua/dart<br>Skype: http://bit.ly/dart-chat |  |
+| **Django** |  | Русскоязычное сообщество Django | Telegram: https://t.me/pydjango |  |
 | **DevOps for Devs** |  | Vagrant, Docker, Dokku OH MY! | Skype: http://bit.ly/devops-for-devs |  |
+| **DevOps — русскоговорящее сообщество** |  | Общаемся на темы DevOps, мониторинга, метрикам и облакам. Новости. | Telegram: https://t.me/devops_ru |  |
 | **DIY / Glory to the sad Robots** |  | Hardware, Microcontrollers, Robotics | Skype: http://bit.ly/robots-chat |  |
+| **Docker - русскоговорящее сообщество** |  | Обсуждаем вопросы, посвященные Docker, Docker Swarm и всей экосистеме. Обмениваем идеями, новостями и решаем пробемы. | Telegram: https://t.me/docker_ru |  |
 | **Ember Chat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | EmberJS | Gitter: https://gitter.im/dev-ua/ember |  |
 | **Erlang / Elixir** |  | Erlang, Elixir | Slack: http://otp-russian.herokuapp.com/<br>Telegram: https://telegram.me/proelixir | Be nice. |
 | **Русскоязычное сообщество F#** | [![fsharplang-ru](https://fsharplang-ru.github.io/img/min_logo.png)](https://github.com/fsharplang-ru) [fsharplang-ru](https://github.com/fsharplang-ru) | F# | Gitter: https://gitter.im/fsharplang_ru/Lobby<br>Telegram: https://t.me/Fsharp_chat |  |
@@ -52,6 +55,7 @@
 | **Frontend KZ** |  | HTML5, CSS3, Javascript, ... | Slack: http://frontendkz.github.io/ |  |
 | **ITCrowd KZ** |  | Developers community of Kazakhstan | Slack: http://itcrowd-kz.slack.com/ |  |
 | **GameDev без политоты** |  | GameDev | Skype: https://bit.ly/ru-gamedev-skype-chat |  |
+| **Gentoo** |  | Сообщество пользователей ОС Gentoo Linux. | Telegram: https://t.me/russian_gentoo<br>Other: http://telegra.ph/Info-06-11 |  |
 | **Go Lang** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
 | **golang-ru.slack.com** |  | Go | Slack: http://4gophers.ru/slack |  |
 | **GraphQL** |  | Русскоговорящее сообщество GraphQL | Telegram: https://telegram.me/graphql_ru |  |
@@ -104,6 +108,7 @@
 | **PHP UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | PHP | Gitter: https://gitter.im/dev-ua/php<br>Skype: http://bit.ly/php-ua | Chat migrated to Gitter |
 | **PHP Community** |  | PHP Community | Gitter: https://gitter.im/php-ua/php |  |
 | **PHP Telegram** |  | PHP чат в telegram | Telegram: https://telegram.me/prophp7 |  |
+| **phpGeeks 2.2** |  | PHP чат в telegram | Telegram: https://t.me/phpgeeks |  |
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
 | **Postgres.chat** |  | Чат о Postgres | Gitter: https://gitter.im/postgresmen/postgresqlrussia |  |
 | **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA |  |
@@ -133,6 +138,7 @@
 | **Spb Frontend** |  | js, css, html | Gitter:  https://gitter.im/spb-frontend/talks<br>Slack: http://slack.spb-frontend.ru/ |  |
 | **Symfony Framework UA** |  | Symfony Framework | Gitter: https://gitter.im/php-ua/symfony |  |
 | **Symfony Framework RU** |  | Symfony Framework | Gitter: https://gitter.im/symfonysib/symfony |  |
+| **Symfony** |  | Symfony Components, Symfony Framework | Telegram: https://t.me/symfony_php |  |
 | **Unity** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Unity Engine | Gitter: https://gitter.im/dev-ua/unity |  |
 | **VIM** |  | VIM | Skype: http://tinyurl.com/ruvimchat |  |
 | **Vue.js** |  | Vue.js, Javascript | Gitter: https://gitter.im/vuejs-ru/Discussion |  |
@@ -152,3 +158,4 @@
 | **Russian–speaking Ruby/JS dev community** |  | ruby, js | Slack: https://rusdevs.herokuapp.com |  |
 | **Flow type checker community** |  | flow, js | Telegram: https://telegram.me/flowtype_ru |  |
 | **ITишники во Владимире** |  | ИТ-сообщество города Владимира | Slack: http://anjlab.com/ru/vladimir8bit/ |  |
+| **Kubernetes - русскоговорящее сообщество** |  | Общаемся на темы, посвященные Kubernetes, конфигурации и возможностям. Новости, вопросы, идеи и т.д. | Telegram: https://t.me/kubernetes_ru |  |
