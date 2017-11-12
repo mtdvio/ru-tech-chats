@@ -111,6 +111,7 @@
 | **phpGeeks 2.2** |  | PHP чат в telegram | Telegram: https://t.me/phpgeeks |  |
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
 | **Postgres.chat** |  | Чат о Postgres | Gitter: https://gitter.im/postgresmen/postgresqlrussia |  |
+| **pgsql – PostgreSQL** |  | Telegram чат о PostgreSQL | Telegram: https://t.me/pgsql |  |
 | **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA |  |
 | **pro.js.noobs** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | JavaScript нубская группа | Telegram: https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g |  |
 | **pro.python** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под Python | Telegram: https://telegram.me/joinchat/A7kPxzx_o8HpyxsxTskU7g |  |
@@ -134,6 +135,7 @@
 | **Scala UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM | Gitter: https://gitter.im/dev-ua/scala<br>Skype: http://bit.ly/scala-ua | Skype is a read-only archive |
 | **SwiftChat** |  | Swift, iOS, OSX | Skype: http://bit.ly/swift_skype_chat |  |
 | **ScalaChat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM, Software Design | Gitter: https://gitter.im/dev-ua/scala<br>Slack: https://scala-ru.herokuapp.com<br>Skype: http://bit.ly/scalachat |  |
+| **Scala User Group** |  | Telegram чат о Scala | Telegram: https://t.me/scala_ru |  |
 | **slack.dev.by** |  | Belarussian dev community (lot of channels on different topics) | Slack: http://slack.dev.by/ |  |
 | **Spb Frontend** |  | js, css, html | Gitter:  https://gitter.im/spb-frontend/talks<br>Slack: http://slack.spb-frontend.ru/ |  |
 | **Symfony Framework UA** |  | Symfony Framework | Gitter: https://gitter.im/php-ua/symfony |  |
