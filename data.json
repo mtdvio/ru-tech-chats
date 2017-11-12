@@ -10,7 +10,7 @@
       "telegram": "https://t.me/augspb"
     },
     "comments": "If you have interesting question about performance, plugin hacking, please, ask:)"
-  },  
+  },
   {
     "name": "Atlassian User Group Moscow",
     "community": {
@@ -968,6 +968,15 @@
     "comments": ""
   },
   {
+    "name": "pgsql – PostgreSQL",
+    "community": "",
+    "description": "Telegram чат о PostgreSQL",
+    "links": {
+      "telegram": "https://t.me/pgsql"
+    },
+    "comments": ""
+  },
+  {
     "name": "pro.js",
     "community": {
       "name" : "proDOT",
@@ -1220,6 +1229,15 @@
       "gitter": "https://gitter.im/dev-ua/scala",
       "slack": "https://scala-ru.herokuapp.com",
       "skype": "http://bit.ly/scalachat"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Scala User Group",
+    "community": "",
+    "description": "Telegram чат о Scala",
+    "links": {
+      "telegram": "https://t.me/scala_ru"
     },
     "comments": ""
   },
