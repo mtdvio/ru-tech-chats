@@ -307,6 +307,20 @@
     "comments": ""
   },
   {
+    "name": "Русскоязычное .NET сообщество",
+    "community": {
+      "name" : "DotNet.Ru",
+      "icon" : "https://pbs.twimg.com/profile_images/887076782599483393/q_33AEb__400x400.jpg",
+      "link" : "http://dotnet.ru/"
+    },
+    "description": ".NET, C#, F#",
+    "links": {
+      "telegram": "https://t.me/DotNetRuChat",
+      "twitter": "https://twitter.com/DotNetRu"
+    },
+    "comments": ""
+  },
+  {
     "name": "Freelance (OdeskConf)",
     "community": "",
     "description": "any",
