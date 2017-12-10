@@ -161,3 +161,5 @@
 | **Flow type checker community** |  | flow, js | Telegram: https://telegram.me/flowtype_ru |  |
 | **ITишники во Владимире** |  | ИТ-сообщество города Владимира | Slack: http://anjlab.com/ru/vladimir8bit/ |  |
 | **Kubernetes - русскоговорящее сообщество** |  | Общаемся на темы, посвященные Kubernetes, конфигурации и возможностям. Новости, вопросы, идеи и т.д. | Telegram: https://t.me/kubernetes_ru |  |
+| **Visual Studio Code** |  | Чат настройки и разработки плагинов | Telegram: https://t.me/vscode_ru |  |
+| **Rollup** |  | Русскоязычное сообщество Rollup.js | Telegram: https://t.me/rollup_ru |  |
