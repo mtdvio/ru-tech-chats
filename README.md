@@ -33,6 +33,7 @@
 | **Android Developers - русскоговорящее сообщество** |  | Android | Telegram: https://telegram.me/android_ru |  |
 | **Android United** |  | Android | Skype: http://bit.ly/androidchat |  |
 | **Android Developers UA** |  | Android | Skype: https://join.skype.com/vG41lcKg7PtG |  |
+| **Android Jobs UA - поиск вакансий Adroid в Украине** |  | Android | Telegram: https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g | Публикуем вакансии/резюме, ищем/публикуем проекты(задачи), колег в pet-проект, обсуждаем процес найма в Украине (ONLY ANDROID) |
 | **Ansible RUS** |  | Ansible | Slack: https://goo.gl/vQfjzP | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
 | **Cocoa Chat** |  | Cocoa | Skype: http://bit.ly/cocoa-chat | Read guidelines or be banned! |
 | **Cocoa Developers Club** |  | iOS/OS X | Slack: http://cocoadevelopers.club/chat/ |  |
@@ -50,6 +51,8 @@
 | **Ember Chat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | EmberJS | Gitter: https://gitter.im/dev-ua/ember |  |
 | **Erlang / Elixir** |  | Erlang, Elixir | Slack: http://otp-russian.herokuapp.com/<br>Telegram: https://telegram.me/proelixir | Be nice. |
 | **Русскоязычное сообщество F#** | [![fsharplang-ru](https://fsharplang-ru.github.io/img/min_logo.png)](https://github.com/fsharplang-ru) [fsharplang-ru](https://github.com/fsharplang-ru) | F# | Gitter: https://gitter.im/fsharplang_ru/Lobby<br>Telegram: https://t.me/Fsharp_chat |  |
+| **Русскоязычное Xamarin сообщество** |  | .NET, Xamarin, Android, iOS, Windows 10 | Telegram: https://t.me/xamarin_russia |  |
+| **Русскоязычное .NET сообщество** | [![DotNet.Ru](https://pbs.twimg.com/profile_images/887076782599483393/q_33AEb__400x400.jpg)](http://dotnet.ru/) [DotNet.Ru](http://dotnet.ru/) | .NET, C#, F# | Telegram: https://t.me/DotNetRuChat |  |
 | **Freelance (OdeskConf)** |  | any | Slack: отправить json вида `{"email": "name@domain.com"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite` | работать удалённо |
 | **Frontend UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | HTML5, CSS3, Javascript, ... | Gitter: http://frontendua.im |  |
 | **Frontend KZ** |  | HTML5, CSS3, Javascript, ... | Slack: http://frontendkz.github.io/ |  |
