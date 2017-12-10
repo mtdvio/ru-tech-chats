@@ -316,6 +316,20 @@
     "comments": ""
   },
   {
+    "name": "Русскоязычное .NET сообщество",
+    "community": {
+      "name" : "DotNet.Ru",
+      "icon" : "https://pbs.twimg.com/profile_images/887076782599483393/q_33AEb__400x400.jpg",
+      "link" : "http://dotnet.ru/"
+    },
+    "description": ".NET, C#, F#",
+    "links": {
+      "telegram": "https://t.me/DotNetRuChat",
+      "twitter": "https://twitter.com/DotNetRu"
+    },
+    "comments": ""
+  },
+  {
     "name": "Freelance (OdeskConf)",
     "community": "",
     "description": "any",
@@ -1483,6 +1497,24 @@
       "description": "Общаемся на темы, посвященные Kubernetes, конфигурации и возможностям. Новости, вопросы, идеи и т.д.",
       "links": {
         "telegram": "https://t.me/kubernetes_ru"
+      },
+      "comments": ""
+  },
+  {
+      "name": "Visual Studio Code",
+      "community": "",
+      "description": "Чат настройки и разработки плагинов",
+      "links": {
+        "telegram": "https://t.me/vscode_ru"
+      },
+      "comments": ""
+  },
+  {
+      "name": "Rollup",
+      "community": "",
+      "description": "Русскоязычное сообщество Rollup.js",
+      "links": {
+        "telegram": "https://t.me/rollup_ru"
       },
       "comments": ""
   }
