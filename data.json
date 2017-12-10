@@ -1486,4 +1486,13 @@
       },
       "comments": ""
   },
+  {
+      "name": "Rollup",
+      "community": "",
+      "description": "Русскоязычное сообщество Rollup.js",
+      "links": {
+        "telegram": "https://t.me/rollup_ru"
+      },
+      "comments": ""
+  }
 ]
