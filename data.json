@@ -1476,5 +1476,14 @@
         "telegram": "https://t.me/kubernetes_ru"
       },
       "comments": ""
-  }
+  },
+  {
+      "name": "Visual Studio Code",
+      "community": "",
+      "description": "Чат настройки и разработки плагинов",
+      "links": {
+        "telegram": "https://t.me/vscode_ru"
+      },
+      "comments": ""
+  },
 ]
