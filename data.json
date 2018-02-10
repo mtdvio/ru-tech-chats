@@ -1526,5 +1526,23 @@
         "telegram": "https://t.me/rollup_ru"
       },
       "comments": ""
+  },
+  {
+      "name": "Feathers JS",
+      "community": "",
+      "description": "Русскоязычное сообщество Feathers.js",
+      "links": {
+        "telegram": "https://t.me/featherjs"
+      },
+      "comments": ""
+  },
+  {
+      "name": "Feathers JS",
+      "community": "",
+      "description": "Yii - вакансии, работа, фриланс",
+      "links": {
+        "telegram": "https://t.me/yiijobs"
+      },
+      "comments": ""
   }
 ]
