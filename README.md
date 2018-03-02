@@ -66,7 +66,7 @@
 | **Continuous Integration/Delivery RU** |  | Continuous Integration/Delivery на русском | Telegram: https://telegram.me/ci_cd_ru |  |
 | **Haskell UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Haskell Chat | Gitter: https://gitter.im/dev-ua/haskell |  |
 | **Haskell** |  | Haskell Chat | Gitter: https://gitter.im/ruhaskell/forall |  |
-| **Haxe** |  | Haxe | Slack: https://haxe.slack.com/ |  |
+| **Haxe** |  | Haxe | Telegram: https://t.me/haxe_ru |  |
 | **Hexlet** |  | CS, Java, Ruby, PHP, JS | Slack: http://slack-ru.hexlet.io/ |  |
 | **How Games are made** |  | GameDev | Slack: http://hgam-invite.herokuapp.com/ |  |
 | **iOS Developers** |  | Русскоговорящее сообщество iOS-разработчиков | Telegram: https://telegram.me/ios_ru |  |
@@ -130,7 +130,6 @@
 | **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua<br>Telegram: https://telegram.me/rubylang |  |
 | **Ruby&whatever** |  | Ruby | Skype: http://tinyurl.com/rubyconf | Just be a good person. |
 | **RustUA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
-| **RuHaxe** |  | Haxe | Skype: http://bit.ly/ru-haxe-chat |  |
 | **Salesforce-developer.ru** |  | Skype-чат сообщества Salesforce-developer.ru | Skype: https://join.skype.com/i5TBVxbhTULX |  |
 | **SalesforceRu** |  | Russian-speaking Salesforce developers | Gitter: https://gitter.im/salesforceru/salesforceru |  |
 | **SoftwareTesters** | [URKQA](http://www.ukrqa.org.ua) | Интернациональный чат русскоязычных тестировщиков | Slack: https://software-testers.herokuapp.com/ |  |
