@@ -1526,5 +1526,14 @@
         "telegram": "https://t.me/rollup_ru"
       },
       "comments": ""
+  },
+  {
+      "name": "Python Community Chelyabinsk",
+      "community": "",
+      "description": "Сообщество Python-разработчиков Челябинска",
+      "links": {
+        "telegram": "https://t.me/pychel"
+      },
+      "comments": ""
   }
 ]
