@@ -1573,6 +1573,15 @@
       "comments": ""
   },
   {
+      "name": "Python Community Chelyabinsk",
+      "community": "",
+      "description": "Сообщество Python-разработчиков Челябинска",
+      "links": {
+        "telegram": "https://t.me/pychel"
+      },
+      "comments": ""
+  },
+  {
       "name": "Feathers JS",
       "community": "",
       "description": "Русскоязычное сообщество Feathers.js",
