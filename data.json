@@ -1571,5 +1571,19 @@
         "telegram": "https://t.me/rollup_ru"
       },
       "comments": ""
+  },
+  {
+    "name": "IT Perm - сообщество айтишников из П",
+    "community": {
+      "name" : "IT Perm",
+      "icon" : "./communities/itperm.png",
+      "link" : "https://t.me/itperm"
+    },
+    "description": "Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью.",
+    "links": {
+      "telegram": "https://t.me/itperm",
+      "vk": "https://vk.com/hacknewsperm"
+    },
+    "comments": "Без мотиваторов, котиков, цитат и 1С."
   }
 ]
