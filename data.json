@@ -1573,6 +1573,24 @@
       "comments": ""
   },
   {
+      "name": "Feathers JS",
+      "community": "",
+      "description": "Русскоязычное сообщество Feathers.js",
+      "links": {
+        "telegram": "https://t.me/featherjs"
+      },
+      "comments": ""
+  },
+  {
+      "name": "YiiJobs",
+      "community": "",
+      "description": "Yii - вакансии, работа, фриланс",
+      "links": {
+        "telegram": "https://t.me/yiijobs"
+      },
+      "comments": ""
+  },
+  {
     "name": "IT Perm - сообщество айтишников из П",
     "community": {
       "name" : "IT Perm",
