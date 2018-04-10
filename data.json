@@ -484,7 +484,7 @@
     "community": "",
     "description": "Haxe",
     "links": {
-      "slack": "https://haxe.slack.com/"
+      "telegram": "https://t.me/haxe_ru"
     },
     "comments": ""
   },
@@ -1211,15 +1211,6 @@
     "description": "Rust",
     "links": {
       "gitter": "https://gitter.im/dev-ua/rust"
-    },
-    "comments": ""
-  },
-  {
-    "name": "RuHaxe",
-    "community": "",
-    "description": "Haxe",
-    "links": {
-      "skype": "http://bit.ly/ru-haxe-chat"
     },
     "comments": ""
   },
