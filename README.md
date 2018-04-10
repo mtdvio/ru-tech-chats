@@ -35,6 +35,7 @@
 | **Android Developers UA** |  | Android | Skype: https://join.skype.com/vG41lcKg7PtG |  |
 | **Android Jobs UA - поиск вакансий Adroid в Украине** |  | Android | Telegram: https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g | Публикуем вакансии/резюме, ищем/публикуем проекты(задачи), колег в pet-проект, обсуждаем процес найма в Украине (ONLY ANDROID) |
 | **Ansible RUS** |  | Ansible | Slack: https://goo.gl/vQfjzP | Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F) |
+| **C++ Russia** |  | Обсуждение мероприятий, связанных с С++ в России | Telegram: https://telegram.me/joinchat/CMhk-j_waI8vac99lMYOFQ |  |
 | **Cocoa Chat** |  | Cocoa | Skype: http://bit.ly/cocoa-chat | Read guidelines or be banned! |
 | **Cocoa Developers Club** |  | iOS/OS X | Slack: http://cocoadevelopers.club/chat/ |  |
 | **codingteam** | [codingteam](https://codingteam.org.ru/) | Кроссплатформенное сообщество инженеров и программистов | Gitter: https://gitter.im/codingteam<br>Telegram: https://t.me/codingteam |  |
@@ -115,6 +116,8 @@
 | **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
 | **Postgres.chat** |  | Чат о Postgres | Gitter: https://gitter.im/postgresmen/postgresqlrussia |  |
 | **pgsql – PostgreSQL** |  | Telegram чат о PostgreSQL | Telegram: https://t.me/pgsql |  |
+| **pro.asm** |  | Assembler, реверс | Telegram: https://t.me/proasm |  |
+| **pro.cxx** |  | С/С++ (не для новичков) | Telegram: https://t.me/ProCxx |  |
 | **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA |  |
 | **pro.js.noobs** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | JavaScript нубская группа | Telegram: https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g |  |
 | **pro.python** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под Python | Telegram: https://telegram.me/joinchat/A7kPxzx_o8HpyxsxTskU7g |  |
@@ -124,6 +127,7 @@
 | **Python UA** |  | Python | Skype: http://bit.ly/python-ua |  |
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
 | **QAC: Performance and load testing** |  | QA и нагрузочное тестирование | Skype: https://join.skype.com/ivtvbl4t6r9K |  |
+| **Qt** |  | Qt, QML, QtCreator | Telegram: https://t.me/qt_chat |  |
 | **ReportPortal.io Community** |  | ReportPortal.io Community of Open Sourced tool for test automation | Slack: https://reportportal-slack-auto.herokuapp.com/ |  |
 | **ReactJS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | ReactJS, Flux, Redux | Gitter: https://gitter.im/dev-ua/reactjs<br>Skype: http://bit.ly/reactjs-chat |  |
 | **TypeScript** |  | TypeScript, russian speaking community | Telegram: https://telegram.me/typescript_ru |  |
@@ -131,7 +135,7 @@
 | **Ruby&whatever** |  | Ruby | Skype: http://tinyurl.com/rubyconf | Just be a good person. |
 | **RustUA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
 | **RuHaxe** |  | Haxe | Skype: http://bit.ly/ru-haxe-chat |  |
-| **Salesforce-developer.ru** |  | Skype-чат сообщества Salesforce-developer.ru | Skype: https://join.skype.com/i5TBVxbhTULX |  |
+| **Salesforce-Developers.ru** |  | Skype-чат сообщества Salesforce-Developers.ru | Skype: https://join.skype.com/h9hvP9pNxIOc |  |
 | **SalesforceRu** |  | Russian-speaking Salesforce developers | Gitter: https://gitter.im/salesforceru/salesforceru |  |
 | **SoftwareTesters** | [URKQA](http://www.ukrqa.org.ua) | Интернациональный чат русскоязычных тестировщиков | Slack: https://software-testers.herokuapp.com/ |  |
 | **Startups** |  | Startups, Entrepreneurship | Skype: http://bit.ly/startups-ua-chat |  |
@@ -141,6 +145,7 @@
 | **Scala User Group** |  | Telegram чат о Scala | Telegram: https://t.me/scala_ru |  |
 | **slack.dev.by** |  | Belarussian dev community (lot of channels on different topics) | Slack: http://slack.dev.by/ |  |
 | **Spb Frontend** |  | js, css, html | Gitter:  https://gitter.im/spb-frontend/talks<br>Slack: http://slack.spb-frontend.ru/ |  |
+| **supapro.cxx** |  | С++ (для новичков) | Telegram: https://t.me/supapro |  |
 | **Symfony Framework UA** |  | Symfony Framework | Gitter: https://gitter.im/php-ua/symfony |  |
 | **Symfony Framework RU** |  | Symfony Framework | Gitter: https://gitter.im/symfonysib/symfony |  |
 | **Symfony** |  | Symfony Components, Symfony Framework | Telegram: https://t.me/symfony_php |  |
@@ -166,3 +171,7 @@
 | **Kubernetes - русскоговорящее сообщество** |  | Общаемся на темы, посвященные Kubernetes, конфигурации и возможностям. Новости, вопросы, идеи и т.д. | Telegram: https://t.me/kubernetes_ru |  |
 | **Visual Studio Code** |  | Чат настройки и разработки плагинов | Telegram: https://t.me/vscode_ru |  |
 | **Rollup** |  | Русскоязычное сообщество Rollup.js | Telegram: https://t.me/rollup_ru |  |
+| **Python Community Chelyabinsk** |  | Сообщество Python-разработчиков Челябинска | Telegram: https://t.me/pychel |  |
+| **Feathers JS** |  | Русскоязычное сообщество Feathers.js | Telegram: https://t.me/featherjs |  |
+| **YiiJobs** |  | Yii - вакансии, работа, фриланс | Telegram: https://t.me/yiijobs |  |
+| **IT Perm - сообщество айтишников из П** | [![IT Perm](./communities/itperm.png)](https://t.me/itperm) [IT Perm](https://t.me/itperm) | Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. | Telegram: https://t.me/itperm | Без мотиваторов, котиков, цитат и 1С. |
