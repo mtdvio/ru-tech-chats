@@ -144,6 +144,15 @@
     "comments": "Slack register form:  [http://goo.gl/SBmI3F](http://goo.gl/SBmI3F)"
   },
   {
+    "name": "C++ Russia",
+    "community": "",
+    "description": "Обсуждение мероприятий, связанных с С++ в России",
+    "links": {
+      "telegram": "https://telegram.me/joinchat/CMhk-j_waI8vac99lMYOFQ"
+    },
+    "comments": ""
+  },
+  {
     "name": "Cocoa Chat",
     "community": "",
     "description": "Cocoa",
@@ -1009,6 +1018,24 @@
     "comments": ""
   },
   {
+    "name": "pro.asm",
+    "community": "",
+    "description": "Assembler, реверс",
+    "links": {
+      "telegram": "https://t.me/proasm"
+    },
+    "comments": ""
+  },
+  {
+    "name": "pro.cxx",
+    "community": "",
+    "description": "С/С++ (не для новичков)",
+    "links": {
+      "telegram": "https://t.me/ProCxx"
+    },
+    "comments": ""
+  },
+  {
     "name": "pro.js",
     "community": {
       "name" : "proDOT",
@@ -1109,6 +1136,15 @@
     },
     "comments": ""
   },
+   {
+    "name": "Qt",
+    "community": "",
+    "description": "Qt, QML, QtCreator",
+    "links": {
+      "telegram": "https://t.me/qt_chat"
+    },
+    "comments": ""
+  },
   {
     "name": "ReportPortal.io Community",
     "community": "",
@@ -1188,11 +1224,11 @@
     "comments": ""
   },
   {
-    "name": "Salesforce-developer.ru",
+    "name": "Salesforce-Developers.ru",
     "community": "",
-    "description": "Skype-чат сообщества Salesforce-developer.ru",
+    "description": "Skype-чат сообщества Salesforce-Developers.ru",
     "links": {
-      "skype": "https://join.skype.com/i5TBVxbhTULX"
+      "skype": "https://join.skype.com/h9hvP9pNxIOc"
     },
     "comments": ""
   },
@@ -1289,6 +1325,15 @@
     "links": {
       "slack": "http://slack.spb-frontend.ru/",
       "gitter": " https://gitter.im/spb-frontend/talks"
+    },
+    "comments": ""
+  },
+  {
+    "name": "supapro.cxx",
+    "community": "",
+    "description": "С++ (для новичков)",
+    "links": {
+      "telegram": "https://t.me/supapro"
     },
     "comments": ""
   },
@@ -1535,5 +1580,37 @@
         "telegram": "https://t.me/pychel"
       },
       "comments": ""
+  },
+  {
+      "name": "Feathers JS",
+      "community": "",
+      "description": "Русскоязычное сообщество Feathers.js",
+      "links": {
+        "telegram": "https://t.me/featherjs"
+      },
+      "comments": ""
+  },
+  {
+      "name": "YiiJobs",
+      "community": "",
+      "description": "Yii - вакансии, работа, фриланс",
+      "links": {
+        "telegram": "https://t.me/yiijobs"
+      },
+      "comments": ""
+  },
+  {
+    "name": "IT Perm - сообщество айтишников из П",
+    "community": {
+      "name" : "IT Perm",
+      "icon" : "./communities/itperm.png",
+      "link" : "https://t.me/itperm"
+    },
+    "description": "Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью.",
+    "links": {
+      "telegram": "https://t.me/itperm",
+      "vk": "https://vk.com/hacknewsperm"
+    },
+    "comments": "Без мотиваторов, котиков, цитат и 1С."
   }
 ]
