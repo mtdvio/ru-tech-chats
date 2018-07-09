@@ -856,6 +856,15 @@
     "comments": ""
   },
   {
+    "name": "JavaScript Noobs",
+    "community": "",
+    "description": "Группа для новичков в JS и фронтенд-разработке",
+    "links": {
+      "telegram": "https://telegram.me/js_noobs_ru"
+    },
+    "comments": ""
+  },
+  {
     "name": "Laravel",
     "community": "",
     "description": "Laravel, PHP",
@@ -1045,19 +1054,6 @@
     "description": "Javascript, Node.js и многое-многое другое",
     "links": {
       "telegram": "https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA"
-    },
-    "comments": ""
-  },
-  {
-    "name": "pro.js.noobs",
-    "community": {
-      "name" : "proDOT",
-      "icon" : "./communities/prodot.jpg",
-      "link" : "https://telegram.me/proDOT"
-    },
-    "description": "JavaScript нубская группа",
-    "links": {
-      "telegram": "https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g"
     },
     "comments": ""
   },
