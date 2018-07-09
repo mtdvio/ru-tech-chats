@@ -1608,5 +1608,68 @@
       "vk": "https://vk.com/hacknewsperm"
     },
     "comments": "Без мотиваторов, котиков, цитат и 1С."
+  },
+  {
+    "name": "Kotlin Community",
+    "community": "",
+    "description": "Сообщество разработчиков на Kotlin",
+    "links": {
+      "telegram": "https://t.me/kotlin_lang"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Android Architecture",
+    "community": "",
+    "description": "Русскоязычный чат по архитектуре в андроид приложениях.",
+    "links": {
+      "telegram": "https://t.me/Android_Architecture"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Android Dev Подкаст",
+    "community": "",
+    "description": "Комната для обсуждения Android Dev подкаста apptractor.ru/AndroidDev/",
+    "links": {
+      "telegram": "https://t.me/androiddevpodcast"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Moxy – MVP библиотека под Android",
+    "community": "",
+    "description": "https://github.com/Arello-Mobile/Moxy Обсуждаем в группе вопросы, связанные с Moxy: - почему нужно пользоваться Moxy? - какие возможности есть у Moxy? - помогаем принять друг другу правильное решение определенной задачи - и т. д.",
+    "links": {
+      "telegram": "https://t.me/moxy_ru"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Cicerone Chat (RUS)",
+    "community": "",
+    "description": "Обсуждение библиотеки Чичероне: https://github.com/terrakok/Cicerone ",
+    "links": {
+      "telegram": "https://t.me/Cicerone_RUS"
+    },
+    "comments": ""
+  },
+  {
+    "name": "ReactiveX - русскоговорящее сообщество",
+    "community": "",
+    "description": "Общаемся на темы, посвященные реактивному программированию.",
+    "links": {
+      "telegram": "https://t.me/reactivex"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Dagger 2",
+    "community": "",
+    "description": "Группа для помощи, обмена опытом и лучшими практиками внедрения зависимостей при помощи Dagger 2. ",
+    "links": {
+      "telegram": "https://t.me/dagger_2"
+    },
+    "comments": ""
   }
 ]
