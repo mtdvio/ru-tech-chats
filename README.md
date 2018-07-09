@@ -175,3 +175,10 @@
 | **Feathers JS** |  | Русскоязычное сообщество Feathers.js | Telegram: https://t.me/featherjs |  |
 | **YiiJobs** |  | Yii - вакансии, работа, фриланс | Telegram: https://t.me/yiijobs |  |
 | **IT Perm - сообщество айтишников из П** | [![IT Perm](./communities/itperm.png)](https://t.me/itperm) [IT Perm](https://t.me/itperm) | Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. | Telegram: https://t.me/itperm | Без мотиваторов, котиков, цитат и 1С. |
+| **Kotlin Community** |  | Сообщество разработчиков на Kotlin | Telegram: https://t.me/kotlin_lang |  |
+| **Android Architecture** |  | Русскоязычный чат по архитектуре в андроид приложениях. | Telegram: https://t.me/Android_Architecture |  |
+| **Android Dev Подкаст** |  | Комната для обсуждения Android Dev подкаста apptractor.ru/AndroidDev/ | Telegram: https://t.me/androiddevpodcast |  |
+| **Moxy – MVP библиотека под Android** |  | https://github.com/Arello-Mobile/Moxy Обсуждаем в группе вопросы, связанные с Moxy: - почему нужно пользоваться Moxy? - какие возможности есть у Moxy? - помогаем принять друг другу правильное решение определенной задачи - и т. д. | Telegram: https://t.me/moxy_ru |  |
+| **Cicerone Chat (RUS)** |  | Обсуждение библиотеки Чичероне: https://github.com/terrakok/Cicerone  | Telegram: https://t.me/Cicerone_RUS |  |
+| **ReactiveX - русскоговорящее сообщество** |  | Общаемся на темы, посвященные реактивному программированию. | Telegram: https://t.me/reactivex |  |
+| **Dagger 2** |  | Группа для помощи, обмена опытом и лучшими практиками внедрения зависимостей при помощи Dagger 2.  | Telegram: https://t.me/dagger_2 |  |
