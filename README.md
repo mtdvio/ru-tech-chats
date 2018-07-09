@@ -99,6 +99,7 @@
 | **TRUE Unix** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | *nix | Skype: http://goo.gl/rQcEPD |  |
 | **TRUE Windows Development** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Development of a Windows Phone/RT/WPF | Skype: http://goo.gl/QZOt3t |  |
 | **Javascript.ru** |  | javascript, nodejs, angularjs, ... | Slack: http://slack.javascript.ru |  |
+| **JavaScript Noobs** |  | Группа для новичков в JS и фронтенд-разработке | Telegram: https://telegram.me/js_noobs_ru |  |
 | **Laravel** |  | Laravel, PHP | Gitter: https://gitter.im/laravelrus/chat |  |
 | **Laravel Framework** |  | Laravel Framework | Gitter: https://gitter.im/php-ua/laravel |  |
 | **Lovely Clojure** |  | Clojure, Clojurescript,  FP | Skype: http://tinyurl.com/clj-cljs |  |
@@ -119,7 +120,6 @@
 | **pro.asm** |  | Assembler, реверс | Telegram: https://t.me/proasm |  |
 | **pro.cxx** |  | С/С++ (не для новичков) | Telegram: https://t.me/ProCxx |  |
 | **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA |  |
-| **pro.js.noobs** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | JavaScript нубская группа | Telegram: https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g |  |
 | **pro.python** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под Python | Telegram: https://telegram.me/joinchat/A7kPxzx_o8HpyxsxTskU7g |  |
 | **pro.jvm** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под JVM и Android, Java, Scala, Kotlin, Groovy, Clojure | Telegram: https://telegram.me/jvmchat |  |
 | **pro.lua** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Правила чата: Тут можно обсуждать все, что связанно с луа - движки, интерпретаторы/компиляторы, питухан-биндинги, скрипты на сталкер: Тени Чернобыля и пр. Запрещена реклама! Срачи и оффтоп не желательны. | Telegram: https://telegram.me/ProLua |  |
