@@ -242,6 +242,15 @@
     "comments": ""
   },
   {
+    "name": "Flask",
+    "community": "",
+    "description": "Русскоязычное сообщество Flask",
+    "links": {
+      "telegram": "https://t.me/ru_flask"
+    },
+    "comments": ""
+  },
+  {
     "name": "Django",
     "community": "",
     "description": "Русскоязычное сообщество Django",
