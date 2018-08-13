@@ -357,13 +357,15 @@
     "comments": ""
   },
   {
-    "name": "Freelance (OdeskConf)",
-    "community": "",
-    "description": "any",
-    "links": {
-      "slack": "отправить json вида `{\"email\": \"name@domain.com\"}`  постом в теле на `http://mom-kebab.herokuapp.com/slack/invite`"
+    "name": "Odeskconf",
+    "community": {
+			"link": "https://github.com/odeskconf"
     },
-    "comments": "работать удалённо"
+    "description": "Сообщество людей, практикующих удаленную работу и фриланс",
+    "links": {
+      "slack": "https://odeskconf.herokuapp.com/"
+    },
+    "comments": ""
   },
   {
     "name": "Frontend UA",
