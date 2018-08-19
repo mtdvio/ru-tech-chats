@@ -109,7 +109,7 @@
 | **.NET, C#, Azure** |  | .NET, ASP.NET, C#, Azure, Xamarin | Skype: http://bit.ly/dotnet-chat |  |
 | **NodeJS RUS** |  | NodeJS | Gitter: https://gitter.im/nodejsrus/chat |  |
 | **NodeJS UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | NodeJS + DevOps and NoSQL | Gitter: https://gitter.im/dev-ua/node |  |
-| **ODS.ai** | [Open Data Science](http://ods.ai/) | The biggest Data Science community - 12500+ users, 23 timezones | Slack: http://ods.ai/ |  |
+| **ODS.ai** | [Open Data Science](http://ods.ai/) | The biggest Data Science community - 12500+ users, 23 timezones | Slack: http://goo.gl/abmjom |  |
 | **Phalcon RUS** |  | Phalcon, PHP | Gitter: https://gitter.im/phalcon-rus/chat |  |
 | **Phalcon Framework** |  | Phalcon Framework | Gitter: https://gitter.im/php-ua/phalcon |  |
 | **PHP UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | PHP | Gitter: https://gitter.im/dev-ua/php<br>Skype: http://bit.ly/php-ua | Chat migrated to Gitter |
