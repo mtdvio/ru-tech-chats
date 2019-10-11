@@ -135,6 +135,19 @@
     "comments": "Публикуем вакансии/резюме, ищем/публикуем проекты(задачи), колег в pet-проект, обсуждаем процес найма в Украине (ONLY ANDROID)"
   },
   {
+    "name": "Android Declarative",
+    "community": {
+      "name" : "Android Declarative — Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho",
+      "icon" : "./communities/android_declarative.png",
+      "link" : "https://t.me/android_declarative"
+    },
+    "description": "Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho",
+    "links": {
+      "telegram": "https://t.me/android_declarative"
+    },
+    "comments": ""
+  },
+  {
     "name": "Ansible RUS",
     "community": "",
     "description": "Ansible",
