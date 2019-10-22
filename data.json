@@ -572,6 +572,24 @@
     "comments": ""
   },
   {
+    "name": "Krasnodar Frontend",
+    "community": "",
+    "description": "Cообщество frontend-разработчиков Краснодара",
+    "links": {
+      "telegram": "https://telegram.me/krdfrontend"
+    },
+    "comments": ""
+  },
+  {
+    "name": "Krasnodar Dev Days",
+    "community": "",
+    "description": "IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий",
+    "links": {
+      "telegram": "https://telegram.me/krddevdays"
+    },
+    "comments": ""
+  },
+  {
     "name": "TRUE .NET",
     "community": {
       "name" : "TRUE",
