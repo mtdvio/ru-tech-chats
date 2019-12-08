@@ -1691,5 +1691,23 @@
       "telegram": "https://t.me/dagger_2"
     },
     "comments": ""
+  },
+  {
+    "name": "How Programming Works",
+    "community": "Metarhia",
+    "description": "Computer science, Software engeneering, Programming",
+    "links": {
+      "telegram": "https://t.me/Programming_IP9X"
+    },
+    "comments": ""
+  },
+  {
+    "name": "NodeUA",
+    "community": "Metarhia",
+    "description": "Node.js and Software engineering",
+    "links": {
+      "telegram": "https://t.me/nodeua"
+    },
+    "comments": ""
   }
 ]
