@@ -903,6 +903,15 @@
     "comments": ""
   },
   {
+    "name": "Laravel - вакансии, работа, фриланс",
+    "community": "",
+    "description": "Пишите тут вакансии, заказы. Укажите  зарплату или бюджет за проект.",
+    "links": {
+      "telegram": "https://t.me/laraveljob"
+    },
+    "comments": ""
+  },
+  {
     "name": "Laravel Framework",
     "community": "",
     "description": "Laravel Framework",
