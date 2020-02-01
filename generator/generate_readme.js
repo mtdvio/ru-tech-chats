@@ -1,28 +1,27 @@
 import fs from 'fs';
+import path from 'path';
 import data from '../data.json';
 
-const table = (data) => {
-  return data.map(row).join('\n');
-}
+const table = (data) =>
+  data
+    .sort((d1, d2) => d1.name > d2.name)
+    .map(row)
+    .join('\n');
 
-const row = (rowData) => {
-  return `| **${rowData.name}** | ${ community(rowData.community) } | ${rowData.description || ''} | ${ links(rowData.links) } | ${rowData.comments || ''} |`;
-}
+const row = (rowData) =>
+  `| **${rowData.name}** | ${ community(rowData.community) } | ${rowData.description || ''} | ${ links(rowData.links) } | ${rowData.comments || ''} |`;
 
-const link = (name, url) => {
-  if (url) return `${name}: ${url}`
-  return ''
-}
+const link = (name, url) =>
+  url ? `${name}: ${url}` : ''
 
-const links = (list) => {
-  return [
+const links = (list) =>
+  [
     link('Gitter', list.gitter),
     link('Slack', list.slack),
     link('Skype', list.skype),
     link('Telegram', list.telegram),
     link('Other', list.other)
   ].filter( x => x.length > 0 ).join('<br>')
-}
 
 const community = comm => {
   if (!comm) return ''
@@ -57,6 +56,7 @@ ${table(data)}
 `
 
 console.log('>>> Generating README.md <<<')
-fs.writeFileSync('../README.md', content);
+console.log(content)
+fs.writeFileSync(path.join(process.cwd(), 'README.md'), content);
 console.log('>>> 🏁 Done generating README.md <<<')
 
