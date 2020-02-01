@@ -21,12 +21,16 @@ const links = (list) =>
     link('Skype', list.skype),
     link('Telegram', list.telegram),
     link('Other', list.other)
-  ].filter( x => x.length > 0 ).join('<br>')
+  ].filter(x => x.length > 0).join('<br>')
 
 const community = comm => {
   if (!comm) return ''
-  if (!comm.icon) return `[${comm.name}](${comm.link})`
-  else return `[![${comm.name}](${comm.icon})](${comm.link}) [${comm.name}](${comm.link})`
+  if (typeof comm === 'string') return comm
+  if (comm && comm.name) {
+    if (!comm.link) return comm.name
+    if (!comm.icon) return `[${comm.name}](${comm.link})`
+    else return `[![${comm.name}](${comm.icon})](${comm.link}) [${comm.name}](${comm.link})`
+  }
 }
 
 const content = `Это - список русскоязычных чатов об IT.
