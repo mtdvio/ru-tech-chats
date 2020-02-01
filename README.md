@@ -62,7 +62,7 @@
 | **ITCrowd KZ** |  | Developers community of Kazakhstan | Slack: http://itcrowd-kz.slack.com/ |  |
 | **Gentoo** |  | Сообщество пользователей ОС Gentoo Linux. | Telegram: https://t.me/russian_gentoo<br>Other: http://telegra.ph/Info-06-11 |  |
 | **Go Lang** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
-| **How Programming Works** | [undefined](function link() { [native code] }) | Computer science, Software engeneering, Programming | Telegram: https://t.me/Programming_IP9X |  |
+| **How Programming Works** | Metarhia | Computer science, Software engeneering, Programming | Telegram: https://t.me/Programming_IP9X |  |
 | **GraphQL** |  | Русскоговорящее сообщество GraphQL | Telegram: https://telegram.me/graphql_ru |  |
 | **HangOps.ru** |  | Russian DevOps Hangouts | Slack: http://join.hangops.ru<br>Skype: skype outdated: http://tinyurl.com/hangopsru |  |
 | **Frontend KZ** |  | HTML5, CSS3, Javascript, ... | Slack: http://frontendkz.github.io/ |  |
@@ -83,7 +83,7 @@
 | **GameDev без политоты** |  | GameDev | Skype: https://bit.ly/ru-gamedev-skype-chat |  |
 | **Django** |  | Русскоязычное сообщество Django | Telegram: https://t.me/pydjango |  |
 | **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua<br>Telegram: https://telegram.me/rubylang |  |
-| **NodeUA** | [undefined](function link() { [native code] }) | Node.js and Software engineering | Telegram: https://t.me/nodeua |  |
+| **NodeUA** | Metarhia | Node.js and Software engineering | Telegram: https://t.me/nodeua |  |
 | **JavaChat** |  | Java, JVM | Skype: http://bit.ly/javachatru |  |
 | **Moxy – MVP библиотека под Android** |  | https://github.com/Arello-Mobile/Moxy Обсуждаем в группе вопросы, связанные с Moxy: - почему нужно пользоваться Moxy? - какие возможности есть у Moxy? - помогаем принять друг другу правильное решение определенной задачи - и т. д. | Telegram: https://t.me/moxy_ru |  |
 | **Java talks BY** |  | Java, JVM, Software Design | Skype: http://bit.ly/javatalks-by |  |
@@ -103,7 +103,7 @@
 | **ScalaChat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM, Software Design | Gitter: https://gitter.im/dev-ua/scala<br>Slack: https://scala-ru.herokuapp.com<br>Skype: http://bit.ly/scalachat |  |
 | **TRUE C++** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | C++ | Skype: http://goo.gl/tAjSf2 |  |
 | **ReactiveX - русскоговорящее сообщество** |  | Общаемся на темы, посвященные реактивному программированию. | Telegram: https://t.me/reactivex |  |
-| **Odeskconf** | [undefined](https://github.com/odeskconf) | Сообщество людей, практикующих удаленную работу и фриланс | Slack: https://odeskconf.herokuapp.com/ |  |
+| **Odeskconf** | undefined | Сообщество людей, практикующих удаленную работу и фриланс | Slack: https://odeskconf.herokuapp.com/ |  |
 | **Python Community Chelyabinsk** |  | Сообщество Python-разработчиков Челябинска | Telegram: https://t.me/pychel |  |
 | **Rollup** |  | Русскоязычное сообщество Rollup.js | Telegram: https://t.me/rollup_ru |  |
 | **TRUE .NET** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | .NET | Skype: http://goo.gl/3lKLdJ |  |

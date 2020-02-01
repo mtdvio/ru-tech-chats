@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "npx babel-node ./generator/generate_readme.js",
-    "deploy": "git add ../README.md && git commit -m 'GENERATED README.md' && git push"
+    "deploy": "git add README.md && git commit -m 'GENERATED README.md' && git push"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

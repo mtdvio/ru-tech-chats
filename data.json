@@ -1685,7 +1685,9 @@
   },
   {
     "name": "How Programming Works",
-    "community": "Metarhia",
+    "community": {
+      "name": "Metarhia"
+    },
     "description": "Computer science, Software engeneering, Programming",
     "links": {
       "telegram": "https://t.me/Programming_IP9X"
@@ -1694,7 +1696,9 @@
   },
   {
     "name": "NodeUA",
-    "community": "Metarhia",
+    "community": {
+      "name": "Metarhia"
+    },
     "description": "Node.js and Software engineering",
     "links": {
       "telegram": "https://t.me/nodeua"
