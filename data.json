@@ -2,8 +2,8 @@
   {
     "name": "Atlassian User Group Saint-Petersburg",
     "community": {
-      "name" : "Atlassian User Group",
-      "link" : "https://aug.atlassian.com/st-petersburg"
+      "name": "Atlassian User Group",
+      "link": "https://aug.atlassian.com/st-petersburg"
     },
     "description": "Чат администраторов и разработчиков плагинов для продуктов Atlassian",
     "links": {
@@ -14,8 +14,8 @@
   {
     "name": "Atlassian User Group Moscow",
     "community": {
-      "name" : "Atlassian User Group",
-      "link" : "http://aug.atlassian.com/cities/moscowrussia"
+      "name": "Atlassian User Group",
+      "link": "http://aug.atlassian.com/cities/moscowrussia"
     },
     "description": "Чат администраторов и разработчиков плагинов для продуктов Atlassian",
     "links": {
@@ -26,9 +26,9 @@
   {
     "name": "AI-ML-DS",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Искусственный интеллект, машинное обучение, Data Science",
     "links": {
@@ -57,9 +57,9 @@
   {
     "name": "AngularJS UA",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "AngularJS, Javascript",
     "links": {
@@ -70,9 +70,9 @@
   {
     "name": "Angular.js — русскоговорящее сообщество",
     "community": {
-      "name" : "Angular.js — русскоговорящее сообщество",
-      "icon" : "./communities/anuglar-js.jpg",
-      "link" : "https://telegram.me/angular_js"
+      "name": "Angular.js — русскоговорящее сообщество",
+      "icon": "./communities/anuglar-js.jpg",
+      "link": "https://telegram.me/angular_js"
     },
     "description": "AngularJS",
     "links": {
@@ -137,9 +137,9 @@
   {
     "name": "Android Declarative",
     "community": {
-      "name" : "Android Declarative — Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho",
-      "icon" : "./communities/android_declarative.png",
-      "link" : "https://t.me/android_declarative"
+      "name": "Android Declarative — Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho",
+      "icon": "./communities/android_declarative.png",
+      "link": "https://t.me/android_declarative"
     },
     "description": "Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho",
     "links": {
@@ -186,8 +186,8 @@
   {
     "name": "codingteam",
     "community": {
-      "name" : "codingteam",
-      "link" : "https://codingteam.org.ru/"
+      "name": "codingteam",
+      "link": "https://codingteam.org.ru/"
     },
     "description": "Кроссплатформенное сообщество инженеров и программистов",
     "links": {
@@ -217,9 +217,9 @@
   {
     "name": "Clojure UA",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Clojure, Clojurescript,  FP",
     "links": {
@@ -230,9 +230,9 @@
   {
     "name": "Нейронные сети (Chatbots and AI Community)",
     "community": {
-      "name" : "Нейронные сети (Chatbots and AI Community)",
-      "icon" : "./communities/chatbots-and-ai-community.jpg",
-      "link" : "https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA"
+      "name": "Нейронные сети (Chatbots and AI Community)",
+      "icon": "./communities/chatbots-and-ai-community.jpg",
+      "link": "https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA"
     },
     "description": "Chatbots",
     "links": {
@@ -243,9 +243,9 @@
   {
     "name": "Dart group",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Dart",
     "links": {
@@ -312,9 +312,9 @@
   {
     "name": "Ember Chat",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "EmberJS",
     "links": {
@@ -335,9 +335,9 @@
   {
     "name": "Русскоязычное сообщество F#",
     "community": {
-      "name" : "fsharplang-ru",
-      "icon" : "https://fsharplang-ru.github.io/img/min_logo.png",
-      "link" : "https://github.com/fsharplang-ru"
+      "name": "fsharplang-ru",
+      "icon": "https://fsharplang-ru.github.io/img/min_logo.png",
+      "link": "https://github.com/fsharplang-ru"
     },
     "description": "F#",
     "links": {
@@ -358,9 +358,9 @@
   {
     "name": "Русскоязычное .NET сообщество",
     "community": {
-      "name" : "DotNet.Ru",
-      "icon" : "https://pbs.twimg.com/profile_images/887076782599483393/q_33AEb__400x400.jpg",
-      "link" : "http://dotnet.ru/"
+      "name": "DotNet.Ru",
+      "icon": "https://pbs.twimg.com/profile_images/887076782599483393/q_33AEb__400x400.jpg",
+      "link": "http://dotnet.ru/"
     },
     "description": ".NET, C#, F#",
     "links": {
@@ -372,24 +372,11 @@
   {
     "name": "Odeskconf",
     "community": {
-			"link": "https://github.com/odeskconf"
+      "link": "https://github.com/odeskconf"
     },
     "description": "Сообщество людей, практикующих удаленную работу и фриланс",
     "links": {
       "slack": "https://odeskconf.herokuapp.com/"
-    },
-    "comments": ""
-  },
-  {
-    "name": "Frontend UA",
-    "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
-    },
-    "description": "HTML5, CSS3, Javascript, ...",
-    "links": {
-      "gitter": "http://frontendua.im"
     },
     "comments": ""
   },
@@ -433,9 +420,9 @@
   {
     "name": "Go Lang",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Go",
     "links": {
@@ -484,9 +471,9 @@
   {
     "name": "Haskell UA",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Haskell Chat",
     "links": {
@@ -567,15 +554,6 @@
     "comments": ""
   },
   {
-    "name": "Java Professionals By",
-    "community": "",
-    "description": "Java, JVM",
-    "links": {
-      "gitter": "https://gitter.im/javaby/chat"
-    },
-    "comments": ""
-  },
-  {
     "name": "jQuery RUS",
     "community": "",
     "description": "jQuery, Javascript",
@@ -605,9 +583,9 @@
   {
     "name": "TRUE .NET",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": ".NET",
     "links": {
@@ -618,9 +596,9 @@
   {
     "name": "TRUE Android Development",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Android",
     "links": {
@@ -631,9 +609,9 @@
   {
     "name": "TRUE ASM",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Assembler",
     "links": {
@@ -644,9 +622,9 @@
   {
     "name": "TRUE Big Data",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Big data/Data Science",
     "links": {
@@ -657,9 +635,9 @@
   {
     "name": "TRUE C++",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "C++",
     "links": {
@@ -670,9 +648,9 @@
   {
     "name": "TRUE CSS",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "CSS",
     "links": {
@@ -683,9 +661,9 @@
   {
     "name": "TRUE Database",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Databases",
     "links": {
@@ -696,9 +674,9 @@
   {
     "name": "TRUE DevOps",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "DevOps",
     "links": {
@@ -709,9 +687,9 @@
   {
     "name": "TRUE HTML/CSS/JS",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "HTML/CSS/JS",
     "links": {
@@ -722,9 +700,9 @@
   {
     "name": "TRUE InfoSec",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Info Security",
     "links": {
@@ -735,9 +713,9 @@
   {
     "name": "TRUE iOS",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Development of a iOS",
     "links": {
@@ -748,9 +726,9 @@
   {
     "name": "TRUE IT",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Any",
     "links": {
@@ -761,9 +739,9 @@
   {
     "name": "True Java",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Java, JVM, Software, Design",
     "links": {
@@ -774,9 +752,9 @@
   {
     "name": "TRUE Javascript",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "JavaScript",
     "links": {
@@ -787,9 +765,9 @@
   {
     "name": "TRUE LAMP",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Linux/Apache/MySql/PHP, Python, Perl",
     "links": {
@@ -800,9 +778,9 @@
   {
     "name": "TRUE Python",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Python",
     "links": {
@@ -813,9 +791,9 @@
   {
     "name": "TRUE Ruby",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Ruby",
     "links": {
@@ -826,9 +804,9 @@
   {
     "name": "TRUE Rust",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Rust",
     "links": {
@@ -839,9 +817,9 @@
   {
     "name": "TRUE StartUp",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Russian speaking StartUp community.",
     "links": {
@@ -852,9 +830,9 @@
   {
     "name": "TRUE System Administration",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Russian speaking SysAdmins",
     "links": {
@@ -865,9 +843,9 @@
   {
     "name": "TRUE Unix",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "*nix",
     "links": {
@@ -878,9 +856,9 @@
   {
     "name": "TRUE Windows Development",
     "community": {
-      "name" : "TRUE",
-      "icon" : "./communities/true.png",
-      "link" : "https://habrahabr.ru/post/242683/"
+      "name": "TRUE",
+      "icon": "./communities/true.png",
+      "link": "https://habrahabr.ru/post/242683/"
     },
     "description": "Development of a Windows Phone/RT/WPF",
     "links": {
@@ -972,9 +950,9 @@
   {
     "name": "NodeJS UA",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "NodeJS + DevOps and NoSQL",
     "links": {
@@ -1003,9 +981,9 @@
   {
     "name": "PHP UA",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "PHP",
     "links": {
@@ -1032,7 +1010,7 @@
     },
     "comments": ""
   },
-{
+  {
     "name": "phpGeeks 2.2",
     "community": "",
     "description": "PHP чат в telegram",
@@ -1089,9 +1067,9 @@
   {
     "name": "pro.js",
     "community": {
-      "name" : "proDOT",
-      "icon" : "./communities/prodot.jpg",
-      "link" : "https://telegram.me/proDOT"
+      "name": "proDOT",
+      "icon": "./communities/prodot.jpg",
+      "link": "https://telegram.me/proDOT"
     },
     "description": "Javascript, Node.js и многое-многое другое",
     "links": {
@@ -1102,9 +1080,9 @@
   {
     "name": "pro.python",
     "community": {
-      "name" : "proDOT",
-      "icon" : "./communities/prodot.jpg",
-      "link" : "https://telegram.me/proDOT"
+      "name": "proDOT",
+      "icon": "./communities/prodot.jpg",
+      "link": "https://telegram.me/proDOT"
     },
     "description": "Сообщество разработчиков под Python",
     "links": {
@@ -1115,9 +1093,9 @@
   {
     "name": "pro.jvm",
     "community": {
-      "name" : "proDOT",
-      "icon" : "./communities/prodot.jpg",
-      "link" : "https://telegram.me/proDOT"
+      "name": "proDOT",
+      "icon": "./communities/prodot.jpg",
+      "link": "https://telegram.me/proDOT"
     },
     "description": "Сообщество разработчиков под JVM и Android, Java, Scala, Kotlin, Groovy, Clojure",
     "links": {
@@ -1128,9 +1106,9 @@
   {
     "name": "pro.lua",
     "community": {
-      "name" : "proDOT",
-      "icon" : "./communities/prodot.jpg",
-      "link" : "https://telegram.me/proDOT"
+      "name": "proDOT",
+      "icon": "./communities/prodot.jpg",
+      "link": "https://telegram.me/proDOT"
     },
     "description": "Правила чата: Тут можно обсуждать все, что связанно с луа - движки, интерпретаторы/компиляторы, питухан-биндинги, скрипты на сталкер: Тени Чернобыля и пр. Запрещена реклама! Срачи и оффтоп не желательны.",
     "links": {
@@ -1174,7 +1152,7 @@
     },
     "comments": ""
   },
-   {
+  {
     "name": "Qt",
     "community": "",
     "description": "Qt, QML, QtCreator",
@@ -1188,16 +1166,16 @@
     "community": "",
     "description": "ReportPortal.io Community of Open Sourced tool for test automation",
     "links": {
-	  "slack": "https://reportportal-slack-auto.herokuapp.com/"
+      "slack": "https://reportportal-slack-auto.herokuapp.com/"
     },
     "comments": ""
   },
   {
     "name": "ReactJS",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "ReactJS, Flux, Redux",
     "links": {
@@ -1218,9 +1196,9 @@
   {
     "name": "Ruby/RoR",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Ruby, Rails",
     "links": {
@@ -1242,9 +1220,9 @@
   {
     "name": "RustUA",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Rust",
     "links": {
@@ -1294,9 +1272,9 @@
   {
     "name": "Scala UA",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Scala, JVM",
     "links": {
@@ -1317,9 +1295,9 @@
   {
     "name": "ScalaChat",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Scala, JVM, Software Design",
     "links": {
@@ -1396,9 +1374,9 @@
   {
     "name": "Unity",
     "community": {
-      "name" : "Dev UA",
-      "icon" : "./communities/dev-ua.png",
-      "link" : "https://gitter.im/orgs/dev-ua/rooms"
+      "name": "Dev UA",
+      "icon": "./communities/dev-ua.png",
+      "link": "https://gitter.im/orgs/dev-ua/rooms"
     },
     "description": "Unity Engine",
     "links": {
@@ -1461,7 +1439,7 @@
     "comments": ""
   },
   {
-    "name": "Понаехавшие ITишники в Мюнхен",
+    "name": "Понаехавшие ITишники в Мюнхене",
     "community": "",
     "description": "Russian speaking IT community in Munich, Germany.",
     "links": {
@@ -1530,110 +1508,110 @@
     "comments": ""
   },
   {
-      "name": "#ru_embedded",
-      "community": "",
-      "description": "Embedded software/hardware на русском",
-      "links": {
-        "other": "irc://irc.forestnet.org:6667/#ru_embedded"
-      },
-      "comments": ""
+    "name": "#ru_embedded",
+    "community": "",
+    "description": "Embedded software/hardware на русском",
+    "links": {
+      "other": "irc://irc.forestnet.org:6667/#ru_embedded"
+    },
+    "comments": ""
   },
   {
-      "name": "ntwrk",
-      "community": "",
-      "description": "Network Engineers community",
-      "links": {
-        "telegram": "https://telegram.me/ntwrk"
-      },
-      "comments": ""
+    "name": "ntwrk",
+    "community": "",
+    "description": "Network Engineers community",
+    "links": {
+      "telegram": "https://telegram.me/ntwrk"
+    },
+    "comments": ""
   },
   {
-      "name": "Russian–speaking Ruby/JS dev community",
-      "community": "",
-      "description": "ruby, js",
-      "links": {
-        "slack": "https://rusdevs.herokuapp.com"
-      },
-      "comments": ""
+    "name": "Russian–speaking Ruby/JS dev community",
+    "community": "",
+    "description": "ruby, js",
+    "links": {
+      "slack": "https://rusdevs.herokuapp.com"
+    },
+    "comments": ""
   },
   {
-      "name": "Flow type checker community",
-      "community": "",
-      "description": "flow, js",
-      "links": {
-        "telegram": "https://telegram.me/flowtype_ru"
-      },
-      "comments": ""
+    "name": "Flow type checker community",
+    "community": "",
+    "description": "flow, js",
+    "links": {
+      "telegram": "https://telegram.me/flowtype_ru"
+    },
+    "comments": ""
   },
   {
-      "name": "ITишники во Владимире",
-      "community": "",
-      "description": "ИТ-сообщество города Владимира",
-      "links": {
-        "slack": "http://anjlab.com/ru/vladimir8bit/"
-      },
-      "comments": ""
+    "name": "ITишники во Владимире",
+    "community": "",
+    "description": "ИТ-сообщество города Владимира",
+    "links": {
+      "slack": "http://anjlab.com/ru/vladimir8bit/"
+    },
+    "comments": ""
   },
   {
-      "name": "Kubernetes - русскоговорящее сообщество",
-      "community": "",
-      "description": "Общаемся на темы, посвященные Kubernetes, конфигурации и возможностям. Новости, вопросы, идеи и т.д.",
-      "links": {
-        "telegram": "https://t.me/kubernetes_ru"
-      },
-      "comments": ""
+    "name": "Kubernetes - русскоговорящее сообщество",
+    "community": "",
+    "description": "Общаемся на темы, посвященные Kubernetes, конфигурации и возможностям. Новости, вопросы, идеи и т.д.",
+    "links": {
+      "telegram": "https://t.me/kubernetes_ru"
+    },
+    "comments": ""
   },
   {
-      "name": "Visual Studio Code",
-      "community": "",
-      "description": "Чат настройки и разработки плагинов",
-      "links": {
-        "telegram": "https://t.me/vscode_ru"
-      },
-      "comments": ""
+    "name": "Visual Studio Code",
+    "community": "",
+    "description": "Чат настройки и разработки плагинов",
+    "links": {
+      "telegram": "https://t.me/vscode_ru"
+    },
+    "comments": ""
   },
   {
-      "name": "Rollup",
-      "community": "",
-      "description": "Русскоязычное сообщество Rollup.js",
-      "links": {
-        "telegram": "https://t.me/rollup_ru"
-      },
-      "comments": ""
+    "name": "Rollup",
+    "community": "",
+    "description": "Русскоязычное сообщество Rollup.js",
+    "links": {
+      "telegram": "https://t.me/rollup_ru"
+    },
+    "comments": ""
   },
   {
-      "name": "Python Community Chelyabinsk",
-      "community": "",
-      "description": "Сообщество Python-разработчиков Челябинска",
-      "links": {
-        "telegram": "https://t.me/pychel"
-      },
-      "comments": ""
+    "name": "Python Community Chelyabinsk",
+    "community": "",
+    "description": "Сообщество Python-разработчиков Челябинска",
+    "links": {
+      "telegram": "https://t.me/pychel"
+    },
+    "comments": ""
   },
   {
-      "name": "Feathers JS",
-      "community": "",
-      "description": "Русскоязычное сообщество Feathers.js",
-      "links": {
-        "telegram": "https://t.me/featherjs"
-      },
-      "comments": ""
+    "name": "Feathers JS",
+    "community": "",
+    "description": "Русскоязычное сообщество Feathers.js",
+    "links": {
+      "telegram": "https://t.me/featherjs"
+    },
+    "comments": ""
   },
   {
-      "name": "YiiJobs",
-      "community": "",
-      "description": "Yii - вакансии, работа, фриланс",
-      "links": {
-        "telegram": "https://t.me/yiijobs"
-      },
-      "comments": ""
+    "name": "YiiJobs",
+    "community": "",
+    "description": "Yii - вакансии, работа, фриланс",
+    "links": {
+      "telegram": "https://t.me/yiijobs"
+    },
+    "comments": ""
   },
   {
     "name": "IT Perm - сообщество айтишников из П",
     "community": {
-      "name" : "IT Perm",
-      "icon" : "./communities/itperm.png",
-      "link" : "https://t.me/itperm"
+      "name": "IT Perm",
+      "icon": "./communities/itperm.png",
+      "link": "https://t.me/itperm"
     },
     "description": "Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью.",
     "links": {
