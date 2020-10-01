@@ -1704,5 +1704,16 @@
       "telegram": "https://t.me/nodeua"
     },
     "comments": ""
+  },
+  {
+    "name": "OpenVidu / Kurento",
+    "community": {
+      "name": "OpenVidu / Kurento"
+    },
+    "description": "Русскоязычное сообщество о проектах OpenVidu/Kurento",
+    "links": {
+      "telegram": "https://t.me/openvidu"
+    },
+    "comments": ""
   }
 ]
