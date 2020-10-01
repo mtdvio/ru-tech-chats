@@ -42,13 +42,13 @@
 | **#webdev** |  | Web-development theory and practice | Other: irc: http://webdev.a-ec.name |  |
 | **.NET, C#, Azure** |  | .NET, ASP.NET, C#, Azure, Xamarin | Skype: http://bit.ly/dotnet-chat |  |
 | **Atlassian User Group Moscow** | [Atlassian User Group](http://aug.atlassian.com/cities/moscowrussia) | Чат администраторов и разработчиков плагинов для продуктов Atlassian | Telegram: https://t.me/augmoscow |  |
-| **PHP Community** |  | PHP Community | Gitter: https://gitter.im/php-ua/php |  |
+| **PHP Telegram** |  | PHP чат в telegram | Telegram: https://telegram.me/prophp7 |  |
 | **Clojure UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Clojure, Clojurescript,  FP | Gitter: https://gitter.im/dev-ua/clojure |  |
 | **Cicerone Chat (RUS)** |  | Обсуждение библиотеки Чичероне: https://github.com/terrakok/Cicerone  | Telegram: https://t.me/Cicerone_RUS |  |
 | **C++ Russia** |  | Обсуждение мероприятий, связанных с С++ в России | Telegram: https://telegram.me/joinchat/CMhk-j_waI8vac99lMYOFQ |  |
 | **Clojure Ru** |  | Clojure, Clojurescript | Telegram: https://t.me/clojure_ru |  |
 | **Clojure Pro** |  | Clojure, Clojurescript | Telegram: https://t.me/clojurepro |  |
-| **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
+| **Postgres.chat** |  | Чат о Postgres | Gitter: https://gitter.im/postgresmen/postgresqlrussia |  |
 | **DevOps — русскоговорящее сообщество** |  | Общаемся на темы DevOps, мониторинга, метрикам и облакам. Новости. | Telegram: https://t.me/devops_ru |  |
 | **Dagger 2** |  | Группа для помощи, обмена опытом и лучшими практиками внедрения зависимостей при помощи Dagger 2.  | Telegram: https://t.me/dagger_2 |  |
 | **Dart group** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Dart | Gitter: https://gitter.im/dev-ua/dart<br>Skype: http://bit.ly/dart-chat |  |
@@ -58,7 +58,7 @@
 | **DIY / Glory to the sad Robots** |  | Hardware, Microcontrollers, Robotics | Skype: http://bit.ly/robots-chat |  |
 | **DevOps for Devs** |  | Vagrant, Docker, Dokku OH MY! | Skype: http://bit.ly/devops-for-devs |  |
 | **Continuous Integration/Delivery RU** |  | Continuous Integration/Delivery на русском | Telegram: https://telegram.me/ci_cd_ru |  |
-| **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA |  |
+| **pro.python** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под Python | Telegram: https://telegram.me/joinchat/A7kPxzx_o8HpyxsxTskU7g |  |
 | **ITCrowd KZ** |  | Developers community of Kazakhstan | Slack: http://itcrowd-kz.slack.com/ |  |
 | **Gentoo** |  | Сообщество пользователей ОС Gentoo Linux. | Telegram: https://t.me/russian_gentoo<br>Other: http://telegra.ph/Info-06-11 |  |
 | **Go Lang** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Go | Gitter: https://gitter.im/dev-ua/go<br>Skype: http://is.gd/0hu7AR |  |
@@ -82,7 +82,8 @@
 | **Fronthub** |  | js, css, html, fun, flood | Slack: https://fronthub.slack.com |  |
 | **GameDev без политоты** |  | GameDev | Skype: https://bit.ly/ru-gamedev-skype-chat |  |
 | **Django** |  | Русскоязычное сообщество Django | Telegram: https://t.me/pydjango |  |
-| **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua<br>Telegram: https://telegram.me/rubylang |  |
+| **Ruby&whatever** |  | Ruby | Skype: http://tinyurl.com/rubyconf | Just be a good person. |
+| **OpenVidu / Kurento** | OpenVidu / Kurento | Русскоязычное сообщество о проектах OpenVidu/Kurento | Telegram: https://t.me/openvidu |  |
 | **NodeUA** | Metarhia | Node.js and Software engineering | Telegram: https://t.me/nodeua |  |
 | **JavaChat** |  | Java, JVM | Skype: http://bit.ly/javachatru |  |
 | **Moxy – MVP библиотека под Android** |  | https://github.com/Arello-Mobile/Moxy Обсуждаем в группе вопросы, связанные с Moxy: - почему нужно пользоваться Moxy? - какие возможности есть у Moxy? - помогаем принять друг другу правильное решение определенной задачи - и т. д. | Telegram: https://t.me/moxy_ru |  |
@@ -97,34 +98,33 @@
 | **MoscowJS** |  | HTML5, CSS3, Javascript | Gitter: https://gitter.im/moscowjs/chat |  |
 | **Mobile Web UA** |  | Hybrid apps, Phonegap, Crosswalk ... | Skype: http://bit.ly/mobile-web-ua |  |
 | **Lovely Clojure** |  | Clojure, Clojurescript,  FP | Skype: http://tinyurl.com/clj-cljs |  |
+| **Odeskconf** | undefined | Сообщество людей, практикующих удаленную работу и фриланс | Slack: https://odeskconf.herokuapp.com/ |  |
 | **Laravel** |  | Laravel, PHP | Gitter: https://gitter.im/laravelrus/chat |  |
-| **JavaScript Noobs** |  | Группа для новичков в JS и фронтенд-разработке | Telegram: https://telegram.me/js_noobs_ru |  |
 | **Javascript.ru** |  | javascript, nodejs, angularjs, ... | Slack: http://slack.javascript.ru |  |
-| **ScalaChat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM, Software Design | Gitter: https://gitter.im/dev-ua/scala<br>Slack: https://scala-ru.herokuapp.com<br>Skype: http://bit.ly/scalachat |  |
+| **JavaScript Noobs** |  | Группа для новичков в JS и фронтенд-разработке | Telegram: https://telegram.me/js_noobs_ru |  |
+| **slack.dev.by** |  | Belarussian dev community (lot of channels on different topics) | Slack: http://slack.dev.by/ |  |
 | **TRUE C++** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | C++ | Skype: http://goo.gl/tAjSf2 |  |
 | **ReactiveX - русскоговорящее сообщество** |  | Общаемся на темы, посвященные реактивному программированию. | Telegram: https://t.me/reactivex |  |
-| **Odeskconf** | undefined | Сообщество людей, практикующих удаленную работу и фриланс | Slack: https://odeskconf.herokuapp.com/ |  |
 | **Python Community Chelyabinsk** |  | Сообщество Python-разработчиков Челябинска | Telegram: https://t.me/pychel |  |
 | **Rollup** |  | Русскоязычное сообщество Rollup.js | Telegram: https://t.me/rollup_ru |  |
-| **TRUE .NET** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | .NET | Skype: http://goo.gl/3lKLdJ |  |
 | **TRUE Big Data** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Big data/Data Science | Skype: http://goo.gl/N2Djvo |  |
+| **TRUE .NET** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | .NET | Skype: http://goo.gl/3lKLdJ |  |
 | **Russian–speaking Ruby/JS dev community** |  | ruby, js | Slack: https://rusdevs.herokuapp.com |  |
-| **TRUE Android Development** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Android | Skype: http://goo.gl/V8cIca |  |
 | **Phalcon RUS** |  | Phalcon, PHP | Gitter: https://gitter.im/phalcon-rus/chat |  |
 | **Phalcon Framework** |  | Phalcon Framework | Gitter: https://gitter.im/php-ua/phalcon |  |
 | **PHP UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | PHP | Gitter: https://gitter.im/dev-ua/php<br>Skype: http://bit.ly/php-ua | Chat migrated to Gitter |
+| **PHP Community** |  | PHP Community | Gitter: https://gitter.im/php-ua/php |  |
+| **TRUE Android Development** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Android | Skype: http://goo.gl/V8cIca |  |
 | **Pyha** |  | Сообщество форума pyha.ru | Slack: https://pyha.slack.com |  |
-| **PHP Telegram** |  | PHP чат в telegram | Telegram: https://telegram.me/prophp7 |  |
+| **Piter United** |  | Объединение ИТ-сообществ Санкт-Петербурга | Slack: http://bit.ly/piterunited |  |
 | **Symfony** |  | Symfony Components, Symfony Framework | Telegram: https://t.me/symfony_php |  |
 | **Symfony Framework RU** |  | Symfony Framework | Gitter: https://gitter.im/symfonysib/symfony |  |
-| **Postgres.chat** |  | Чат о Postgres | Gitter: https://gitter.im/postgresmen/postgresqlrussia |  |
 | **Symfony Framework UA** |  | Symfony Framework | Gitter: https://gitter.im/php-ua/symfony |  |
 | **Spb Frontend** |  | js, css, html | Gitter:  https://gitter.im/spb-frontend/talks<br>Slack: http://slack.spb-frontend.ru/ |  |
 | **Scala User Group** |  | Telegram чат о Scala | Telegram: https://t.me/scala_ru |  |
 | **TRUE ASM** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Assembler | Skype: http://goo.gl/CvxDnR |  |
+| **ScalaChat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM, Software Design | Gitter: https://gitter.im/dev-ua/scala<br>Slack: https://scala-ru.herokuapp.com<br>Skype: http://bit.ly/scalachat |  |
 | **SwiftChat** |  | Swift, iOS, OSX | Skype: http://bit.ly/swift_skype_chat |  |
-| **Scala UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM | Gitter: https://gitter.im/dev-ua/scala<br>Skype: http://bit.ly/scala-ua | Skype is a read-only archive |
-| **Startups** |  | Startups, Entrepreneurship | Skype: http://bit.ly/startups-ua-chat |  |
 | **Python** |  | Python сообщество телеграма | Telegram: https://telegram.me/ru_python |  |
 | **Python UA** |  | Python | Skype: http://bit.ly/python-ua |  |
 | **QAC: Automation in testing** |  | QA and Automation | Skype: http://bit.ly/test-automation-chat |  |
@@ -132,18 +132,20 @@
 | **Qt** |  | Qt, QML, QtCreator | Telegram: https://t.me/qt_chat |  |
 | **ReportPortal.io Community** |  | ReportPortal.io Community of Open Sourced tool for test automation | Slack: https://reportportal-slack-auto.herokuapp.com/ |  |
 | **ReactJS** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | ReactJS, Flux, Redux | Gitter: https://gitter.im/dev-ua/reactjs<br>Skype: http://bit.ly/reactjs-chat |  |
-| **SoftwareTesters** | [URKQA](http://www.ukrqa.org.ua) | Интернациональный чат русскоязычных тестировщиков | Slack: https://software-testers.herokuapp.com/ |  |
-| **SalesforceRu** |  | Russian-speaking Salesforce developers | Gitter: https://gitter.im/salesforceru/salesforceru |  |
-| **Ruby&whatever** |  | Ruby | Skype: http://tinyurl.com/rubyconf | Just be a good person. |
+| **Scala UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Scala, JVM | Gitter: https://gitter.im/dev-ua/scala<br>Skype: http://bit.ly/scala-ua | Skype is a read-only archive |
+| **Ruby/RoR** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Ruby, Rails | Gitter: https://gitter.im/dev-ua/ruby-ua<br>Skype: http://bit.ly/ruby-ua<br>Telegram: https://telegram.me/rubylang |  |
+| **Startups** |  | Startups, Entrepreneurship | Skype: http://bit.ly/startups-ua-chat |  |
 | **RustUA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Rust | Gitter: https://gitter.im/dev-ua/rust |  |
 | **Salesforce-Developers.ru** |  | Skype-чат сообщества Salesforce-Developers.ru | Skype: https://join.skype.com/h9hvP9pNxIOc |  |
-| **Нейронные сети (Chatbots and AI Community)** | [![Нейронные сети (Chatbots and AI Community)](./communities/chatbots-and-ai-community.jpg)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) [Нейронные сети (Chatbots and AI Community)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) | Chatbots | Telegram: https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA | Это чат про нейронные сети для членов Chatbots and AI Community. |
-| **TRUE CSS** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | CSS | Skype: http://goo.gl/nsMtB3 |  |
+| **SalesforceRu** |  | Russian-speaking Salesforce developers | Gitter: https://gitter.im/salesforceru/salesforceru |  |
+| **SoftwareTesters** | [URKQA](http://www.ukrqa.org.ua) | Интернациональный чат русскоязычных тестировщиков | Slack: https://software-testers.herokuapp.com/ |  |
 | **Русскоязычное Xamarin сообщество** |  | .NET, Xamarin, Android, iOS, Windows 10 | Telegram: https://t.me/xamarin_russia |  |
+| **TRUE CSS** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | CSS | Skype: http://goo.gl/nsMtB3 |  |
+| **Нейронные сети (Chatbots and AI Community)** | [![Нейронные сети (Chatbots and AI Community)](./communities/chatbots-and-ai-community.jpg)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) [Нейронные сети (Chatbots and AI Community)](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) | Chatbots | Telegram: https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA | Это чат про нейронные сети для членов Chatbots and AI Community. |
 | **TRUE Windows Development** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Development of a Windows Phone/RT/WPF | Skype: http://goo.gl/QZOt3t |  |
-| **TRUE System Administration** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Russian speaking SysAdmins | Skype: http://goo.gl/zNsGAf |  |
-| **TRUE Unix** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | *nix | Skype: http://goo.gl/rQcEPD |  |
 | **TRUE Database** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Databases | Skype: http://goo.gl/JHUouj |  |
+| **TRUE Unix** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | *nix | Skype: http://goo.gl/rQcEPD |  |
+| **TRUE System Administration** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Russian speaking SysAdmins | Skype: http://goo.gl/zNsGAf |  |
 | **TRUE DevOps** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | DevOps | Skype: http://goo.gl/i3MWjC |  |
 | **TRUE HTML/CSS/JS** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | HTML/CSS/JS | Skype: http://goo.gl/NvJ9FK |  |
 | **TRUE InfoSec** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Info Security | Skype: http://goo.gl/NoC6RQ |  |
@@ -151,32 +153,31 @@
 | **TRUE StartUp** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Russian speaking StartUp community. | Skype: http://goo.gl/UnpCEb |  |
 | **TRUE Rust** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Rust | Skype: http://goo.gl/KWHhOV |  |
 | **TRUE Javascript** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | JavaScript | Skype: http://goo.gl/1AtIyI |  |
+| **TRUE LAMP** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Linux/Apache/MySql/PHP, Python, Perl | Skype: http://goo.gl/fbeAGB |  |
 | **TRUE Ruby** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Ruby | Skype: http://goo.gl/g5bvGD |  |
 | **TRUE Python** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Python | Skype: http://goo.gl/c8Ky7e |  |
-| **TRUE LAMP** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Linux/Apache/MySql/PHP, Python, Perl | Skype: http://goo.gl/fbeAGB |  |
-| **True Java** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Java, JVM, Software, Design | Skype: http://tinyurl.com/truejava |  |
-| **Yii Framework** |  | Yii Framework | Gitter: https://gitter.im/php-ua/yii |  |
-| **TRUE iOS** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Development of a iOS | Skype: http://goo.gl/KJnFSN |  |
-| **Visual Studio Code** |  | Чат настройки и разработки плагинов | Telegram: https://t.me/vscode_ru |  |
-| **Unity** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Unity Engine | Gitter: https://gitter.im/dev-ua/unity |  |
 | **VIM** |  | VIM | Skype: http://tinyurl.com/ruvimchat |  |
-| **Vue.js** |  | Vue.js, Javascript | Gitter: https://gitter.im/vuejs-ru/Discussion |  |
-| **TypeScript** |  | TypeScript, russian speaking community | Telegram: https://telegram.me/typescript_ru |  |
-| **pgsql – PostgreSQL** |  | Telegram чат о PostgreSQL | Telegram: https://t.me/pgsql |  |
-| **pro.jvm** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под JVM и Android, Java, Scala, Kotlin, Groovy, Clojure | Telegram: https://telegram.me/jvmchat |  |
-| **golang-ru.slack.com** |  | Go | Slack: http://4gophers.ru/slack |  |
-| **ntwrk** |  | Network Engineers community | Telegram: https://telegram.me/ntwrk |  |
-| **iOS Developers** |  | Русскоговорящее сообщество iOS-разработчиков | Telegram: https://telegram.me/ios_ru |  |
-| **pro.cxx** |  | С/С++ (не для новичков) | Telegram: https://t.me/ProCxx |  |
-| **pro.asm** |  | Assembler, реверс | Telegram: https://t.me/proasm |  |
-| **Zend Framework** |  | Zend Framework | Gitter: https://gitter.im/php-ua/zf |  |
-| **jQuery RUS** |  | jQuery, Javascript | Gitter: https://gitter.im/jqueryrus/chat |  |
-| **phpGeeks 2.2** |  | PHP чат в telegram | Telegram: https://t.me/phpgeeks |  |
-| **YiiJobs** |  | Yii - вакансии, работа, фриланс | Telegram: https://t.me/yiijobs |  |
-| **codingteam** | [codingteam](https://codingteam.org.ru/) | Кроссплатформенное сообщество инженеров и программистов | Gitter: https://gitter.im/codingteam<br>Telegram: https://t.me/codingteam |  |
-| **slack.dev.by** |  | Belarussian dev community (lot of channels on different topics) | Slack: http://slack.dev.by/ |  |
 | **pro.lua** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Правила чата: Тут можно обсуждать все, что связанно с луа - движки, интерпретаторы/компиляторы, питухан-биндинги, скрипты на сталкер: Тени Чернобыля и пр. Запрещена реклама! Срачи и оффтоп не желательны. | Telegram: https://telegram.me/ProLua |  |
-| **pro.python** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под Python | Telegram: https://telegram.me/joinchat/A7kPxzx_o8HpyxsxTskU7g |  |
+| **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA |  |
+| **golang-ru.slack.com** |  | Go | Slack: http://4gophers.ru/slack |  |
+| **iOS Developers** |  | Русскоговорящее сообщество iOS-разработчиков | Telegram: https://telegram.me/ios_ru |  |
+| **phpGeeks 2.2** |  | PHP чат в telegram | Telegram: https://t.me/phpgeeks |  |
+| **TypeScript** |  | TypeScript, russian speaking community | Telegram: https://telegram.me/typescript_ru |  |
+| **pro.jvm** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под JVM и Android, Java, Scala, Kotlin, Groovy, Clojure | Telegram: https://telegram.me/jvmchat |  |
+| **pro.cxx** |  | С/С++ (не для новичков) | Telegram: https://t.me/ProCxx |  |
+| **ntwrk** |  | Network Engineers community | Telegram: https://telegram.me/ntwrk |  |
+| **Zend Framework** |  | Zend Framework | Gitter: https://gitter.im/php-ua/zf |  |
+| **Yii Framework** |  | Yii Framework | Gitter: https://gitter.im/php-ua/yii |  |
+| **codingteam** | [codingteam](https://codingteam.org.ru/) | Кроссплатформенное сообщество инженеров и программистов | Gitter: https://gitter.im/codingteam<br>Telegram: https://t.me/codingteam |  |
+| **Vue.js** |  | Vue.js, Javascript | Gitter: https://gitter.im/vuejs-ru/Discussion |  |
+| **Visual Studio Code** |  | Чат настройки и разработки плагинов | Telegram: https://t.me/vscode_ru |  |
+| **pro.asm** |  | Assembler, реверс | Telegram: https://t.me/proasm |  |
+| **Unity** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | Unity Engine | Gitter: https://gitter.im/dev-ua/unity |  |
+| **True Java** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Java, JVM, Software, Design | Skype: http://tinyurl.com/truejava |  |
+| **YiiJobs** |  | Yii - вакансии, работа, фриланс | Telegram: https://t.me/yiijobs |  |
+| **pgsql – PostgreSQL** |  | Telegram чат о PostgreSQL | Telegram: https://t.me/pgsql |  |
+| **TRUE iOS** | [![TRUE](./communities/true.png)](https://habrahabr.ru/post/242683/) [TRUE](https://habrahabr.ru/post/242683/) | Development of a iOS | Skype: http://goo.gl/KJnFSN |  |
+| **jQuery RUS** |  | jQuery, Javascript | Gitter: https://gitter.im/jqueryrus/chat |  |
 | **supapro.cxx** |  | С++ (для новичков) | Telegram: https://t.me/supapro |  |
 | **Веб-стандарты** |  | HTML, CSS, SVG, JS | Slack: http://slack.web-standards.ru |  |
 | **Понаехавшие ITишники в Берлине** |  | Russian speaking IT community in Berlin, Germany. | Slack: https://slack-files.com/T09S9JDU1-F0HHEG8PK-c9396c730a<br>Skype: http://bit.ly/berlin-ru-it-chat<br>Telegram: https://telegram.me/berlinru |  |
