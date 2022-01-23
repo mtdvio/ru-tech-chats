@@ -197,6 +197,18 @@
     "comments": ""
   },
   {
+    "name": "Coding interviews in a nutshell",
+    "community": {
+      "name": "Coding interviews in a nutshell",
+      "link": "https://t.me/ctci_chat_ru"
+    },
+    "description": "Чат канала про собеседования в FAANG и алгоритмы",
+    "links": {
+      "telegram": "https://t.me/coding_interviews"
+    },
+    "comments": ""
+  },
+  {
     "name": "Clojure Ru",
     "community": "",
     "description": "Clojure, Clojurescript",
